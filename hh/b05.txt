@@ -5,11 +5,11 @@
 275|3|dulieu|Bệnh viện xử lý dữ liệu sức khỏe của bệnh nhân. Khi nào không cần sự đồng ý?|Cấp bách cứu người – không cần chờ đồng ý.|B19
 276|4|dulieu|Công ty lắp phần mềm theo dõi máy tính nhân viên. Phải bảo đảm điều gì?|Dùng công nghệ quản lý – nhân viên phải được biết.|B25
 277|4|dulieu|Anh Ba trượt phỏng vấn. Công ty phải làm gì với hồ sơ của anh (nếu không thỏa thuận khác)?|Không tuyển – xóa, hủy hồ sơ.|B25
-278|2|dulieu|Chị Tư nộp CV xin việc. Thông tin trong CV được dùng vào mục đích gì?|CV chỉ để tuyển dụng (hoặc mục đích đã thỏa thuận hợp pháp).|B25
+278|4|dulieu|Chị Tư nộp CV xin việc. Thông tin trong CV được dùng vào mục đích gì?|CV chỉ để tuyển dụng (hoặc mục đích đã thỏa thuận hợp pháp).|B25
 279|3|nguoila|Khi nào phải ngừng xử lý dữ liệu cá nhân của trẻ em?|Bố mẹ rút đồng ý hoặc cơ quan có thẩm quyền yêu cầu.|B24.3
 280|2|anhrieng|Một kênh YouTube muốn kể chuyện đời tư của bạn Na 8 tuổi. Cần sự đồng ý của ai?|Trẻ từ 7 tuổi – cần cả bé và bố mẹ đồng ý.|B24.2
 281|4|dulieu|Công ty bảo hiểm muốn chuyển dữ liệu khách cho đối tác tái bảo hiểm. Được không?|Được – nhưng phải ghi rõ trong hợp đồng với khách.|B26
-282|2|dulieu|Vân tay, khuôn mặt của Tí là "dữ liệu sinh trắc học". Định nghĩa đúng là gì?|Đặc điểm sinh học riêng, ổn định để xác định một người.|B31.2
+282|4|dulieu|Vân tay, khuôn mặt của Tí là "dữ liệu sinh trắc học". Định nghĩa đúng là gì?|Đặc điểm sinh học riêng, ổn định để xác định một người.|B31.2
 283|4|luat|Tiêu chuẩn về bảo vệ dữ liệu cá nhân được ban hành theo luật nào?|Theo Luật Tiêu chuẩn và quy chuẩn kỹ thuật.|B34
 284|3|webcam|Siêu thị lắp camera nơi công cộng. Họ phải làm gì (trừ khi luật định khác)?|Quay ở nơi công cộng – phải thông báo cho mọi người biết.|B32
 285|3|webcam|Khi nào được ghi hình nơi công cộng mà không cần đồng ý?|Nhiệm vụ quốc phòng, an ninh, trật tự xã hội.|B32
@@ -19,7 +19,7 @@
 289|4|deepfake|Xử lý dữ liệu với AI, blockchain phải tuân thủ nguyên tắc gì?|Đúng mục đích, giới hạn phạm vi cần thiết.|B30
 290|2|anhrieng|Mạng xã hội nào dưới đây đang làm điều bị cấm (trừ khi luật định khác)?|Nghe lén, đọc tin nhắn khi chưa được đồng ý – bị cấm.|B29.5
 291|4|dulieu|Số định danh cá nhân, số hộ chiếu thuộc loại dữ liệu nào?|Số định danh, hộ chiếu – dữ liệu cơ bản.|B;D356
-292|3|dulieu|Lực lượng bảo vệ dữ liệu cá nhân gồm những ai?|Cơ quan chuyên trách, bộ phận trong tổ chức, đơn vị dịch vụ – đủ cả.|B33
+292|4|dulieu|Lực lượng bảo vệ dữ liệu cá nhân gồm những ai?|Cơ quan chuyên trách, bộ phận trong tổ chức, đơn vị dịch vụ – đủ cả.|B33
 293|4|dulieu|Cơ quan chuyên trách trả kết quả hồ sơ đánh giá tác động trong bao lâu?|Trả kết quả trong 15 ngày.|B;D356
 294|4|dulieu|Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới nộp trong bao lâu từ lần chuyển đầu?|60 ngày.|B20
 295|4|dulieu|Báo cáo đánh giá tác động chuyển dữ liệu xuyên biên giới phải mô tả gì?|Mục đích, sơ đồ luồng dữ liệu, phương án an toàn – đủ cả.|B20;D356
@@ -28,32 +28,32 @@
 298|4|dulieu|Hồ sơ năng lực của tổ chức dịch vụ bảo vệ dữ liệu phải thể hiện gì?|Ngành nghề, chính sách, năng lực nhân sự – đủ cả.|B;D356
 299|4|dulieu|Tổ chức dịch vụ bảo vệ dữ liệu phải có tối thiểu bao nhiêu nhân sự đủ điều kiện?|Tối thiểu 3 nhân sự.|B;D356
 300|4|dulieu|Cá nhân làm dịch vụ bảo vệ dữ liệu (thuê ngoài) cần tối thiểu bao nhiêu năm kinh nghiệm?|3 năm kinh nghiệm.|B;D356
-301|3|dulieu|Công ty Việt Nam lưu dữ liệu khách trên máy chủ ở nước ngoài. Đây có phải chuyển dữ liệu xuyên biên giới?|Máy chủ ngoại, đối tác ngoại, nền tảng ngoại – đều là xuyên biên giới.|B20
+301|4|dulieu|Công ty Việt Nam lưu dữ liệu khách trên máy chủ ở nước ngoài. Đây có phải chuyển dữ liệu xuyên biên giới?|Máy chủ ngoại, đối tác ngoại, nền tảng ngoại – đều là xuyên biên giới.|B20
 302|4|dulieu|Cơ quan chức năng yêu cầu hoàn thiện hồ sơ đánh giá tác động. Có bao lâu?|30 ngày để hoàn thiện.|B;D356
 303|4|dulieu|Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân (nội bộ) nộp theo mẫu nào?|Mẫu số 10.|D356
 304|4|dulieu|Nhân sự bảo vệ dữ liệu được chỉ định phải có trình độ tối thiểu là gì?|Cao đẳng trở lên.|B;D356
 305|4|dulieu|Chỉ định nhân sự bảo vệ dữ liệu trong tổ chức phải bằng hình thức nào?|Bằng văn bản chính thức.|B;D356
-306|2|dulieu|Hồ sơ khám bệnh và vân tay của bà nội thuộc loại dữ liệu nào?|Sức khỏe, sinh trắc – dữ liệu nhạy cảm.|B;D356
+306|3|dulieu|Hồ sơ khám bệnh và vân tay của bà nội thuộc loại dữ liệu nào?|Sức khỏe, sinh trắc – dữ liệu nhạy cảm.|B;D356
 307|3|dulieu|"Quan điểm chính trị, tôn giáo" là dữ liệu nhạy cảm – đúng hay sai?|Đúng – thuộc dữ liệu nhạy cảm.|B;D356
 308|4|dulieu|Bộ phận bảo vệ dữ liệu cá nhân trong công ty có nhiệm vụ gì?|Chính sách, quyền chủ thể, hồ sơ đánh giá – đủ cả.|B;D356
 309|4|dulieu|Kinh nghiệm ở lĩnh vực nào được tính cho nhân sự bảo vệ dữ liệu?|Pháp chế, CNTT, ANM, rủi ro, nhân sự – đều tính.|B;D356
 310|4|dulieu|Nhân sự bảo vệ dữ liệu cần ít nhất bao nhiêu năm kinh nghiệm?|2 năm.|B;D356
 311|4|dulieu|Trường hợp nào không phải đánh giá tác động chuyển dữ liệu xuyên biên giới?|Báo chí, cứu người khẩn cấp, xin visa/học bổng – đều miễn.|B20;D356
-312|3|luat|Nghị định 13/2023 về bảo vệ dữ liệu cá nhân hết hiệu lực từ khi nào?|Từ 01/01/2026 – khi Luật BVDLCN có hiệu lực.|B39
+312|4|luat|Nghị định 13/2023 về bảo vệ dữ liệu cá nhân hết hiệu lực từ khi nào?|Từ 01/01/2026 – khi Luật BVDLCN có hiệu lực.|B39
 313|4|dulieu|Doanh nghiệp siêu nhỏ xử lý dữ liệu của bao nhiêu người trở lên thì phải lập hồ sơ đánh giá tác động?|Từ 100.000 chủ thể trở lên.|B;D356
 314|4|dulieu|Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước lấy từ đâu?|Ngân sách nhà nước.|B
 315|4|dulieu|Giấy chứng nhận bị mất, hỏng – cấp lại trong bao lâu?|5 ngày làm việc.|D356
 316|4|dulieu|Bị thu hồi Giấy chứng nhận, tổ chức phải nộp lại trong bao lâu?|5 ngày làm việc.|D356
 317|4|dulieu|Tổ chức không kinh doanh dịch vụ bao lâu thì bị thu hồi Giấy chứng nhận?|12 tháng không hoạt động – bị thu hồi.|D356
-318|2|baocao|Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân có chức năng gì?|Tuyên truyền, hướng dẫn, nhận phản ánh – đủ cả.|B
+318|4|baocao|Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân có chức năng gì?|Tuyên truyền, hướng dẫn, nhận phản ánh – đủ cả.|B
 319|4|dulieu|Khai thác dữ liệu cá nhân thí điểm cơ chế đặc biệt nhằm phát triển lĩnh vực nào?|Khoa học, công nghệ, chuyển đổi số quốc gia.|B18
-320|3|dulieu|Xử lý dữ liệu khẩn cấp để cứu người. Bên xử lý có trách nhiệm gì?|Phải chứng minh đúng là khẩn cấp.|B19
+320|4|dulieu|Xử lý dữ liệu khẩn cấp để cứu người. Bên xử lý có trách nhiệm gì?|Phải chứng minh đúng là khẩn cấp.|B19
 321|4|dulieu|Hồ sơ đánh giá tác động làm mấy lần cho suốt thời gian hoạt động?|1 lần, cập nhật khi có thay đổi.|B21;B22
 322|2|anhrieng|Mẹ muốn đăng chuyện riêng của Tí (8 tuổi) lên báo. Cần những ai đồng ý?|Từ 7 tuổi – cần Tí và bố mẹ đồng ý.|B24.2
-323|3|dulieu|Doanh nghiệp phải xóa dữ liệu người lao động khi nào?|Chấm dứt hợp đồng – xóa (trừ khi có thỏa thuận khác).|B25
+323|4|dulieu|Doanh nghiệp phải xóa dữ liệu người lao động khi nào?|Chấm dứt hợp đồng – xóa (trừ khi có thỏa thuận khác).|B25
 324|4|dulieu|Thẩm định và quyết định cấp Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu trong bao lâu?|30 ngày từ khi đủ hồ sơ.|D356
 325|4|dulieu|Đơn đề nghị cấp Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu theo mẫu nào?|Mẫu số 04.|D356
-326|3|dulieu|Ai cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân?|Bộ Công an.|B;D356
+326|4|dulieu|Ai cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân?|Bộ Công an.|B;D356
 327|4|dulieu|Tổ chức kinh doanh dịch vụ xử lý dữ liệu đánh giá tín nhiệm định kỳ bao lâu?|1 năm một lần.|D356
 328|4|dulieu|Người phụ trách chuyên môn của tổ chức kinh doanh dịch vụ xử lý dữ liệu phải là ai?|Công dân Việt Nam thường trú tại Việt Nam.|D356
 329|4|dulieu|Dịch vụ nào thuộc "Dịch vụ xử lý dữ liệu cá nhân"?|Chấm điểm tín nhiệm, mã hóa, phân tích Big Data – đều thuộc.|B;D356

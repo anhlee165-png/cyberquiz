@@ -1,8 +1,8 @@
-341|2|luat|Luật Bảo vệ dữ liệu cá nhân 2025 do Quốc hội khóa mấy thông qua? (Gợi ý: nhìn số hiệu 91/2025/QH15)|QH15 – Quốc hội khóa XV.|B
+341|4|luat|Luật Bảo vệ dữ liệu cá nhân 2025 do Quốc hội khóa mấy thông qua? (Gợi ý: nhìn số hiệu 91/2025/QH15)|QH15 – Quốc hội khóa XV.|B
 342|4|luat|Công ty X vi phạm bảo vệ dữ liệu (không phải mua bán hay chuyển ra nước ngoài). Mức phạt tối đa là bao nhiêu?|Vi phạm khác – tối đa 3 tỷ đồng.|B8
 343|4|dulieu|Yêu cầu của chủ thể dữ liệu quá phức tạp. Được gia hạn tối đa bao lâu?|Gia hạn 15 ngày, chỉ 1 lần.|B;D356
-344|3|dulieu|Công ty bảo hiểm xin bệnh viện hồ sơ sức khỏe của bác Tư. Bệnh viện chỉ được cung cấp khi nào?|Chỉ khi chính chủ yêu cầu bằng văn bản.|B26
-345|3|luat|Nghị định 356/2025/NĐ-CP hướng dẫn Luật BVDLCN có hiệu lực từ ngày nào?|Cùng ngày với Luật – 01/01/2026.|B;D356
+344|4|dulieu|Công ty bảo hiểm xin bệnh viện hồ sơ sức khỏe của bác Tư. Bệnh viện chỉ được cung cấp khi nào?|Chỉ khi chính chủ yêu cầu bằng văn bản.|B26
+345|4|luat|Nghị định 356/2025/NĐ-CP hướng dẫn Luật BVDLCN có hiệu lực từ ngày nào?|Cùng ngày với Luật – 01/01/2026.|B;D356
 346|3|webcam|Camera ở công viên ghi hình mọi người. Dữ liệu được lưu bao lâu?|Lưu vừa đủ thời gian cần cho mục đích.|B32
 347|4|baocao|Thông báo vi phạm bảo vệ dữ liệu (Mẫu số 08) gồm những thông tin gì?|Thời gian, hành vi, dữ liệu ảnh hưởng, hậu quả – đủ cả.|B23;D356
 348|4|dulieu|Dữ liệu vân tay khách hàng bị lộ. Phải báo cho chủ thể trong bao lâu?|Sự cố sinh trắc – báo trong 72 giờ.|B;D356
@@ -12,26 +12,26 @@
 352|4|dulieu|Nhân sự bảo vệ dữ liệu nội bộ cần ít nhất bao nhiêu năm kinh nghiệm?|2 năm.|B;D356
 353|4|dulieu|Nhân sự bảo vệ dữ liệu nội bộ cần trình độ tối thiểu gì?|Cao đẳng trở lên.|B;D356
 354|3|game|Trong metaverse, avatar của Bin lưu đầy lịch sử hành vi. Bin có quyền gì với hồ sơ nhận dạng của mình?|Sửa, ẩn danh, xóa – kể cả có lịch sử hành vi.|B30
-355|3|game|Metaverse (vũ trụ ảo) là gì?|Vũ trụ số: mạng xã hội + AR/VR + Internet + tiền điện tử.|B30
+355|4|game|Metaverse (vũ trụ ảo) là gì?|Vũ trụ số: mạng xã hội + AR/VR + Internet + tiền điện tử.|B30
 356|4|dulieu|Doanh nghiệp giải thể, phá sản – cập nhật hồ sơ trong bao lâu?|10 ngày.|B22;D356
 357|3|webcam|Dữ liệu từ camera nơi công cộng được lưu trữ bao lâu?|Đủ thời gian cần thiết cho mục đích thu thập.|B32
 358|3|dulieu|Dữ liệu đã khử nhận dạng thì không được tái nhận dạng – đúng hay sai?|Đúng – đã khử thì không tái nhận dạng (trừ luật định khác).|B14
 359|2|dulieu|Tèo sửa lại ngày sinh bị ghi nhầm trong hồ sơ. Việc chỉnh sửa phải bảo đảm điều gì?|Sửa dữ liệu – phải chính xác.|B13
 360|4|luat|Danh mục dữ liệu cá nhân nhạy cảm do ai ban hành?|Chính phủ ban hành danh mục.|B2
 361|3|matkhau|Dữ liệu cá nhân đã mã hóa thành chuỗi loằng ngoằng – còn là dữ liệu cá nhân không?|Mã hóa rồi vẫn là dữ liệu cá nhân.|B12
-362|2|luat|Cơ quan Đảng, Nhà nước phân tích dữ liệu cá nhân để làm gì?|Phục vụ lãnh đạo, quản lý, phát triển kinh tế – xã hội.|B11
+362|4|luat|Cơ quan Đảng, Nhà nước phân tích dữ liệu cá nhân để làm gì?|Phục vụ lãnh đạo, quản lý, phát triển kinh tế – xã hội.|B11
 363|4|luat|Ai quy định cách tính khoản thu từ hành vi vi phạm pháp luật bảo vệ dữ liệu?|Chính phủ quy định.|B8
 364|3|dulieu|Mai muốn rút lại sự đồng ý cho app dùng dữ liệu. Phải làm bằng hình thức nào?|Rút đồng ý bằng văn bản (kể cả điện tử).|B10
 365|1|dulieu|Ứng dụng hỏi: "Cho mình dùng ảnh của bạn nhé?" Ốc Sên không trả lời gì. Im lặng có phải là đồng ý không?|Im lặng không phải là đồng ý, nhớ kỹ!|B9.4d
 366|2|dulieu|Sự đồng ý của bạn cho app dùng dữ liệu có hiệu lực đến khi nào?|Đến khi bạn đổi ý hoặc theo pháp luật.|B9
-367|3|dulieu|Xử lý dữ liệu khẩn cấp để cứu người – ai phải chứng minh?|Bên kiểm soát, bên xử lý hoặc bên thứ ba thực hiện.|B19
+367|4|dulieu|Xử lý dữ liệu khẩn cấp để cứu người – ai phải chứng minh?|Bên kiểm soát, bên xử lý hoặc bên thứ ba thực hiện.|B19
 368|4|baocao|Mẫu số 04 tại Nghị định 356/2025 là văn bản gì?|Mẫu 04 – Đơn đề nghị cấp Giấy chứng nhận.|D356
 369|4|taikhoan|Tổ chức kinh doanh dịch vụ xử lý dữ liệu xác thực danh tính theo luật nào?|Theo pháp luật về định danh và xác thực điện tử.|B;D356
 370|4|dulieu|Kiểm tra định kỳ chuyển dữ liệu xuyên biên giới tối đa mấy lần?|Không quá 1 lần/năm (trừ khi vi phạm).|B20
-371|3|luat|Luật Bảo vệ dữ liệu cá nhân được thông qua tại kỳ họp thứ mấy của Quốc hội khóa XV?|Kỳ họp thứ 9.|B
-372|3|luat|Cá nhân vi phạm giống tổ chức thì bị phạt tiền tối đa bao nhiêu?|Cá nhân – một nửa mức của tổ chức.|B8
-373|2|luat|Bảo vệ dữ liệu cá nhân phải tuân thủ văn bản nào cao nhất?|Hiến pháp là cao nhất.|B3
-374|2|baocao|Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân do ai quản lý, vận hành?|Bộ Công an.|B;D356
+371|4|luat|Luật Bảo vệ dữ liệu cá nhân được thông qua tại kỳ họp thứ mấy của Quốc hội khóa XV?|Kỳ họp thứ 9.|B
+372|4|luat|Cá nhân vi phạm giống tổ chức thì bị phạt tiền tối đa bao nhiêu?|Cá nhân – một nửa mức của tổ chức.|B8
+373|4|luat|Bảo vệ dữ liệu cá nhân phải tuân thủ văn bản nào cao nhất?|Hiến pháp là cao nhất.|B3
+374|4|baocao|Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân do ai quản lý, vận hành?|Bộ Công an.|B;D356
 375|4|deepfake|Giám sát hoạt động AI được thiết lập trên những phương diện nào?|Nhà nước giám sát + bên kiểm soát giải trình.|B;D356
 376|4|dulieu|Hồ sơ vi phạm dữ liệu vị trí, sinh trắc phải lưu tối thiểu bao lâu?|Tối thiểu 5 năm.|B;D356
 377|4|baocao|Phát hiện vi phạm gây tổn hại an ninh quốc gia – báo Bộ Công an trong bao lâu?|72 giờ kể từ khi phát hiện.|B23
@@ -41,17 +41,17 @@
 381|4|baocao|Mẫu số 08 tại Nghị định 356/2025 dùng để làm gì?|Mẫu 08 – thông báo vi phạm.|D356
 382|4|dulieu|Tổ chức dịch vụ bảo vệ dữ liệu cần tối thiểu bao nhiêu nhân sự đủ năng lực?|3 nhân sự.|B;D356
 383|4|dulieu|Nhà cung cấp điện toán đám mây phải yêu cầu nhà thầu phụ làm gì?|Nhà thầu phụ cũng phải bảo vệ dữ liệu theo luật.|B;D356
-384|3|dulieu|Bảo vệ dữ liệu vân tay, khuôn mặt bắt buộc phải có biện pháp nào?|Bảo mật cả vật lý thiết bị lưu trữ, truyền tải.|B31
-385|3|deepfake|Xử lý dữ liệu bằng AI phân loại theo tiêu chí nào?|Theo mức độ rủi ro.|B30
+384|4|dulieu|Bảo vệ dữ liệu vân tay, khuôn mặt bắt buộc phải có biện pháp nào?|Bảo mật cả vật lý thiết bị lưu trữ, truyền tải.|B31
+385|4|deepfake|Xử lý dữ liệu bằng AI phân loại theo tiêu chí nào?|Theo mức độ rủi ro.|B30
 386|4|luat|Cơ quan nào cùng Bộ Công an xây dựng quy chuẩn khử nhận dạng dữ liệu?|Bộ Khoa học và Công nghệ.|B14
 387|4|dulieu|Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu bị thu hồi khi ngừng hoạt động bao lâu?|12 tháng trở lên.|D356
-388|3|luat|Kinh phí bảo vệ dữ liệu ở cơ quan nhà nước lấy từ đâu?|Ngân sách nhà nước.|B
-389|3|luat|Bộ Quốc phòng quản lý nhà nước về bảo vệ dữ liệu cá nhân trong phạm vi nào?|Phạm vi Bộ Quốc phòng quản lý.|B36
+388|4|luat|Kinh phí bảo vệ dữ liệu ở cơ quan nhà nước lấy từ đâu?|Ngân sách nhà nước.|B
+389|4|luat|Bộ Quốc phòng quản lý nhà nước về bảo vệ dữ liệu cá nhân trong phạm vi nào?|Phạm vi Bộ Quốc phòng quản lý.|B36
 390|4|luat|Hồ sơ đã nộp theo Nghị định 13/2023 trước khi Luật mới có hiệu lực thì sao?|Tiếp tục dùng, không phải lập lại.|B39
 391|4|dulieu|Hồ sơ đánh giá tác động xử lý dữ liệu cập nhật định kỳ bao lâu?|6 tháng khi có thay đổi.|B22
-392|3|dulieu|Ai cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu?|Bộ Công an.|B;D356
+392|4|dulieu|Ai cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu?|Bộ Công an.|B;D356
 393|4|dulieu|Xử lý dữ liệu lớn (Big Data) có đặc điểm nào?|Quy mô lớn, nhiều nguồn, dự đoán xu hướng – đủ cả.|B
 394|4|dulieu|Bị thu hồi Giấy chứng nhận – nộp lại trong bao nhiêu ngày làm việc?|5 ngày làm việc.|D356
 395|4|luat|Một trách nhiệm của UBND cấp tỉnh về bảo vệ dữ liệu cá nhân là gì?|Lồng ghép vào cải cách hành chính, chuyển đổi số.|B36
-396|3|matkhau|Xác thực mạnh khi xử lý dữ liệu lớn yêu cầu tối thiểu gì?|Xác thực đa yếu tố.|B30
+396|4|matkhau|Xác thực mạnh khi xử lý dữ liệu lớn yêu cầu tối thiểu gì?|Xác thực đa yếu tố.|B30
 397|4|baocao|Ai nộp hồ sơ chuyển dữ liệu xuyên biên giới theo Mẫu số 01b?|Mẫu 01b – cá nhân nộp.|D356
