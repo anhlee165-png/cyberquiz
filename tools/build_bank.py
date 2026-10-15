@@ -28,7 +28,7 @@ for f in sorted(glob.glob(R+'/bank/c*.txt')):
         opts=[c,w1,w2,w3]; rnd.shuffle(opts)
         orig.append({'level':int(lv),'difficulty':int(df),'tags':tags.split(','),'image':f'img/{img}.svg','situation':sit,'options':opts,'answer':opts.index(c),'spell':sp,'legal':law(lw),'source':'ORIGINAL'})
 # drop 3 originals from the most crowded level (4): last three of level 4
-l4=[i for i,q in enumerate(orig) if q['level']==4][-3:]
+l4=[len(orig)-3,len(orig)-2,len(orig)-1]  # fixed: last 3 lines of bank/c4.txt
 orig=[q for i,q in enumerate(orig) if i not in l4]
 src={x['n']:x for x in json.load(open('/workspace/hhanm/questions.json',encoding='utf-8'))}
 NOSH=re.compile(r'tất cả|cả 3|cả ba|cả a|cả hai|các phương án|các đáp án',re.I)

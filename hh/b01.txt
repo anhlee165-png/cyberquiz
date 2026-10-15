@@ -14,14 +14,14 @@
 14|4|luat|Hai anh luật sư cãi nhau: Luật ANM 2025 có thay cụm "an toàn thông tin mạng" bằng "an ninh mạng" trong Luật Phí và lệ phí không?|Một luật mới – đổi tên nhiều nơi.|A43
 15|2|luat|Tí hỏi: "Vi phạm luật an ninh mạng thì chỉ bị khóa nick thôi đúng không?" Bạn trả lời sao?|Vi phạm nặng – có thể đi “học” ở nơi không có wifi.|A42.2
 16|4|luat|Thầy giáo đố: Luật ANM 2025 sửa cụm "an toàn thông tin" thành "an ninh mạng" trong luật nào?|Đổi tên đồng loạt – cả ba luật.|A43
-17|1|luat|Mèo Mít hỏi bố: "Bảo vệ an ninh mạng phải tuân theo văn bản 'xịn' nhất nào?" Bố trả lời…|Văn bản cao nhất – Hiến pháp.|A4
+17|2|luat|Mèo Mít hỏi bố: "Bảo vệ an ninh mạng phải tuân theo văn bản 'xịn' nhất nào?" Bố trả lời…|Văn bản cao nhất – Hiến pháp.|A4
 18|2|hack|Trong phim hành động, kẻ xấu tấn công mạng để làm loạn đất nước. "Khủng bố mạng" nhằm mục đích gì về chính trị?|Khủng bố mạng – muốn đất nước rối loạn.|A2
 19|4|luat|Phòng IT của Bộ X cần cho quản trị viên hệ thống đi tập huấn chuyên sâu về an ninh mạng. Ai phối hợp tổ chức?|Tập huấn chuyên sâu – Bộ Công an phối hợp các bộ, ngành.|A34
 20|2|luat|Cún Bông xem ảnh văn bản luật và thắc mắc chữ ký cuối cùng là của ai. Luật An ninh mạng 2025 do ai ký?|Luật do Quốc hội thông qua – Chủ tịch Quốc hội ký.|A
 21|4|luat|Công ty anh Ba có sản phẩm ANM đưa vào dùng trước khi luật có hiệu lực. Anh có bao lâu để đáp ứng điều kiện mới?|Đồ cũ, luật mới – 12 tháng để “nâng cấp”.|A45
 22|4|luat|Hệ thống thông tin của trường đại học phải bảo đảm điều kiện ANM theo luật mới. Thời gian chuyển tiếp là bao lâu?|Chuyển tiếp: 12 tháng tính từ ngày luật có hiệu lực.|A45
 23|3|luat|Ông nội đọc báo hỏi: "Luật An toàn thông tin mạng 2015 giờ còn dùng không cháu?" Bạn trả lời…|Luật mới vào – luật cũ “nghỉ hưu”.|A44.2
-24|1|luat|Cô giáo đố: "Luật An ninh mạng 2025 có hiệu lực vào mùa nào năm 2026?" Mèo Mít đang cầm cây kem nghĩ ngay ra đáp án…|Mùa hè tháng 7 – luật mới “nóng hổi”.|A44.1
+24|3|luat|Cô giáo đố: "Luật An ninh mạng 2025 có hiệu lực vào mùa nào năm 2026?" Mèo Mít đang cầm cây kem nghĩ ngay ra đáp án…|Mùa hè tháng 7 – luật mới “nóng hổi”.|A44.1
 25|3|luat|Chị luật sư hỏi đồng nghiệp: Luật Giao dịch điện tử cũng được sửa vài cụm từ cho khớp với Luật ANM 2025 – đúng hay sai?|Luật mới “chỉnh tề” luôn cả luật hàng xóm.|A43
 26|2|taikhoan|Tí dùng máy tính cơ quan của mẹ, có tài khoản riêng, lại biết thông tin của bạn bè. Người dùng mạng có trách nhiệm bảo mật những gì?|Bảo mật tất cả: của mình, của người, của cơ quan.|A42.2;B4.2b
 27|4|luat|Công ty có giấy phép kinh doanh sản phẩm an toàn thông tin mạng cấp từ trước khi luật mới có hiệu lực. Giấy phép đó thì sao?|Giấy phép cũ còn hạn – dùng tới hết hạn.|A45
@@ -33,11 +33,11 @@
 33|3|hack|Ứng dụng giao đồ ăn bị sự cố an ninh mạng. Doanh nghiệp phải làm gì?|Có sự cố: ứng cứu, báo cáo, phối hợp – đủ ba việc.|A41
 34|4|luat|Bạn A nói: "Luật ANM 2025 đổi từ 'an toàn thông tin mạng' thành 'an ninh mạng' trong nhiều luật khác." Đúng hay sai?|Một luật mới – đổi tên hàng loạt.|A43
 35|3|luat|Bà ngoại hỏi: "Luật An toàn thông tin mạng 86/2015 hết hiệu lực bao giờ?"|Luật mới chạy – luật cũ dừng.|A44.2
-36|1|luat|Mèo Mít đánh dấu lịch: ngày Luật An ninh mạng 2025 bắt đầu có hiệu lực là ngày nào?|01/7/2026 – nhớ “mùng 1 tháng 7”.|A44.1
+36|3|luat|Mèo Mít đánh dấu lịch: ngày Luật An ninh mạng 2025 bắt đầu có hiệu lực là ngày nào?|01/7/2026 – nhớ “mùng 1 tháng 7”.|A44.1
 37|2|luat|Tí phá hỏng tài khoản game của bạn bằng cách xâm nhập trái phép, gây thiệt hại. Tí có phải bồi thường không?|Gây thiệt hại – phải bồi thường.|A42.2
 38|4|luat|Hệ thống đã được xác định cấp độ theo luật cũ có thời gian chuyển tiếp bao lâu?|Chuyển tiếp 12 tháng – khỏi lo “sốc luật”.|A45
 39|4|luat|Phòng IT có 5 người: ai bắt buộc phải đi tập huấn kỹ năng chuyên sâu về an ninh mạng?|Quản trị hệ thống cấp độ 3, 4, 5 – bắt buộc tập huấn.|A34
-40|1|luat|Ông nội hỏi Cún Bông: "Sao Nhà nước lại ưu tiên dạy an ninh mạng cho trẻ con và người già như ông?"|Biết để tự bảo vệ mình trên mạng.|A35.1
+40|2|luat|Ông nội hỏi Cún Bông: "Sao Nhà nước lại ưu tiên dạy an ninh mạng cho trẻ con và người già như ông?"|Biết để tự bảo vệ mình trên mạng.|A35.1
 41|2|luat|Câu nói "Chính phủ thống nhất quản lý nhà nước về an ninh mạng" – đúng hay sai?|Cả nước – Chính phủ thống nhất quản lý.|A39
 42|3|luat|Mèo Mít làm poster "Bộ Công an quản lý nhà nước về ANM những gì?" Đáp án đầy đủ là?|Bộ Công an: phòng chống tội phạm, thanh tra, chiến lược.|A39
 43|4|luat|Chị kế toán đơn vị dùng ngân sách nhà nước tính kinh phí: tối thiểu bao nhiêu % kinh phí CNTT phải dành cho an ninh mạng?|15% tiền CNTT dành cho an ninh mạng.|A38
@@ -46,7 +46,7 @@
 46|2|hack|Tí hỏi: "Dịch vụ an ninh mạng là gì vậy anh?" Đâu là đáp án đầy đủ?|Tư vấn, ứng cứu, khôi phục – đều là dịch vụ ANM.|A28
 47|2|hack|Mèo Mít đi hội chợ công nghệ. Sản phẩm an ninh mạng gồm loại nào?|Mật mã, chống xâm nhập, giám sát – đều là sản phẩm ANM.|A28
 48|2|dulieu|Tí giữ "kho báu dữ liệu" của lớp. Bảo đảm an ninh dữ liệu cần biện pháp gì?|Kỹ thuật + tổ chức + pháp lý = dữ liệu an toàn.|A26
-49|1|game|Cún Bông 9 tuổi muốn chơi game giáo dục và tham gia CLB online. Trẻ em có quyền vui chơi, tham gia hoạt động xã hội trên mạng không?|Trẻ em có quyền vui chơi trên mạng – an toàn là trên hết.|A16.1
+49|1|game|Cún Bông 9 tuổi hỏi: "Con được chơi game học tập và vào câu lạc bộ trên mạng không mẹ?" Trẻ em có quyền vui chơi trên mạng không?|Trẻ em được vui chơi, vui mà an toàn mới hay!|A16.1
 50|3|hack|Trong phim gián điệp, nhân vật làm nhiều việc mờ ám trên mạng. Hành vi nào là gián điệp mạng?|Xâm nhập, làm lộ bí mật, nghe lén – đều là gián điệp mạng.|A15
 51|4|luat|Bộ Y tế có đội bảo vệ ANM riêng. Lực lượng bảo vệ ANM tại bộ, ngành do ai trực tiếp quản lý?|Đội ANM ở bộ nào – bộ đó (chủ quản) quản lý.|A30
 52|3|hack|Doanh nghiệp bán phần mềm bảo mật phát hiện khách dùng sản phẩm để làm việc phạm pháp. Phải làm gì?|Khách phạm pháp – ngừng bán.|A29
