@@ -14,7 +14,7 @@
 284|3|webcam|Siêu thị lắp camera nơi công cộng. Họ phải làm gì (trừ khi luật định khác)?|Quay ở nơi công cộng – phải thông báo cho mọi người biết.|B32
 285|3|webcam|Khi nào được ghi hình nơi công cộng mà không cần đồng ý?|Nhiệm vụ quốc phòng, an ninh, trật tự xã hội.|B32
 286|4|dulieu|Dữ liệu vân tay của khách bị xử lý gây thiệt hại. Tổ chức phải làm gì?|Gây thiệt hại – phải thông báo cho chủ thể.|B31.4b
-287|1|dulieu|Điện thoại của Cún Bông biết Cún đang ở đâu. "Dữ liệu vị trí cá nhân" xác định qua công nghệ nào?|Định vị (GPS, RFID…) biết bạn ở đâu.|B31.1
+287|2|dulieu|Điện thoại của Cún Bông biết Cún đang ở đâu. "Dữ liệu vị trí cá nhân" xác định qua công nghệ nào?|Định vị (GPS, RFID…) biết bạn ở đâu.|B31.1
 288|2|dulieu|App mạng xã hội đòi ảnh căn cước để xác thực tài khoản. Theo luật?|Không được đòi ảnh, video giấy tờ tùy thân để xác thực.|B29.2
 289|4|deepfake|Xử lý dữ liệu với AI, blockchain phải tuân thủ nguyên tắc gì?|Đúng mục đích, giới hạn phạm vi cần thiết.|B30
 290|2|anhrieng|Mạng xã hội nào dưới đây đang làm điều bị cấm (trừ khi luật định khác)?|Nghe lén, đọc tin nhắn khi chưa được đồng ý – bị cấm.|B29.5
@@ -49,7 +49,7 @@
 319|4|dulieu|Khai thác dữ liệu cá nhân thí điểm cơ chế đặc biệt nhằm phát triển lĩnh vực nào?|Khoa học, công nghệ, chuyển đổi số quốc gia.|B18
 320|3|dulieu|Xử lý dữ liệu khẩn cấp để cứu người. Bên xử lý có trách nhiệm gì?|Phải chứng minh đúng là khẩn cấp.|B19
 321|4|dulieu|Hồ sơ đánh giá tác động làm mấy lần cho suốt thời gian hoạt động?|1 lần, cập nhật khi có thay đổi.|B21;B22
-322|1|anhrieng|Mẹ muốn đăng chuyện riêng của Tí (8 tuổi) lên báo. Cần những ai đồng ý?|Từ 7 tuổi – cần Tí và bố mẹ đồng ý.|B24.2
+322|2|anhrieng|Mẹ muốn đăng chuyện riêng của Tí (8 tuổi) lên báo. Cần những ai đồng ý?|Từ 7 tuổi – cần Tí và bố mẹ đồng ý.|B24.2
 323|3|dulieu|Doanh nghiệp phải xóa dữ liệu người lao động khi nào?|Chấm dứt hợp đồng – xóa (trừ khi có thỏa thuận khác).|B25
 324|4|dulieu|Thẩm định và quyết định cấp Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu trong bao lâu?|30 ngày từ khi đủ hồ sơ.|D356
 325|4|dulieu|Đơn đề nghị cấp Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu theo mẫu nào?|Mẫu số 04.|D356
@@ -64,7 +64,7 @@
 334|3|webcam|Khi nào ghi hình nơi công cộng không cần đồng ý?|An ninh, sự kiện công cộng, nhiệm vụ quốc phòng – đều được.|B32
 335|3|deepfake|Hệ thống AI dùng dữ liệu cá nhân bị cấm phát triển nếu gây hại đến đâu?|Hại quốc phòng, trật tự xã hội, danh dự tài sản người khác – đều cấm.|B30
 336|4|deepfake|Xử lý dữ liệu bằng AI phải phân loại theo tiêu chí nào?|Theo mức độ rủi ro.|B30
-337|1|anhrieng|Ứng dụng mạng xã hội không được ghi âm cuộc gọi của Mèo Mít nếu không có sự đồng ý của ai?|Của chính chủ thể dữ liệu – Mèo Mít.|B29.5
+337|2|anhrieng|Ứng dụng mạng xã hội không được ghi âm cuộc gọi của Mèo Mít nếu không có sự đồng ý của ai?|Của chính chủ thể dữ liệu – Mèo Mít.|B29.5
 338|4|dulieu|Dịch vụ quảng cáo có được thuê bên khác làm thay toàn bộ không?|Không được khoán trắng.|B28
 339|2|taikhoan|Ngân hàng phải báo cho khách khi xảy ra chuyện gì với dữ liệu?|Lộ, mất thông tin tài khoản, tín dụng.|B27
 340|4|dulieu|Nhận yêu cầu xóa dữ liệu, bên kiểm soát làm trong bao nhiêu ngày?|20 ngày.|B;D356

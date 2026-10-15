@@ -22,7 +22,7 @@
 362|2|luat|Cơ quan Đảng, Nhà nước phân tích dữ liệu cá nhân để làm gì?|Phục vụ lãnh đạo, quản lý, phát triển kinh tế – xã hội.|B11
 363|4|luat|Ai quy định cách tính khoản thu từ hành vi vi phạm pháp luật bảo vệ dữ liệu?|Chính phủ quy định.|B8
 364|3|dulieu|Mai muốn rút lại sự đồng ý cho app dùng dữ liệu. Phải làm bằng hình thức nào?|Rút đồng ý bằng văn bản (kể cả điện tử).|B10
-365|1|dulieu|App hỏi "Cho dùng ảnh của bạn nhé?", Ốc Sên không trả lời. Im lặng có phải là đồng ý?|Im lặng không phải là đồng ý.|B9.4d
+365|1|dulieu|Ứng dụng hỏi: "Cho mình dùng ảnh của bạn nhé?" Ốc Sên không trả lời gì. Im lặng có phải là đồng ý không?|Im lặng không phải là đồng ý, nhớ kỹ!|B9.4d
 366|2|dulieu|Sự đồng ý của bạn cho app dùng dữ liệu có hiệu lực đến khi nào?|Đến khi bạn đổi ý hoặc theo pháp luật.|B9
 367|3|dulieu|Xử lý dữ liệu khẩn cấp để cứu người – ai phải chứng minh?|Bên kiểm soát, bên xử lý hoặc bên thứ ba thực hiện.|B19
 368|4|baocao|Mẫu số 04 tại Nghị định 356/2025 là văn bản gì?|Mẫu 04 – Đơn đề nghị cấp Giấy chứng nhận.|D356
