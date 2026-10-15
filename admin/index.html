@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>Quản trị · Phổ biến pháp luật An ninh mạng</title>
+<style>
+:root{--navy:#0b2a6f;--red:#c8102e;--gold:#f6c343;--line:#d8e1f0;--mute:#5b6b88;--ok:#15803d;--bad:#c8102e}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:#eef3fb;color:#14213d}
+header{background:var(--navy);color:#fff;padding:12px 16px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}header h1{font-size:18px;margin:0;flex:1}
+.wrap{max-width:1100px;margin:0 auto;padding:14px}.card{background:#fff;border-radius:14px;padding:16px;box-shadow:0 4px 18px rgba(0,0,0,.08);margin-bottom:14px}
+input,select,textarea{font:inherit;width:100%;padding:9px 10px;border:1.5px solid var(--line);border-radius:10px;background:#fff}textarea{min-height:70px}
+label{display:block;font-size:13px;color:var(--mute);margin:8px 0 3px}
+.btn{border:0;border-radius:10px;padding:9px 14px;font:inherit;font-weight:700;cursor:pointer;background:var(--red);color:#fff}
+.btn.n{background:var(--navy)}.btn.g{background:#fff;color:var(--navy);box-shadow:inset 0 0 0 1.5px var(--line)}.btn.s{padding:5px 9px;font-size:13px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap}.tabs .btn{background:#ffffff22}.tabs .btn.on{background:var(--gold);color:var(--navy)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+.msg{padding:8px 10px;border-radius:8px;margin-top:8px;font-size:14px}.msg.err{background:#fff1f2;color:var(--bad)}.msg.ok{background:#ecfdf3;color:var(--ok)}
+.hide{display:none!important}.pill{display:inline-block;padding:2px 8px;border-radius:99px;background:#e0e7ff;font-size:12px;margin:1px}
+.thumb{width:72px;height:44px;object-fit:contain;background:#f3f6fc;border-radius:6px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:end}.row>*{flex:1;min-width:140px}
+.dirty{color:#b45309;font-weight:700}
+</style></head><body>
+<header><h1>🛡️ Quản trị · Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><div class="tabs hide" id="tabs">
+<button class="btn on" data-t="q">Câu hỏi</button><button class="btn" data-t="st">Thống kê</button><button class="btn" data-t="io">Nhập/Xuất</button><button class="btn" data-t="ad">Tài khoản</button><button class="btn g s" id="logout">Đăng xuất</button></div></header>
+<div class="wrap">
+<section class="card" id="login"><h2 style="margin-top:0">Đăng nhập quản trị</h2>
+ <div id="loginSb"><label>Tên đăng nhập</label><input id="lu" autocomplete="username"><label>Mật khẩu</label><input id="lp" type="password" autocomplete="current-password"></div>
+ <div id="loginGh"><p style="font-size:14px;color:var(--mute)">Chế độ không có backend: đăng nhập bằng <b>GitHub token</b> (fine-grained, quyền <i>Contents: Read and write</i> trên repo <span id="repoName"></span>). Mọi thay đổi được commit vào <code>questions.json</code>.</p><label>GitHub token</label><input id="lt" type="password"></div>
+ <button class="btn n" id="lbtn" style="margin-top:12px">Đăng nhập</button><div id="lmsg"></div><p style="font-size:13px;color:var(--mute)" id="modeNote"></p></section>
+<div id="app" class="hide">
+<section id="tq">
+ <div class="card"><div class="row"><div><label>Tìm</label><input id="fq" placeholder="nội dung, tag, mã #"></div><div><label>Cấp</label><select id="fl"><option value="">Tất cả</option><option value="1">Cấp 1</option><option value="2">Cấp 2</option><option value="3">Cấp 3</option><option value="4">Người lớn</option></select></div>
+ <div><label>Nguồn</label><select id="fs"><option value="">Tất cả</option><option value="ORIGINAL">Tự biên soạn</option><option value="HHANM">HHANM</option></select></div>
+ <div style="flex:0"><button class="btn" id="addQ">+ Thêm câu</button></div><div style="flex:0"><button class="btn n" id="saveAll">Lưu</button></div></div>
+ <div id="qinfo" style="font-size:13px;margin-top:8px;color:var(--mute)"></div></div>
+ <div class="card hide" id="editor"></div>
+ <div class="card"><table><thead><tr><th>Mã</th><th>Ảnh</th><th>Tình huống</th><th>Cấp</th><th>Khó</th><th>Lượt / Đúng</th><th></th></tr></thead><tbody id="qlist"></tbody></table></div>
+</section>
+<section id="tst" class="hide"><div class="card" id="stbox"></div></section>
+<section id="tio" class="hide"><div class="card"><h3 style="margin-top:0">Xuất câu hỏi</h3><button class="btn n" id="exJ">Tải JSON</button> <button class="btn n" id="exC">Tải CSV</button>
+ <h3>Nhập câu hỏi</h3><p style="font-size:14px;color:var(--mute)">JSON (mảng hoặc {questions:[...]}) hoặc CSV cùng cột với file xuất. Câu có <code>id</code> trùng sẽ được cập nhật; không có id sẽ được cấp mã mới.</p>
+ <input type="file" id="imF" accept=".json,.csv"><div id="immsg"></div></div></section>
+<section id="tad" class="hide"><div class="card" id="adbox"></div></section>
+</div></div>
+<script src="../config.js"></script><script src="../api.js"></script>
+<script>
+const $=s=>document.querySelector(s),C=CQ.C,SB=CQ.on;let Q=[],DIRTY=false,AUTH=null,STATS={},EDIT=null,SHA=null;
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const msg=(el,t,ok)=>{$(el).innerHTML=t?`<div class="msg ${ok?"ok":"err"}">${esc(t)}</div>`:""};
+$("#repoName").textContent=C.GITHUB_OWNER+"/"+C.GITHUB_REPO;
+$("#loginSb").classList.toggle("hide",!SB);$("#loginGh").classList.toggle("hide",SB);
+$("#modeNote").textContent=SB?"Backend: Supabase (tài khoản quản trị + thống kê toàn hệ thống).":"Backend chưa cấu hình: thống kê chỉ hiển thị dữ liệu của thiết bị này. Xem README để bật Supabase.";
+// ---- GitHub mode helpers
+const GH=`https://api.github.com/repos/${C.GITHUB_OWNER}/${C.GITHUB_REPO}/contents/`;
+const gh=(p,o={})=>fetch(GH+p,{...o,headers:{Authorization:"Bearer "+AUTH.token,Accept:"application/vnd.github+json",...(o.headers||{})}});
+const b64=s=>btoa(unescape(encodeURIComponent(s)));const unb64=s=>decodeURIComponent(escape(atob(s.replace(/\n/g,""))));
+async function ghLoad(){const r=await gh("questions.json?ref="+C.GITHUB_BRANCH);if(!r.ok)throw new Error("GitHub "+r.status);const j=await r.json();SHA=j.sha;
+ let txt;if(j.content)txt=unb64(j.content);else{txt=await (await fetch(j.download_url+"?t="+Date.now())).text()}return JSON.parse(txt).questions}
+async function ghSave(){const body={message:"admin: cập nhật câu hỏi ("+Q.length+")",branch:C.GITHUB_BRANCH,sha:SHA,content:b64(JSON.stringify({version:1,updated:new Date().toISOString(),questions:Q},null,1))};
+ const r=await gh("questions.json",{method:"PUT",body:JSON.stringify(body)});if(!r.ok)throw new Error("GitHub "+r.status+" "+(await r.text()).slice(0,200));SHA=(await r.json()).content.sha}
+// ---- login
+$("#lbtn").onclick=async()=>{msg("#lmsg","");try{
+ if(SB){AUTH=await CQ.rpc("admin_login",{p_user:$("#lu").value.trim(),p_pass:$("#lp").value});}
+ else{AUTH={token:$("#lt").value.trim(),username:"GitHub",role:"super"};const r=await gh("");if(!r.ok)throw new Error(r.status===401?"Token sai hoặc hết hạn":"Token không truy cập được repo ("+r.status+")")}
+ sessionStorage.cq_auth=JSON.stringify(AUTH);await boot()}catch(e){msg("#lmsg","Đăng nhập thất bại: "+e.message)}};
+$("#logout").onclick=()=>{if(DIRTY&&!confirm("Còn thay đổi chưa lưu. Vẫn đăng xuất?"))return;sessionStorage.removeItem("cq_auth");location.reload()};
+async function boot(){$("#login").classList.add("hide");$("#app").classList.remove("hide");$("#tabs").classList.remove("hide");
+ Q=SB?await CQ.rpc("admin_questions",{p_token:AUTH.token}):await ghLoad();await loadStats();renderList()}
+if(sessionStorage.cq_auth){AUTH=JSON.parse(sessionStorage.cq_auth);boot().catch(e=>{sessionStorage.removeItem("cq_auth");location.reload()})}
+document.querySelectorAll("#tabs [data-t]").forEach(b=>b.onclick=()=>{document.querySelectorAll("#tabs [data-t]").forEach(x=>x.classList.toggle("on",x===b));["q","st","io","ad"].forEach(t=>$("#t"+t).classList.toggle("hide",t!==b.dataset.t));if(b.dataset.t==="st")renderStats();if(b.dataset.t==="ad")renderAdmins()});
+// ---- stats
+async function loadStats(){STATS={};if(SB){try{const s=await CQ.rpc("admin_stats",{p_token:AUTH.token});STATS._srv=s;(s.by_question||[]).forEach(x=>STATS[x.id]=[x.n,x.ok])}catch(e){console.warn(e)}}
+ else{const l=JSON.parse(localStorage.cq_qstats||"{}");for(const k in l)STATS[k]=l[k]}}
+function renderStats(){const s=STATS._srv;let h="<h3 style='margin-top:0'>Thống kê "+(SB?"toàn hệ thống":"trên thiết bị này (chưa có backend)")+"</h3>";
+ if(s){h+=`<div class="grid"><div class="card">Phiên chơi<br><b style="font-size:24px">${s.sessions}</b></div><div class="card">Lượt trả lời<br><b style="font-size:24px">${s.answers}</b></div><div class="card">Tỷ lệ đúng<br><b style="font-size:24px">${s.answers?Math.round(s.correct/s.answers*100):0}%</b></div></div>`;
+  h+="<h4>Theo cấp</h4><table><tr><th>Cấp</th><th>Số phiên</th><th>% đúng TB</th></tr>"+s.by_level.map(x=>`<tr><td>${x.level}</td><td>${x.n}</td><td>${x.pct??"-"}%</td></tr>`).join("")+"</table>";
+  h+="<h4>50 phiên gần nhất</h4><table><tr><th>Thời gian</th><th>Tên</th><th>Tuổi</th><th>Cấp</th><th>Đúng</th><th>Giây</th></tr>"+s.recent.map(x=>`<tr><td>${new Date(x.created_at).toLocaleString("vi-VN")}</td><td>${esc(x.player)}</td><td>${x.age}</td><td>${x.level}</td><td>${x.correct}/${x.total}</td><td>${x.duration_sec}</td></tr>`).join("")+"</table>"}
+ const rows=Q.map(q=>[q,STATS[q.id]||[0,0]]).filter(r=>r[1][0]).sort((a,b)=>a[1][1]/a[1][0]-b[1][1]/b[1][0]).slice(0,30);
+ h+="<h4>Câu khó nhất (tỷ lệ đúng thấp)</h4><table><tr><th>Mã</th><th>Tình huống</th><th>Lượt</th><th>% đúng</th></tr>"+rows.map(([q,s])=>`<tr><td>#${q.id}</td><td>${esc(q.situation.slice(0,90))}</td><td>${s[0]}</td><td>${Math.round(s[1]/s[0]*100)}%</td></tr>`).join("")+"</table>";
+ $("#stbox").innerHTML=h}
+// ---- list/editor
+const LVN={1:"Cấp 1",2:"Cấp 2",3:"Cấp 3",4:"Người lớn"};
+function renderList(){const f=$("#fq").value.toLowerCase().trim(),l=$("#fl").value,src=$("#fs").value;
+ const rows=Q.filter(q=>(!l||q.level==l)&&(!src||(q.source||"").startsWith(src))&&(!f||("#"+q.id+" "+q.situation+" "+(q.tags||[]).join(" ")+" "+q.options.join(" ")).toLowerCase().includes(f)));
+ const cnt=[1,2,3,4].map(i=>LVN[i]+": "+Q.filter(q=>q.level===i).length).join(" · ");
+ $("#qinfo").innerHTML=`Tổng ${Q.length} câu (${cnt}) · đang lọc ${rows.length}`+(DIRTY?' · <span class="dirty">Có thay đổi chưa lưu</span>':"");
+ $("#qlist").innerHTML=rows.map(q=>{const s=STATS[q.id]||[0,0];return `<tr><td><b>#${q.id}</b>${q.hidden?"<br><span class=pill>ẩn</span>":""}</td><td>${q.image?`<img class="thumb" src="${esc(imgUrl(q.image))}" loading="lazy">`:""}</td><td>${esc(q.situation)}<br>${(q.tags||[]).map(t=>`<span class="pill">${esc(t)}</span>`).join("")} <span class="pill">${esc(q.source||"")}</span></td><td>${LVN[q.level]}</td><td>${q.difficulty}</td><td>${s[0]} / ${s[0]?Math.round(s[1]/s[0]*100)+"%":"-"}</td><td><button class="btn g s" data-e="${q.id}">Sửa</button> <button class="btn s" data-d="${q.id}">Xóa</button></td></tr>`}).join("");
+ document.querySelectorAll("[data-e]").forEach(b=>b.onclick=()=>edit(Q.find(q=>q.id==b.dataset.e)));
+ document.querySelectorAll("[data-d]").forEach(b=>b.onclick=()=>del(+b.dataset.d))}
+const imgUrl=p=>/^(https?:|data:)/.test(p)?p:"../"+p;
+["#fq","#fl","#fs"].forEach(s=>$(s).oninput=renderList);
+$("#addQ").onclick=()=>edit({id:null,level:1,difficulty:1,tags:[],image:"",situation:"",options:["","","",""],answer:0,spell:"",legal:"",source:"ORIGINAL"});
+function edit(q){EDIT=q;const e=$("#editor");e.classList.remove("hide");
+ e.innerHTML=`<h3 style="margin-top:0">${q.id?"Sửa câu #"+q.id:"Thêm câu mới"}</h3>
+ <label>Tình huống (hài hước, dễ nhớ)</label><textarea id="eS">${esc(q.situation)}</textarea>
+ ${[0,1,2,3].map(i=>`<label><input type="radio" name="eA" value="${i}" ${q.answer===i?"checked":""} style="width:auto"> Đáp án ${"ABCD"[i]} (chọn = đúng)</label><input id="eO${i}" value="${esc(q.options[i])}">`).join("")}
+ <div class="row"><div><label>Cấp độ tuổi</label><select id="eL">${[1,2,3,4].map(i=>`<option value="${i}" ${q.level===i?"selected":""}>${LVN[i]}</option>`).join("")}</select></div>
+ <div><label>Mức độ (1–3)</label><select id="eD">${[1,2,3].map(i=>`<option ${q.difficulty===i?"selected":""}>${i}</option>`).join("")}</select></div>
+ <div><label>Tag (phẩy)</label><input id="eT" value="${esc((q.tags||[]).join(","))}"></div><div><label>Nguồn</label><input id="eSrc" value="${esc(q.source||"")}"></div></div>
+ <label>Câu thần chú (giải thích ngắn)</label><input id="eSp" value="${esc(q.spell)}">
+ <label>Căn cứ luật</label><textarea id="eLg" style="min-height:50px">${esc(q.legal)}</textarea>
+ <label>Ảnh minh họa (URL, đường dẫn trong repo như img/matkhau.svg, hoặc tải lên)</label><div class="row"><input id="eI" value="${esc(q.image||"")}"><input type="file" id="eIF" accept="image/*"></div>
+ <img id="eIP" class="thumb" style="width:200px;height:120px;margin-top:6px" src="${esc(q.image?imgUrl(q.image):"")}">
+ <label><input type="checkbox" id="eH" style="width:auto" ${q.hidden?"checked":""}> Ẩn câu này</label>
+ <div style="margin-top:10px"><button class="btn n" id="eOk">Áp dụng</button> <button class="btn g" id="eX">Hủy</button></div><div id="emsg"></div>`;
+ $("#eI").oninput=()=>$("#eIP").src=imgUrl($("#eI").value);$("#eX").onclick=()=>e.classList.add("hide");
+ $("#eIF").onchange=async ev=>{const f=ev.target.files[0];if(!f)return;msg("#emsg","Đang xử lý ảnh…",1);try{$("#eI").value=await uploadImg(f);$("#eIP").src=imgUrl($("#eI").value);msg("#emsg","Đã gắn ảnh.",1)}catch(er){msg("#emsg","Lỗi ảnh: "+er.message)}};
+ $("#eOk").onclick=apply;e.scrollIntoView({behavior:"smooth"})}
+async function shrink(f){if(f.type==="image/svg+xml")return await new Promise(r=>{const fr=new FileReader();fr.onload=()=>r(fr.result);fr.readAsDataURL(f)});
+ const im=await createImageBitmap(f),k=Math.min(1,640/im.width),c=document.createElement("canvas");c.width=im.width*k;c.height=im.height*k;c.getContext("2d").drawImage(im,0,0,c.width,c.height);return c.toDataURL("image/webp",.8)}
+async function uploadImg(f){const d=await shrink(f);if(SB)return d;
+ const ext=d.slice(5,d.indexOf(";")).split("/")[1].replace("svg+xml","svg"),path=`img/uploads/${Date.now()}.${ext}`;
+ const r=await gh(path,{method:"PUT",body:JSON.stringify({message:"admin: tải ảnh minh họa",branch:C.GITHUB_BRANCH,content:d.split(",")[1]})});if(!r.ok)throw new Error("GitHub "+r.status);return path}
+function apply(){const q=EDIT,o=[0,1,2,3].map(i=>$("#eO"+i).value.trim()),a=document.querySelector("[name=eA]:checked");
+ if(!$("#eS").value.trim()||o.some(x=>!x)||!a)return msg("#emsg","Cần nhập tình huống, đủ 4 đáp án và chọn đáp án đúng.");
+ Object.assign(q,{situation:$("#eS").value.trim(),options:o,answer:+a.value,level:+$("#eL").value,difficulty:+$("#eD").value,tags:$("#eT").value.split(",").map(s=>s.trim()).filter(Boolean),source:$("#eSrc").value.trim()||"ORIGINAL",spell:$("#eSp").value.trim(),legal:$("#eLg").value.trim(),image:$("#eI").value.trim(),hidden:$("#eH").checked});
+ if(!q.id){q.id=Math.max(0,...Q.map(x=>x.id))+1;Q.push(q)}q._dirty=true;DIRTY=true;$("#editor").classList.add("hide");renderList();if(SB)saveAll()}
+async function del(id){if(!confirm("Xóa câu #"+id+"?"))return;try{if(SB)await CQ.rpc("admin_delete_question",{p_token:AUTH.token,p_id:id});Q=Q.filter(q=>q.id!==id);if(!SB)DIRTY=true;renderList()}catch(e){alert(e.message)}}
+async function saveAll(){try{if(SB){const ch=Q.filter(q=>q._dirty).map(({_dirty,updated_at,...q})=>q);if(ch.length)await CQ.rpc("admin_upsert_questions",{p_token:AUTH.token,p_items:ch});Q.forEach(q=>delete q._dirty)}
+ else{Q.forEach(q=>delete q._dirty);await ghSave()}DIRTY=false;renderList();alert("Đã lưu ✔")}catch(e){alert("Lưu lỗi: "+e.message)}}
+$("#saveAll").onclick=saveAll;addEventListener("beforeunload",e=>{if(DIRTY){e.preventDefault();e.returnValue=""}});
+// ---- import/export
+const COLS=["id","level","difficulty","tags","image","situation","A","B","C","D","answer","spell","legal","source","hidden"];
+const csvCell=v=>{v=String(v??"");return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
+function dl(name,txt,type){const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([txt],{type}));a.download=name;a.click()}
+$("#exJ").onclick=()=>dl("cau-hoi-an-ninh-mang.json",JSON.stringify({version:1,exported:new Date().toISOString(),questions:Q.map(({_dirty,...q})=>q)},null,1),"application/json");
+$("#exC").onclick=()=>dl("cau-hoi-an-ninh-mang.csv","\ufeff"+[COLS.join(",")].concat(Q.map(q=>[q.id,q.level,q.difficulty,(q.tags||[]).join(";"),q.image,q.situation,...q.options,"ABCD"[q.answer],q.spell,q.legal,q.source,q.hidden?1:0].map(csvCell).join(","))).join("\n"),"text/csv");
+function parseCSV(t){const R=[];let r=[],c="",q=false;t=t.replace(/^\ufeff/,"");for(let i=0;i<t.length;i++){const ch=t[i];if(q){if(ch=='"'){if(t[i+1]=='"'){c+='"';i++}else q=false}else c+=ch}else if(ch=='"')q=true;else if(ch==","){r.push(c);c=""}else if(ch=="\n"||ch=="\r"){if(ch=="\r"&&t[i+1]=="\n")i++;r.push(c);R.push(r);r=[];c=""}else c+=ch}if(c||r.length){r.push(c);R.push(r)}
+ const h=R.shift().map(s=>s.trim());return R.filter(x=>x.length>5).map(x=>{const o={};h.forEach((k,i)=>o[k]=x[i]);return{id:o.id?+o.id:null,level:+o.level,difficulty:+o.difficulty||1,tags:(o.tags||"").split(/[;,]/).map(s=>s.trim()).filter(Boolean),image:o.image||"",situation:o.situation,options:[o.A,o.B,o.C,o.D],answer:"ABCD".indexOf((o.answer||"A").trim().toUpperCase()),spell:o.spell,legal:o.legal,source:o.source||"ORIGINAL",hidden:o.hidden=="1"}})}
+$("#imF").onchange=async ev=>{const f=ev.target.files[0];if(!f)return;try{const t=await f.text();let arr=f.name.endsWith(".csv")?parseCSV(t):JSON.parse(t);if(!Array.isArray(arr))arr=arr.questions;
+ const bad=arr.filter(q=>!q.situation||!q.options||q.options.length!==4||!(q.answer>=0&&q.answer<4)||!(q.level>=1&&q.level<=4));if(bad.length)throw new Error(bad.length+" câu thiếu dữ liệu / sai định dạng");
+ let mx=Math.max(0,...Q.map(x=>x.id)),add=0,upd=0;arr.forEach(q=>{q._dirty=true;const i=q.id?Q.findIndex(x=>x.id===q.id):-1;if(i>=0){Q[i]=q;upd++}else{q.id=q.id||++mx;mx=Math.max(mx,q.id);Q.push(q);add++}});
+ DIRTY=true;renderList();msg("#immsg",`Đã nạp: thêm ${add}, cập nhật ${upd}. Bấm "Lưu" ở tab Câu hỏi để ghi lên hệ thống.`,1)}catch(e){msg("#immsg","Lỗi nhập: "+e.message)}};
+// ---- admins
+async function renderAdmins(){const b=$("#adbox");if(!SB){b.innerHTML="<h3 style='margin-top:0'>Tài khoản quản trị</h3><p>Chế độ hiện tại dùng GitHub token: quản trị viên = người được thêm làm <b>collaborator</b> của repo (Settings → Collaborators) và tự tạo token. Để có tài khoản tên/mật khẩu do Admin cao nhất cấp, hãy bật backend Supabase (xem README).</p>";return}
+ let list=[];try{list=await CQ.rpc("admin_list",{p_token:AUTH.token})}catch(e){}
+ b.innerHTML=`<h3 style="margin-top:0">Tài khoản quản trị</h3><p>Bạn: <b>${esc(AUTH.username)}</b> (${AUTH.role==="super"?"Admin cao nhất":"Quản trị viên"})</p><table><tr><th>Tài khoản</th><th>Vai trò</th><th></th></tr>${list.map(a=>`<tr><td>${esc(a.username)}</td><td>${a.role}</td><td>${AUTH.role==="super"&&a.role!=="super"?`<button class="btn s" data-x="${esc(a.username)}">Xóa</button>`:""}</td></tr>`).join("")}</table>
+ ${AUTH.role==="super"?`<h4>Tạo quản trị viên</h4><div class="row"><input id="nu" placeholder="tên đăng nhập"><input id="np" type="password" placeholder="mật khẩu (≥10 ký tự)"><button class="btn n" id="nadd" style="flex:0">Tạo</button></div>`:""}
+ <h4>Đổi mật khẩu của tôi</h4><div class="row"><input id="op" type="password" placeholder="mật khẩu cũ"><input id="nw" type="password" placeholder="mật khẩu mới"><button class="btn g" id="chp" style="flex:0">Đổi</button></div><div id="admsg"></div>`;
+ document.querySelectorAll("[data-x]").forEach(x=>x.onclick=async()=>{if(confirm("Xóa "+x.dataset.x+"?")){await CQ.rpc("admin_delete",{p_token:AUTH.token,p_user:x.dataset.x});renderAdmins()}});
+ if($("#nadd"))$("#nadd").onclick=async()=>{if($("#np").value.length<10)return msg("#admsg","Mật khẩu tối thiểu 10 ký tự");try{await CQ.rpc("admin_create",{p_token:AUTH.token,p_user:$("#nu").value.trim(),p_pass:$("#np").value});renderAdmins()}catch(e){msg("#admsg",e.message)}};
+ $("#chp").onclick=async()=>{try{await CQ.rpc("admin_change_password",{p_token:AUTH.token,p_old:$("#op").value,p_new:$("#nw").value});msg("#admsg","Đã đổi mật khẩu",1)}catch(e){msg("#admsg",e.message)}}}
+</script></body></html>

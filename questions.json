@@ -1,0 +1,4126 @@
+{
+ "version": 1,
+ "updated": "2026-10-15",
+ "questions": [
+  {
+   "id": 1,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Mèo Mít đặt mật khẩu game là \"meomit123\". Cún Bông khen: \"Dễ nhớ ghê, cho tớ mượn nhé!\". Mèo Mít nên làm gì?",
+   "options": [
+    "Viết mật khẩu lên bảng lớp để khỏi quên",
+    "Cho mượn nhưng bắt Cún Bông hứa không kể ai",
+    "Cho Cún Bông mượn vì bạn thân thì không sao",
+    "Không cho ai biết mật khẩu, kể cả bạn thân, và đổi sang mật khẩu khó đoán hơn"
+   ],
+   "answer": 3,
+   "spell": "Mật khẩu như bàn chải đánh răng: không cho ai mượn!",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 2,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Tí dán tờ giấy ghi mật khẩu ngay trên màn hình máy tính \"cho tiện\". Điều gì có thể xảy ra?",
+   "options": [
+    "Ai đi ngang qua cũng đọc được và đăng nhập vào tài khoản của Tí",
+    "Chỉ mèo mới đọc được giấy dán",
+    "Mật khẩu sẽ tự đổi sau 1 ngày",
+    "Không sao vì máy tính biết chủ nhân là Tí"
+   ],
+   "answer": 0,
+   "spell": "Mật khẩu dán màn hình = chìa khóa treo ngoài cửa.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 3,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Một người lạ trong game nhắn: \"Em dễ thương quá, cho anh xin địa chỉ nhà để gửi quà nhé!\". Tí nên làm gì?",
+   "options": [
+    "Không trả lời, không cho địa chỉ, kể ngay với bố mẹ",
+    "Cho địa chỉ trường thay vì địa chỉ nhà",
+    "Hỏi quà gì rồi mới quyết định",
+    "Cho địa chỉ nhà hàng xóm cho chắc"
+   ],
+   "answer": 0,
+   "spell": "Người lạ hỏi nhà – mình hỏi bố mẹ!",
+   "legal": "Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 4,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Cún Bông nhận tin nhắn: \"Đây là bí mật của hai đứa mình thôi, đừng kể bố mẹ nhé!\". Cún Bông nên nghĩ gì?",
+   "options": [
+    "Đợi tới sinh nhật rồi mới kể",
+    "Kể cho mỗi bạn mèo hàng xóm thôi",
+    "Bí mật khiến mình sợ không phải bí mật cần giữ – kể ngay với người lớn tin cậy",
+    "Giữ bí mật vì đã hứa rồi"
+   ],
+   "answer": 2,
+   "spell": "Bí mật làm mình sợ là bí mật phải kể!",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 5,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Tí chụp ảnh cả lớp đang ngủ gật và muốn đăng lên mạng cho \"vui\". Tí nên làm gì?",
+   "options": [
+    "Đăng lúc nửa đêm để ít người xem",
+    "Đăng rồi xóa sau 5 phút",
+    "Đăng nhưng dán sticker lên mặt một bạn",
+    "Không đăng khi các bạn chưa đồng ý"
+   ],
+   "answer": 3,
+   "spell": "Ảnh bạn là của bạn – muốn đăng phải hỏi!",
+   "legal": "Điểm b khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 6,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Mèo Mít nhận tin nhắn: \"Bấm vào đây nhận 1 triệu kim cương miễn phí!!!\". Mèo Mít nên làm gì?",
+   "options": [
+    "Gửi cho cả lớp cùng nhận",
+    "Bấm thử một lần thôi",
+    "Không bấm, hỏi bố mẹ hoặc thầy cô",
+    "Bấm bằng điện thoại của mẹ cho an toàn"
+   ],
+   "answer": 2,
+   "spell": "Quà miễn phí trên mạng thường là cái bẫy có nơ.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 7,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Máy tính báo: \"Máy bạn có 99 con virus! Tải ngay phần mềm diệt virus này!\". Tí nên làm gì?",
+   "options": [
+    "Rút điện máy tính rồi cắm lại và tải",
+    "Tải ngay kẻo virus lây sang Tí",
+    "Không tải, đóng trang và nhờ người lớn kiểm tra",
+    "Bấm \"Đồng ý\" thật nhanh nhiều lần"
+   ],
+   "answer": 2,
+   "spell": "Bảng cảnh báo hù dọa = cửa sau của kẻ xấu.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 8,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Cún Bông đọc tin: \"Ngày mai trường nghỉ học vì có khủng long!\". Cún Bông muốn chia sẻ ngay. Nên làm gì?",
+   "options": [
+    "Hỏi thầy cô hoặc bố mẹ trước, không chia sẻ tin chưa kiểm chứng",
+    "Đăng thêm ảnh khủng long cho thật",
+    "Chia sẻ ngay cho bạn bè được nghỉ",
+    "Chia sẻ kèm chữ \"nghe nói thôi nha\""
+   ],
+   "answer": 0,
+   "spell": "Chưa chắc thì chưa share!",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 9,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Trong nhóm chat lớp, các bạn chế ảnh Tí thành con heo và cười ầm. Mèo Mít nên làm gì?",
+   "options": [
+    "Thả \"haha\" cho hòa đồng",
+    "Không thả \"haha\", không chia sẻ tiếp, báo thầy cô",
+    "Chế thêm ảnh khác cho vui hơn",
+    "Im lặng rời nhóm và quên đi"
+   ],
+   "answer": 1,
+   "spell": "“Chỉ đùa thôi” không xóa được tổn thương.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 10,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Mèo Mít bị trêu chọc trên mạng và thấy rất buồn. Mèo Mít nên làm gì?",
+   "options": [
+    "Xóa hết tài khoản và không nói với ai",
+    "Tự chịu đựng vì kể ra sẽ bị cười",
+    "Kể với bố mẹ, thầy cô hoặc gọi Tổng đài 111",
+    "Trêu lại thật nặng"
+   ],
+   "answer": 2,
+   "spell": "Không ai phải một mình – có số 111.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 11,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Tí muốn tự lập tài khoản mạng xã hội riêng dù mới 9 tuổi. Theo luật, ai đăng ký tài khoản cho Tí?",
+   "options": [
+    "Không ai cả, cứ dùng tài khoản của anh họ",
+    "Bố mẹ hoặc người giám hộ đăng ký bằng thông tin của bố mẹ và giám sát",
+    "Tí tự đăng ký và khai tăng tuổi",
+    "Bạn lớp trên đăng ký hộ"
+   ],
+   "answer": 1,
+   "spell": "Trẻ em lên mạng có bố mẹ “cầm lái”.",
+   "legal": "Khoản 2 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 12,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một trang web đố vui hỏi: \"Nhập tên, số nhà, trường và số điện thoại của mẹ để biết bạn là siêu nhân nào!\". Tí nên làm gì?",
+   "options": [
+    "Nhập thông tin của bạn thân",
+    "Nhập hết vì muốn biết là siêu nhân nào",
+    "Không nhập thông tin cá nhân, hỏi bố mẹ",
+    "Chỉ nhập số điện thoại của bố"
+   ],
+   "answer": 2,
+   "spell": "Đố vui đòi số nhà = đố… kẻ gian vui.",
+   "legal": "Điểm h khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm a khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 13,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Đâu là thông tin cá nhân cần giữ kín, không đăng lên mạng?",
+   "options": [
+    "Địa chỉ nhà và số điện thoại",
+    "Món ăn em thích nhất",
+    "Màu yêu thích",
+    "Tên con mèo trong phim hoạt hình"
+   ],
+   "answer": 0,
+   "spell": "Số nhà, số điện thoại – cất trong tủ, khóa kỹ!",
+   "legal": "Khoản 1 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm a khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 14,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Bạn mới quen trong game rủ Cún Bông gặp nhau ở công viên, \"đừng nói với ai nhé\". Cún Bông nên làm gì?",
+   "options": [
+    "Đi nhưng mang theo ô",
+    "Rủ thêm một bạn nhỏ đi cùng",
+    "Đi một mình cho bí mật",
+    "Không đi, kể với bố mẹ ngay"
+   ],
+   "answer": 3,
+   "spell": "Bạn mạng rủ gặp riêng – báo ngay người lớn.",
+   "legal": "Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 15,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "webcam"
+   ],
+   "image": "img/webcam.svg",
+   "situation": "Người lạ gọi video và bảo Tí: \"Bật camera lên cho anh xem phòng em nào\". Tí nên làm gì?",
+   "options": [
+    "Hỏi người đó tên gì trước",
+    "Bật một chút rồi tắt",
+    "Bật camera hướng lên trần nhà",
+    "Tắt cuộc gọi, chặn và kể với người lớn"
+   ],
+   "answer": 3,
+   "spell": "Camera của em – em có quyền nói KHÔNG.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 16,
+   "level": 1,
+   "difficulty": 2,
+   "tags": [
+    "ban-quyen"
+   ],
+   "image": "img/banquyen.svg",
+   "situation": "Mèo Mít thấy bức tranh rất đẹp trên mạng, muốn đăng lại và ghi \"Tranh của tớ vẽ\". Như vậy có đúng không?",
+   "options": [
+    "Không đúng – phải ghi rõ tác giả, không nhận của người khác là của mình",
+    "Đúng, vì tranh đã có trên mạng là của chung",
+    "Đúng nếu tô thêm một màu",
+    "Đúng nếu đăng lúc ít người xem"
+   ],
+   "answer": 0,
+   "spell": "Của ai trả nấy – kể cả trên mạng.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 17,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Cún Bông chơi game tới 11 giờ đêm, mắt đỏ như thỏ. Lời khuyên nào đúng nhất?",
+   "options": [
+    "Đặt giờ chơi hợp lý với bố mẹ và đi ngủ đúng giờ",
+    "Chơi tiếp để lên cấp nhanh hơn",
+    "Chơi dưới chăn để bố mẹ không biết",
+    "Uống nước ngọt cho tỉnh táo"
+   ],
+   "answer": 0,
+   "spell": "Game có “máu”, mắt cũng có “máu” – nghỉ đúng giờ!",
+   "legal": "Khoản 2 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 18,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Một tin nhắn từ số lạ: \"Con của bạn đã trúng thưởng xe đạp, bấm link điền thông tin\". Tí đọc được trên máy mẹ. Tí nên?",
+   "options": [
+    "Bấm giúp mẹ cho nhanh",
+    "Chuyển tiếp cho bố",
+    "Trả lời \"Có ạ!\"",
+    "Đưa mẹ xem và nhắc mẹ không bấm link lạ"
+   ],
+   "answer": 3,
+   "spell": "Trúng thưởng bất ngờ – nghi ngờ trước tiên!",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 19,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Gặp nội dung đáng sợ trên mạng, 5 \"nút\" cần nhớ là gì?",
+   "options": [
+    "Chụp lại – Gửi cả lớp – Đăng – Câu like – Xóa",
+    "Tắt máy – Ngủ – Quên – Không kể – Chơi tiếp",
+    "Dừng – Không lan truyền – Lưu bằng chứng – Báo cáo – Chia sẻ với người tin cậy",
+    "Xem tiếp – Chia sẻ – Bình luận – Thả tim – Quên"
+   ],
+   "answer": 2,
+   "spell": "5 nút vàng: Dừng, Không lan, Lưu, Báo, Chia.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 20,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Số điện thoại Tổng đài quốc gia bảo vệ trẻ em là gì?",
+   "options": [
+    "115",
+    "111",
+    "113",
+    "114"
+   ],
+   "answer": 1,
+   "spell": "Một – một – một: một cuộc gọi, một người bạn.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 21,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Mật khẩu nào an toàn nhất cho tài khoản của Tí?",
+   "options": [
+    "123456",
+    "tiyeumeo",
+    "Mot_Con-Vit!Xoe2CanhVang",
+    "ngày sinh của Tí"
+   ],
+   "answer": 2,
+   "spell": "Mật khẩu xịn: dài, lạ, có chữ có số có ký hiệu.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 22,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Bố đăng ảnh Cún Bông tắm bồn lên mạng. Cún Bông thấy ngại. Cún Bông nên làm gì?",
+   "options": [
+    "Nói với bố rằng mình không thích và xin bố gỡ ảnh",
+    "Im lặng vì bố là người lớn",
+    "Đăng lại ảnh bố ngủ ngáy để trả đũa",
+    "Khóa tài khoản của bố"
+   ],
+   "answer": 0,
+   "spell": "Em có quyền nói về ảnh của chính mình.",
+   "legal": "Khoản 2 Điều 24 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 1 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 23,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Trên mạng có video \"Ăn 10 cái kẹo mỗi ngày sẽ cao thêm 10cm\". Mèo Mít nên?",
+   "options": [
+    "Không tin ngay, hỏi thầy cô, bố mẹ",
+    "Ăn ngay 20 cái cho cao gấp đôi",
+    "Mua kẹo cho cả nhà",
+    "Chia sẻ cho cả lớp cùng cao"
+   ],
+   "answer": 0,
+   "spell": "Nghe lạ tai – hỏi người lớn rồi hãy tin.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 24,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Một tài khoản tự xưng là \"thầy giáo mới\" nhắn riêng, xin ảnh và địa chỉ của Tí. Tí nên?",
+   "options": [
+    "Hỏi lại thầy cô chủ nhiệm và bố mẹ, không gửi gì",
+    "Gửi ngay vì là thầy giáo",
+    "Gửi địa chỉ nhưng không gửi ảnh",
+    "Gửi ảnh nhưng không gửi địa chỉ"
+   ],
+   "answer": 0,
+   "spell": "Xưng “thầy” trên mạng – kiểm tra ngoài đời!",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 25,
+   "level": 1,
+   "difficulty": 2,
+   "tags": [
+    "ai-deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Cún Bông thấy video \"chú mèo nói tiếng người, kêu gọi các bạn chuyển tiền mua cá\". Đây có thể là gì?",
+   "options": [
+    "Phim hoạt hình chính thức của trường",
+    "Video giả do máy tính tạo ra để lừa người xem",
+    "Chú mèo thông minh thật",
+    "Tin tức nghiêm túc"
+   ],
+   "answer": 1,
+   "spell": "Thấy là tin? Chưa chắc – máy cũng biết “diễn”.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 26,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Mèo Mít dùng máy tính ở thư viện, xong việc thì đi về luôn. Mèo Mít quên làm gì?",
+   "options": [
+    "Chỉnh ghế",
+    "Đăng xuất tài khoản",
+    "Tắt màn hình",
+    "Lau bàn phím"
+   ],
+   "answer": 1,
+   "spell": "Dùng máy chung – xong việc nhớ “đăng xuất”.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 27,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Tí lỡ gửi tin nhắn chê bai bạn trong nhóm, giờ thấy hối hận. Tí nên làm gì?",
+   "options": [
+    "Rời nhóm và giả vờ không biết",
+    "Gửi thêm tin để chữa cháy bằng chê người khác",
+    "Đổ cho em trai gửi",
+    "Dừng lại, xóa tin và xin lỗi bạn"
+   ],
+   "answer": 3,
+   "spell": "Lỡ làm sai – dừng lại và xin lỗi.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 28,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Trong game, người lạ tặng Cún Bông nhiều vật phẩm rồi bảo \"giờ em gửi ảnh cho anh nhé\". Cún Bông nên?",
+   "options": [
+    "Gửi ảnh của bạn khác",
+    "Từ chối, chặn người đó và kể với người lớn",
+    "Gửi ảnh vì đã nhận quà rồi",
+    "Trả lại vật phẩm rồi gửi ảnh"
+   ],
+   "answer": 1,
+   "spell": "Quà trong game không phải vé đòi ảnh.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 6 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 29,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Lớp có danh sách học sinh kèm số điện thoại phụ huynh. Mèo Mít muốn đăng công khai lên trang cá nhân. Có nên không?",
+   "options": [
+    "Không, vì đó là thông tin cá nhân của người khác",
+    "Có, cho các bạn dễ liên lạc",
+    "Có, vì danh sách là của lớp",
+    "Có, nếu chỉ đăng một nửa"
+   ],
+   "answer": 0,
+   "spell": "Thông tin bạn bè – tôn trọng như của mình.",
+   "legal": "Điểm b khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 7 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 30,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "USB nhặt được ở sân trường có ghi \"Đáp án kiểm tra\". Tí nên làm gì?",
+   "options": [
+    "Không cắm vào máy, nộp cho thầy cô",
+    "Cắm vào máy xem ngay",
+    "Cắm vào máy của bạn cho an toàn",
+    "Mang về nhà cắm vào máy bố"
+   ],
+   "answer": 0,
+   "spell": "USB lạ – có thể chứa “virus bất ngờ”.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 31,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Mèo Mít nghe tin đồn \"bạn Na bị bệnh lây, đừng chơi với Na\" trong nhóm chat. Mèo Mít nên?",
+   "options": [
+    "Chia sẻ để cảnh báo mọi người",
+    "Không lan truyền, hỏi thầy cô và bênh vực bạn",
+    "Rời xa bạn Na ngay",
+    "Thêm chi tiết cho câu chuyện hấp dẫn"
+   ],
+   "answer": 1,
+   "spell": "Tin đồn làm đau bạn – dừng ở mình.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 32,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "webcam"
+   ],
+   "image": "img/webcam.svg",
+   "situation": "Khi không học online, nên làm gì với camera máy tính?",
+   "options": [
+    "Tắt hoặc che camera lại",
+    "Dán sticker hình mặt cười lên màn hình",
+    "Luôn bật để tiện",
+    "Hướng camera ra cửa sổ"
+   ],
+   "answer": 0,
+   "spell": "Camera nghỉ thì che – kẻ xấu hết “nghía”.",
+   "legal": "Điểm c khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 33,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Cún Bông thấy quảng cáo game: \"Nhập số thẻ ngân hàng của bố để nhận skin miễn phí\". Nên làm gì?",
+   "options": [
+    "Nhập một nửa số thẻ",
+    "Nhập số thẻ của mẹ thay vì bố",
+    "Lấy thẻ bố nhập nhanh",
+    "Không nhập, báo bố mẹ"
+   ],
+   "answer": 3,
+   "spell": "Đã miễn phí sao lại đòi thẻ ngân hàng?",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 34,
+   "level": 1,
+   "difficulty": 2,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Tí dùng chung một mật khẩu cho tất cả tài khoản. Nếu một tài khoản bị lộ thì sao?",
+   "options": [
+    "Máy tính sẽ tự đổi mật khẩu",
+    "Chỉ tài khoản đó bị ảnh hưởng",
+    "Kẻ xấu có thể mở được tất cả tài khoản khác",
+    "Không sao vì mật khẩu dài"
+   ],
+   "answer": 2,
+   "spell": "Một chìa mở mọi cửa – mất là mất hết!",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 35,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Ai là người Tí nên tìm khi gặp chuyện không ổn trên mạng?",
+   "options": [
+    "Một tài khoản ẩn danh",
+    "Người lạ trong game",
+    "Bố mẹ, thầy cô hoặc người lớn tin cậy",
+    "Không ai cả, tự xử lý"
+   ],
+   "answer": 2,
+   "spell": "Chuyện trên mạng – có người lớn đồng hành.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 36,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Cún Bông muốn gửi ảnh mặc đồ ngủ cho \"bạn mới quen trên mạng\". Nên làm gì?",
+   "options": [
+    "Gửi ảnh mờ thôi",
+    "Không gửi ảnh riêng tư cho ai trên mạng",
+    "Gửi vì bạn khen dễ thương",
+    "Gửi rồi bảo bạn xóa"
+   ],
+   "answer": 1,
+   "spell": "Riêng tư không phải thứ để chia sẻ.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Điểm a khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 37,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Khi bị người lạ nhắn tin đe dọa, điều gì KHÔNG nên làm?",
+   "options": [
+    "Xóa hết tin nhắn và giấu không cho ai biết",
+    "Chặn và báo cáo tài khoản",
+    "Kể với bố mẹ",
+    "Chụp màn hình lưu bằng chứng"
+   ],
+   "answer": 0,
+   "spell": "Đừng xóa bằng chứng – hãy lưu và báo.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 38,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "ban-quyen"
+   ],
+   "image": "img/banquyen.svg",
+   "situation": "Mèo Mít tải phim lậu trên trang lạ để xem miễn phí. Rủi ro là gì?",
+   "options": [
+    "Phim sẽ hay hơn",
+    "Vi phạm bản quyền và dễ dính phần mềm độc hại",
+    "Máy sẽ chạy nhanh hơn",
+    "Không có rủi ro gì"
+   ],
+   "answer": 1,
+   "spell": "Phim lậu – vừa sai luật vừa rước virus.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 39,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Có người nhắn: \"Mình là quản trị game, cho mình mã đăng nhập (OTP) để tặng quà\". Tí nên?",
+   "options": [
+    "Đưa một nửa mã",
+    "Đưa ngay để nhận quà",
+    "Hỏi tên rồi đưa",
+    "Không đưa mã OTP cho bất kỳ ai"
+   ],
+   "answer": 3,
+   "spell": "OTP là “bí mật quốc gia” của riêng em.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15; Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 40,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Bạn rủ Tí vào nhóm \"hack game, có tiền thật\". Tí nên?",
+   "options": [
+    "Tham gia để giàu nhanh",
+    "Rủ thêm bạn để chia tiền",
+    "Tham gia nhưng không nói ai",
+    "Từ chối vì hack game là xâm nhập trái phép, có thể bị lừa"
+   ],
+   "answer": 3,
+   "spell": "Hack là phá khóa nhà người khác – không vui đâu.",
+   "legal": "Khoản 5 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 41,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một ứng dụng vẽ tranh xin quyền đọc danh bạ và vị trí. Mèo Mít nên?",
+   "options": [
+    "Cài thêm 3 ứng dụng nữa",
+    "Cấp danh bạ, không cấp vị trí",
+    "Hỏi bố mẹ, không cấp quyền không cần thiết",
+    "Cấp hết cho nhanh"
+   ],
+   "answer": 2,
+   "spell": "App vẽ tranh cần bút – không cần danh bạ.",
+   "legal": "Điểm b khoản 3 Điều 31 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 1 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 42,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Bạn Bin bị cả nhóm tẩy chay trên mạng. Cún Bông có thể giúp gì?",
+   "options": [
+    "Nhắn hỏi thăm Bin và báo thầy cô",
+    "Cùng tẩy chay cho an toàn",
+    "Không làm gì vì không phải việc của mình",
+    "Chụp lại để gửi nhóm khác cười"
+   ],
+   "answer": 0,
+   "spell": "Một lời hỏi thăm có thể cứu cả một ngày.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 4 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 43,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Video \"uống nước rửa chén sẽ thông minh hơn\" đang lan truyền. Tí nên?",
+   "options": [
+    "Rủ bạn thử chung",
+    "Chia sẻ cảnh báo kèm lời “thử xem”",
+    "Không làm theo, không chia sẻ và báo người lớn",
+    "Thử một ngụm"
+   ],
+   "answer": 2,
+   "spell": "Thử thách nguy hiểm – bấm nút DỪNG.",
+   "legal": "Điểm d khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 44,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "webcam"
+   ],
+   "image": "img/webcam.svg",
+   "situation": "Tí học online, nhóm lớp bảo bật camera. Một người lạ vào phòng học online. Tí nên?",
+   "options": [
+    "Trò chuyện với người lạ",
+    "Báo thầy cô ngay để mời người lạ ra",
+    "Gửi link phòng cho người lạ khác",
+    "Tắt mic và mặc kệ"
+   ],
+   "answer": 1,
+   "spell": "Phòng học online cũng cần “bảo vệ cửa”.",
+   "legal": "Khoản 3 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 45,
+   "level": 1,
+   "difficulty": 2,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Email \"Từ: Hiệu trưởng\" nhưng địa chỉ là thaihieutruong99@abcxyz.top, yêu cầu tải file \"diem.exe\". Tí nên?",
+   "options": [
+    "Mở bằng điện thoại",
+    "Không mở file, báo thầy cô",
+    "Chuyển cho bạn mở trước",
+    "Tải về xem điểm"
+   ],
+   "answer": 1,
+   "spell": "Tên quen, địa chỉ lạ – đuôi .exe là báo động!",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15; Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 46,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Mẹ hỏi mật khẩu tài khoản học tập của Tí để giúp Tí. Có được nói không?",
+   "options": [
+    "Nói với người lạ trong game",
+    "Không bao giờ nói với ai, kể cả bố mẹ",
+    "Được nói với bố mẹ – người giám hộ, nhưng không nói với người khác",
+    "Nói với bạn thân trước"
+   ],
+   "answer": 2,
+   "spell": "Bố mẹ là “đồng đội” – người lạ thì không.",
+   "legal": "Khoản 2 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 47,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Tí thấy quảng cáo \"Điện thoại xịn chỉ 10.000 đồng, chuyển khoản trước\". Nên nghĩ gì?",
+   "options": [
+    "Mua 10 cái tặng cả lớp",
+    "Chuyển tiền của heo đất",
+    "Rẻ bất thường – có thể là lừa đảo",
+    "Mua ngay kẻo hết"
+   ],
+   "answer": 2,
+   "spell": "Rẻ như cho – cẩn thận bị cho… vào bẫy.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 48,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Cún Bông đăng ảnh check-in kèm \"đang ở nhà một mình\". Có vấn đề gì?",
+   "options": [
+    "Ảnh sẽ được nhiều tim hơn",
+    "Kẻ xấu biết em ở đâu và đang ở một mình",
+    "Không có vấn đề gì",
+    "Bạn bè sẽ tới chơi"
+   ],
+   "answer": 1,
+   "spell": "Đừng “báo cáo” vị trí cho cả thế giới.",
+   "legal": "Khoản 1 Điều 31 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm a khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 49,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "ai-deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Tí nhận cuộc gọi video giống hệt mẹ, nói: \"Con gửi mã số trên thẻ của bố cho mẹ\". Tí nên?",
+   "options": [
+    "Hỏi mẹ ăn cơm chưa rồi gửi",
+    "Cúp máy, gọi lại cho mẹ bằng số quen để hỏi",
+    "Gửi cho bố trước",
+    "Gửi ngay vì đúng là mặt mẹ"
+   ],
+   "answer": 1,
+   "spell": "Mặt giống chưa chắc là người thật – gọi lại kiểm tra.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 50,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Tí bị \"mất nick\" game. Ai đó đòi tiền để trả lại. Tí nên?",
+   "options": [
+    "Hack lại tài khoản kẻ đó",
+    "Đăng lên mạng chửi kẻ đó",
+    "Chuyển tiền ngay",
+    "Báo bố mẹ, không chuyển tiền, báo nhà phát hành game"
+   ],
+   "answer": 3,
+   "spell": "Bị đòi tiền chuộc nick – không trả, hãy báo!",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 3 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 51,
+   "level": 1,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Lời mời kết bạn từ \"Siêu nhân Gao Đỏ chính hãng\". Mèo Mít nên?",
+   "options": [
+    "Kết bạn cả Gao Xanh",
+    "Chấp nhận rồi hỏi số điện thoại",
+    "Chấp nhận ngay vì thích Gao Đỏ",
+    "Không chấp nhận người lạ, dù tên nghe vui"
+   ],
+   "answer": 3,
+   "spell": "Tên ngầu chưa chắc người ngoan.",
+   "legal": "Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 52,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Nhóm lớp lan truyền \"Mai thi học kỳ bị hoãn, nguồn: tin chuẩn 100%\". Không ai biết ai đăng đầu tiên. Bạn nên?",
+   "options": [
+    "Chia sẻ thêm vào 5 nhóm khác cho chắc",
+    "Chia sẻ vì \"tin chuẩn 100%\"",
+    "Nghỉ ôn bài luôn",
+    "Kiểm tra trên kênh chính thức của trường trước khi tin hay chia sẻ"
+   ],
+   "answer": 3,
+   "spell": "“Chuẩn 100%” mà không nguồn = 0% đáng tin.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 53,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Tí lập \"page confession\" đăng chuyện xấu bịa về bạn cùng lớp cho vui. Hành vi này là?",
+   "options": [
+    "Bịa đặt, xúc phạm danh dự người khác – bị nghiêm cấm",
+    "Quyền tự do sáng tác",
+    "Hợp pháp nếu ẩn danh",
+    "Đùa vui vô hại"
+   ],
+   "answer": 0,
+   "spell": "Ẩn danh không phải áo tàng hình trước pháp luật.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm d khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 54,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Bạn gửi riêng cho Mèo Mít ảnh nhạy cảm của một bạn khác, kèm \"xem xong xóa nhé\". Mèo Mít nên?",
+   "options": [
+    "Xem rồi xóa là xong",
+    "Không xem, không chuyển tiếp, báo người lớn tin cậy",
+    "Chuyển cho một người thôi",
+    "Lưu lại phòng khi cần"
+   ],
+   "answer": 1,
+   "spell": "Mỗi lượt chuyển là thêm một vết thương.",
+   "legal": "Điểm c khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 55,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Nhóm bạn dùng app AI ghép mặt cô giáo vào clip nhảy múa hài rồi đăng lên TikTok. Đánh giá?",
+   "options": [
+    "Hợp pháp nếu có chữ \"AI\"",
+    "Dùng AI giả mạo hình ảnh người khác trái luật là hành vi bị nghiêm cấm",
+    "Chỉ là sáng tạo nội dung",
+    "Không sao nếu cô không biết"
+   ],
+   "answer": 1,
+   "spell": "Ghép mặt người khác – ghép luôn rắc rối pháp lý.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm h khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 56,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Bạn rủ \"cho mượn tài khoản ngân hàng của mẹ để nhận tiền hộ, được trả 200k\". Cún Bông nên?",
+   "options": [
+    "Đồng ý một lần thôi",
+    "Từ chối – cho mượn, mua bán tài khoản ngân hàng là trái luật",
+    "Hỏi mẹ mượn thẻ lén",
+    "Đồng ý vì có tiền"
+   ],
+   "answer": 1,
+   "spell": "Cho thuê tài khoản = thuê luôn rắc rối.",
+   "legal": "Điểm g khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15; Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 57,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Tin nhắn Facebook từ bạn thân: \"Bình chọn giúp tớ nhé!\" kèm link yêu cầu đăng nhập Facebook lần nữa. Bạn nên?",
+   "options": [
+    "Không đăng nhập, gọi hỏi bạn – có thể tài khoản bạn đã bị chiếm",
+    "Đăng nhập để giúp bạn",
+    "Đăng nhập bằng tài khoản phụ",
+    "Gửi link cho cả lớp bình chọn"
+   ],
+   "answer": 0,
+   "spell": "Link đòi đăng nhập lại – dấu hiệu câu “cá”.",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm c khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 58,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "App \"xem ai vào trang cá nhân bạn\" đòi tên đăng nhập và mật khẩu Facebook. Tí nên?",
+   "options": [
+    "Cung cấp vì tò mò",
+    "Không cung cấp, đây là chiêu thu thập dữ liệu trái phép",
+    "Cung cấp tài khoản của bạn khác",
+    "Cung cấp rồi đổi mật khẩu sau 1 tháng"
+   ],
+   "answer": 1,
+   "spell": "Tò mò ai xem mình – kẻ gian đang xem mình!",
+   "legal": "Điểm h khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 59,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Tí bị nhắn tin xúc phạm liên tục. Bước nào là ĐÚNG để lưu bằng chứng?",
+   "options": [
+    "Chỉnh ảnh cho rõ ràng hơn",
+    "Xóa tin để quên",
+    "Chửi lại rồi chụp",
+    "Chụp màn hình có thời gian, tài khoản gửi, không chỉnh sửa"
+   ],
+   "answer": 3,
+   "spell": "Bằng chứng nguyên vẹn – bảo vệ chính mình.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 60,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Bài đăng \"Uống 3 lít nước chanh mỗi sáng chữa khỏi mọi bệnh\" có 1 triệu like. Nhiều like có nghĩa là?",
+   "options": [
+    "Chắc chắn đúng",
+    "Đúng một nửa",
+    "Đúng nếu bác sĩ like",
+    "Không có nghĩa là đúng – cần kiểm chứng nguồn y tế tin cậy"
+   ],
+   "answer": 3,
+   "spell": "Like nhiều không thay được bằng chứng.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 61,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "ban-quyen"
+   ],
+   "image": "img/banquyen.svg",
+   "situation": "Mèo Mít đăng lại nguyên video của YouTuber khác lên kênh mình để kiếm tiền. Đây là?",
+   "options": [
+    "Hợp pháp vì video đã công khai",
+    "Được phép nếu thêm nhạc",
+    "Hợp pháp nếu đổi tiêu đề",
+    "Vi phạm bản quyền trên không gian mạng"
+   ],
+   "answer": 3,
+   "spell": "Copy-paste kiếm tiền = copy-paste rắc rối.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 62,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Trang web \"cá cược game, nạp 50k ăn 500k\" mời Tí tham gia. Đúng hay sai?",
+   "options": [
+    "Đúng vì chỉ là game",
+    "Sai – tổ chức, tham gia đánh bạc qua mạng là bị nghiêm cấm",
+    "Đúng nếu nạp ít",
+    "Đúng nếu thắng"
+   ],
+   "answer": 1,
+   "spell": "“Nạp ít ăn nhiều” – thường là ăn sạch.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 63,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Người quen qua mạng dọa: \"Không gửi thêm ảnh thì tao phát tán ảnh cũ\". Bạn nên làm gì?",
+   "options": [
+    "Gửi thêm để họ im",
+    "Dừng liên lạc, không gửi thêm, lưu bằng chứng, báo người lớn/công an",
+    "Trả tiền cho họ",
+    "Tự tìm nhà họ để nói chuyện"
+   ],
+   "answer": 1,
+   "spell": "Bị dọa ảnh – không gửi, không trả, báo ngay!",
+   "legal": "Điểm c khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 64,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Tính năng nào giúp tài khoản an toàn hơn ngay cả khi lộ mật khẩu?",
+   "options": [
+    "Đăng nhiều bài",
+    "Xác thực hai yếu tố (2FA)",
+    "Đặt tên tài khoản dài",
+    "Ảnh đại diện đẹp"
+   ],
+   "answer": 1,
+   "spell": "Hai lớp khóa – kẻ gian bó tay.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 65,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một nhóm Zalo bán \"danh sách số điện thoại học sinh cả trường\". Việc mua bán này?",
+   "options": [
+    "Được phép nếu dùng để quảng cáo",
+    "Hợp pháp nếu giá rẻ",
+    "Bị nghiêm cấm – mua bán dữ liệu cá nhân trái luật",
+    "Hợp pháp vì số điện thoại ai cũng có"
+   ],
+   "answer": 2,
+   "spell": "Dữ liệu người khác không phải món hàng.",
+   "legal": "Khoản 6 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm h khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 66,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Bạn thấy livestream đánh nhau của học sinh trường mình. Hành động đúng?",
+   "options": [
+    "Không chia sẻ, báo cáo nội dung và báo thầy cô",
+    "Bình luận cổ vũ",
+    "Share ngay để mọi người biết",
+    "Tải về lưu làm kỷ niệm"
+   ],
+   "answer": 0,
+   "spell": "Share bạo lực = tiếp tay bạo lực.",
+   "legal": "Điểm d khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 67,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Clip \"giọng ca sĩ nổi tiếng\" quảng cáo app vay tiền siêu nhanh. Bạn nên nghĩ gì?",
+   "options": [
+    "App chắc chắn uy tín",
+    "Ca sĩ đã quảng cáo thật",
+    "Có thể là giọng nói giả bằng AI để lừa đảo",
+    "Vay thử 1 triệu"
+   ],
+   "answer": 2,
+   "spell": "Giọng quen chưa chắc người quen.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 68,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Tài khoản của Tí bị kẻ xấu chiếm và dùng đi lừa bạn bè. Điều Tí nên làm đầu tiên?",
+   "options": [
+    "Đi lừa lại kẻ xấu",
+    "Lập tài khoản mới và im lặng",
+    "Báo bạn bè cảnh giác, khôi phục tài khoản và báo người lớn",
+    "Kệ, không phải lỗi mình"
+   ],
+   "answer": 2,
+   "spell": "Mất nick – báo ngay cho bạn bè đừng mắc bẫy.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15; Khoản 3 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 69,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Ảnh bão \"khủng khiếp nhất lịch sử\" đang lan truyền nhưng thật ra là ảnh từ phim. Người chia sẻ có thể bị gì?",
+   "options": [
+    "Có thể bị xử lý vì phát tán thông tin sai sự thật gây hoang mang",
+    "Được thưởng vì cảnh báo sớm",
+    "Chỉ người làm phim chịu trách nhiệm",
+    "Không sao vì chỉ chia sẻ"
+   ],
+   "answer": 0,
+   "spell": "Share bừa – có thể bị phạt thật.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật); Nghị định 330/2026/NĐ-CP (xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 70,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Tin nhắn \"Tài khoản ngân hàng của bạn bị khóa, bấm link để mở\" gửi tới máy mẹ. Bạn nên khuyên mẹ?",
+   "options": [
+    "Không bấm link, gọi tổng đài chính thức của ngân hàng",
+    "Trả lời tin nhắn hỏi lý do",
+    "Bấm và nhập mật khẩu nhanh",
+    "Chuyển tiền sang tài khoản khác qua link"
+   ],
+   "answer": 0,
+   "spell": "Ngân hàng không nhắn link đòi mật khẩu.",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 71,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "\"Anh\" quen qua game chuyển sang Telegram, khen Mèo Mít \"trưởng thành hơn tuổi\", dặn đừng kể ai. Đây là dấu hiệu?",
+   "options": [
+    "Anh ấy chỉ thân thiện",
+    "Tình bạn đẹp",
+    "Dụ dỗ trực tuyến – cần dừng lại và kể với người lớn",
+    "Bình thường trên mạng"
+   ],
+   "answer": 2,
+   "spell": "Khen + bí mật + chuyển app = 3 đèn đỏ.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 6 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 72,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bạn đăng ảnh thẻ học sinh có đầy đủ họ tên, ngày sinh, mã số. Rủi ro?",
+   "options": [
+    "Được nhiều bạn kết bạn",
+    "Bị lợi dụng giả mạo danh tính",
+    "Không có rủi ro",
+    "Trường khen"
+   ],
+   "answer": 1,
+   "spell": "Ảnh giấy tờ lên mạng – danh tính bay đi.",
+   "legal": "Điểm a khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm g khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 73,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "cookie"
+   ],
+   "image": "img/cookie.svg",
+   "situation": "Trang web hỏi \"Chấp nhận tất cả cookie?\". Theo Luật BVDLCN, mạng xã hội phải cho bạn quyền gì?",
+   "options": [
+    "Bắt buộc chấp nhận",
+    "Không có quyền gì",
+    "Lựa chọn từ chối thu thập và chia sẻ cookie",
+    "Chỉ được xem nếu chấp nhận"
+   ],
+   "answer": 2,
+   "spell": "Cookie không phải bánh – được quyền nói “không”.",
+   "legal": "Khoản 3 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 74,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Tí đăng ảnh chụp lén bạn đang khóc trong nhà vệ sinh lên story. Đánh giá?",
+   "options": [
+    "Hợp pháp nếu không ghi tên",
+    "Không sao nếu story 24h",
+    "Xâm phạm đời sống riêng tư, danh dự của bạn",
+    "Ghi lại khoảnh khắc thật"
+   ],
+   "answer": 2,
+   "spell": "Story 24 giờ – tổn thương có thể cả đời.",
+   "legal": "Điểm c khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 7 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 75,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Trên nhóm game có người bán \"tool hack\" kèm file .exe. Nguy cơ?",
+   "options": [
+    "File có thể chứa mã độc, và hack game là hành vi trái luật",
+    "Không nguy cơ gì",
+    "Game sẽ chạy mượt hơn",
+    "Được chơi miễn phí trọn đời"
+   ],
+   "answer": 0,
+   "spell": "Tool hack = hack ngược máy bạn.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15; Điểm đ khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 76,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Tí \"chỉ like\" một bài chế giễu bạn cùng lớp. Điều đó có ảnh hưởng không?",
+   "options": [
+    "Không, like thì vô hại",
+    "Có – lượt tương tác giúp nội dung lan rộng, làm tổn thương thêm",
+    "Chỉ comment mới ảnh hưởng",
+    "Like là ủng hộ tự do ngôn luận"
+   ],
+   "answer": 1,
+   "spell": "Mỗi lượt like là thêm một cú đẩy.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 77,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Shop online yêu cầu \"chuyển khoản cọc 100%, không giao COD, không cho xem hàng\". Bạn nên?",
+   "options": [
+    "Chuyển gấp đôi để được ưu tiên",
+    "Cho shop mã OTP để thanh toán",
+    "Chuyển ngay kẻo hết hàng",
+    "Cảnh giác, kiểm tra uy tín shop hoặc chọn kênh an toàn hơn"
+   ],
+   "answer": 3,
+   "spell": "Cọc 100% với shop lạ – rủi ro 100%.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 78,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Có người dùng ảnh trên Facebook của chị Tí để tạo tài khoản giả, mượn tiền họ hàng. Hành vi này?",
+   "options": [
+    "Chỉ là trùng tên",
+    "Mạo danh, giả mạo hình ảnh cá nhân – vi phạm pháp luật",
+    "Chỉ là trò đùa",
+    "Hợp pháp vì ảnh công khai"
+   ],
+   "answer": 1,
+   "spell": "Mượn mặt người khác để mượn tiền = lừa đảo.",
+   "legal": "Điểm h khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15; Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 79,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Mạng xã hội yêu cầu chụp ảnh căn cước của bạn để \"xác thực tài khoản\". Theo Luật BVDLCN?",
+   "options": [
+    "Luật không quy định",
+    "Bắt buộc phải gửi",
+    "Được gửi nếu là thẻ học sinh",
+    "Nền tảng mạng xã hội không được yêu cầu ảnh, video chứa giấy tờ tùy thân để xác thực tài khoản"
+   ],
+   "answer": 3,
+   "spell": "Xác thực bằng ảnh căn cước – luật nói không.",
+   "legal": "Khoản 2 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 80,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Bạn thấy bài \"Cô hiệu trưởng bị bắt\" không có nguồn. Lựa chọn tốt nhất?",
+   "options": [
+    "Không bình luận, không chia sẻ, chờ thông tin chính thức",
+    "Đăng lên nhóm phụ huynh",
+    "Chia sẻ kèm dấu chấm hỏi",
+    "Bình luận \"thật không?\" để kéo tương tác"
+   ],
+   "answer": 0,
+   "spell": "Dấu chấm hỏi không làm tin giả thành vô tội.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 81,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Nhóm lớp tạo bình chọn \"Bạn xấu nhất lớp\". Mèo Mít là lớp trưởng nên làm gì?",
+   "options": [
+    "Bình chọn cho vui",
+    "Đề nghị xóa bình chọn và báo giáo viên",
+    "Chụp lại gửi nhóm khác",
+    "Đề cử chính mình để đùa"
+   ],
+   "answer": 1,
+   "spell": "Bình chọn chê bai = bắt nạt có hệ thống.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 82,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "mat-khau"
+   ],
+   "image": "img/matkhau.svg",
+   "situation": "Wifi quán trà sữa miễn phí không mật khẩu. Bạn nên tránh làm gì khi dùng?",
+   "options": [
+    "Xem dự báo thời tiết",
+    "Tra từ điển",
+    "Đọc truyện tranh",
+    "Đăng nhập ngân hàng hoặc nhập mật khẩu quan trọng"
+   ],
+   "answer": 3,
+   "spell": "Wifi miễn phí – đừng mở “két sắt”.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 83,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "File \"Ảnh_kỷ_yếu.jpg.apk\" gửi qua Zalo. Điều đáng ngờ là gì?",
+   "options": [
+    "Tên file quá dài",
+    "Ảnh kỷ yếu luôn là apk",
+    "Đuôi .apk là file cài ứng dụng, không phải ảnh – có thể là mã độc",
+    "Không có gì đáng ngờ"
+   ],
+   "answer": 2,
+   "spell": "Ảnh mà đuôi .apk – ảnh… mã độc.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15; Điểm a khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 84,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "ban-quyen"
+   ],
+   "image": "img/banquyen.svg",
+   "situation": "Bạn mua 1 tài khoản xem phim rồi bán lại mật khẩu cho 50 người. Đánh giá?",
+   "options": [
+    "Hợp pháp vì đã trả tiền",
+    "Không ai biết nên không sao",
+    "Kinh doanh thông minh",
+    "Vi phạm bản quyền, có thể bị xử lý"
+   ],
+   "answer": 3,
+   "spell": "Một tài khoản, năm mươi rắc rối.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 85,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Bạn được hẹn \"phỏng vấn làm mẫu ảnh online, lương cao\", yêu cầu gửi ảnh mặc đồ bơi. Bạn nên?",
+   "options": [
+    "Gửi ảnh bạn thân",
+    "Gửi để có việc",
+    "Gửi ảnh cũ",
+    "Từ chối, báo người lớn – đây là chiêu dụ dỗ phổ biến"
+   ],
+   "answer": 3,
+   "spell": "Việc nhẹ lương cao + ảnh đồ bơi = bẫy.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 6 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 86,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Cô giáo dùng bảng điểm có tên học sinh để làm ví dụ công khai trên Facebook. Học sinh có quyền gì?",
+   "options": [
+    "Không có quyền gì",
+    "Yêu cầu xóa hoặc hạn chế xử lý dữ liệu cá nhân của mình",
+    "Chỉ được tự đăng bảng điểm của cô",
+    "Chỉ được khiếu nại khi đủ 18 tuổi"
+   ],
+   "answer": 1,
+   "spell": "Dữ liệu của em – em có quyền lên tiếng.",
+   "legal": "Điểm d khoản 1 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 2 Điều 24 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 87,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Tí nạp game bằng thẻ của bố mà không hỏi. Vấn đề là?",
+   "options": [
+    "Game sẽ hoàn tiền",
+    "Dùng phương tiện thanh toán của người khác trái phép",
+    "Không vấn đề vì là bố",
+    "Chỉ sai nếu nạp nhiều"
+   ],
+   "answer": 1,
+   "spell": "Thẻ bố không phải ví của em.",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 88,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Bạn tự dựng video \"trường có ma\" để câu view, khiến nhiều bạn sợ không dám đi học. Đánh giá?",
+   "options": [
+    "Không sao nếu được nhiều view",
+    "Đăng tin sai sự thật gây hoang mang – có thể bị xử lý",
+    "Sáng tạo nội dung bình thường",
+    "Hợp pháp vì là giải trí"
+   ],
+   "answer": 1,
+   "spell": "View tăng, rắc rối cũng tăng.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 89,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Thấy tài khoản đăng ảnh xâm hại trẻ em, bạn nên?",
+   "options": [
+    "Tải về làm bằng chứng gửi nhóm lớp",
+    "Bình luận chửi",
+    "Chia sẻ để cảnh báo",
+    "Không chia sẻ, báo cáo nền tảng và báo công an/Tổng đài 111"
+   ],
+   "answer": 3,
+   "spell": "Báo cáo, đừng lan truyền.",
+   "legal": "Khoản 4 Điều 16 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 90,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Bạn nhận tin nhắn thoại giống giọng bố: \"Bố đang gấp, chuyển ngay 5 triệu vào số này\". Cách xử lý?",
+   "options": [
+    "Chuyển ngay vì giọng giống",
+    "Hỏi bố món ăn yêu thích qua tin nhắn đó",
+    "Gọi lại bố hoặc người nhà qua số quen để xác minh",
+    "Chuyển một nửa"
+   ],
+   "answer": 2,
+   "spell": "Giọng giống – xác minh trước, chuyển tiền sau (hoặc không).",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 91,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Bạn có quyền yêu cầu người khác gỡ ảnh của mình họ đăng mà chưa hỏi không?",
+   "options": [
+    "Không, đăng rồi là của họ",
+    "Chỉ khi ảnh xấu",
+    "Chỉ người nổi tiếng mới có quyền",
+    "Có – chủ thể dữ liệu có quyền yêu cầu xóa dữ liệu cá nhân"
+   ],
+   "answer": 3,
+   "spell": "Ảnh của mình – mình có tiếng nói.",
+   "legal": "Điểm d khoản 1 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 92,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "App học tiếng Anh tắt đi rồi mà vẫn liên tục lấy vị trí. Theo luật, nhà cung cấp app phải?",
+   "options": [
+    "Được lấy tự do",
+    "Không cần thông báo",
+    "Thông báo việc dùng dữ liệu vị trí và cho người dùng tùy chọn theo dõi vị trí",
+    "Chỉ cần giấu trong điều khoản"
+   ],
+   "answer": 2,
+   "spell": "Vị trí của bạn – bạn bật tắt.",
+   "legal": "Điểm b khoản 3 Điều 31 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 93,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Mã QR dán trên cột điện: \"Quét để nhận học bổng 10 triệu\". Bạn nên?",
+   "options": [
+    "Không quét, mã QR lạ có thể dẫn tới trang lừa đảo",
+    "Chụp gửi bạn bè quét",
+    "Quét ngay",
+    "Quét bằng máy của mẹ"
+   ],
+   "answer": 0,
+   "spell": "QR lạ – đừng để điện thoại “ăn” bậy.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 94,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Mèo Mít nhận ra mình từng chia sẻ bài chế giễu bạn. Việc nên làm?",
+   "options": [
+    "Đăng thêm bài khác để át đi",
+    "Đổ lỗi cho người đăng đầu",
+    "Giả vờ không biết",
+    "Gỡ bài, xin lỗi bạn, không tiếp tục lan truyền"
+   ],
+   "answer": 3,
+   "spell": "Lỡ làm sai – dừng lại, sửa sai.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 95,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Bạn bè hỏi mượn tài khoản Zalo để \"nhắn tin cho crush\". Nếu bạn ấy dùng để làm việc xấu, ai chịu trách nhiệm?",
+   "options": [
+    "Chủ tài khoản cũng có thể bị xử lý tùy mức độ",
+    "Nhà mạng",
+    "Không ai cả",
+    "Chỉ người mượn"
+   ],
+   "answer": 0,
+   "spell": "Tài khoản của bạn – trách nhiệm của bạn.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 96,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Có bài viết kêu gọi tẩy chay một cửa hàng với thông tin bịa đặt. Theo luật, kêu gọi tẩy chay kiểu này?",
+   "options": [
+    "Quyền của người tiêu dùng",
+    "Là thông tin xâm phạm quyền, lợi ích hợp pháp của tổ chức",
+    "Hợp pháp nếu nhiều người đồng tình",
+    "Không có quy định"
+   ],
+   "answer": 1,
+   "spell": "Tẩy chay bằng tin bịa – bịa thì sai.",
+   "legal": "Điểm b khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15; Điểm a khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 97,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Dấu hiệu nào cho thấy bạn mạng có thể không như họ nói?",
+   "options": [
+    "Không bao giờ bật camera, hỏi nhiều chuyện riêng, đòi giữ bí mật",
+    "Thích cùng game với bạn",
+    "Có ảnh đại diện đẹp",
+    "Nói chuyện lịch sự"
+   ],
+   "answer": 0,
+   "spell": "Không ai trên mạng giống hệt những gì họ nói.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 98,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Livestream bán \"iPhone xách tay giá 1 triệu, cam kết chính hãng\". Theo luật, quảng cáo bán hàng giả, không rõ nguồn gốc trên mạng là?",
+   "options": [
+    "Hành vi xâm phạm trật tự, an toàn xã hội trên không gian mạng",
+    "Khuyến mãi bình thường",
+    "Kinh doanh hợp pháp",
+    "Chỉ vi phạm khi bị tố"
+   ],
+   "answer": 0,
+   "spell": "Hàng giá “khó tin” – thường là “khó tin” thật.",
+   "legal": "Điểm h khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 99,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Bạn tạo phần mềm làm sập server game của trường \"cho vui\". Hành vi này là?",
+   "options": [
+    "Không ai biết thì không sao",
+    "Thử tài lập trình",
+    "Hợp pháp vì là trường mình",
+    "Tấn công mạng – gây gián đoạn hệ thống thông tin"
+   ],
+   "answer": 3,
+   "spell": "Làm sập để vui – vui ở đồn.",
+   "legal": "Điểm b khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15; Khoản 3 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 100,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Bạn nhận được tin nhắn đe dọa lúc 11 giờ đêm. Theo cẩm nang, bước đầu tiên là?",
+   "options": [
+    "Đăng lên mạng kể khổ",
+    "Chửi lại cho bõ tức",
+    "Trả lời để hỏi lý do",
+    "Dừng lại và cắt nguồn gây hại (chặn, ngừng trả lời)"
+   ],
+   "answer": 3,
+   "spell": "Nút đầu tiên: DỪNG.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 101,
+   "level": 2,
+   "difficulty": 2,
+   "tags": [
+    "ai-deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Bạn dùng AI tạo ảnh \"bạn cùng lớp đang ăn trộm\" để trêu. Hành vi này vi phạm?",
+   "options": [
+    "Không vi phạm vì ảnh là AI",
+    "Dùng AI giả mạo hình ảnh và bịa đặt xúc phạm người khác",
+    "Không vi phạm nếu ghi \"đùa\"",
+    "Chỉ vi phạm nếu bạn ấy kiện"
+   ],
+   "answer": 1,
+   "spell": "Ảnh AI – hậu quả thật.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 102,
+   "level": 2,
+   "difficulty": 1,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bạn có nghĩa vụ gì với dữ liệu cá nhân của chính mình theo Luật BVDLCN?",
+   "options": [
+    "Tự bảo vệ dữ liệu cá nhân của mình",
+    "Giao cho người khác giữ hộ",
+    "Không có nghĩa vụ gì",
+    "Phải đăng công khai"
+   ],
+   "answer": 0,
+   "spell": "Luật dặn: tự giữ dữ liệu của mình trước.",
+   "legal": "Điểm a khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 103,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một app học tập ghi: \"Tiếp tục sử dụng nghĩa là bạn đồng ý cho chúng tôi bán dữ liệu cho đối tác\". Theo Luật BVDLCN, cách \"đồng ý\" này?",
+   "options": [
+    "Hợp lệ nếu người dùng trên 16 tuổi",
+    "Hợp lệ vì đã thông báo",
+    "Hợp lệ nếu app miễn phí",
+    "Không hợp lệ – sự đồng ý phải tự nguyện, rõ ràng, theo từng mục đích; im lặng không phải là đồng ý"
+   ],
+   "answer": 3,
+   "spell": "Im lặng ≠ đồng ý. Đồng ý phải rõ ràng.",
+   "legal": "Khoản 2 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm d khoản 4 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 104,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Đăng ký CLB online yêu cầu đồng ý chung một nút cho cả \"quản lý thành viên\" và \"gửi quảng cáo của nhà tài trợ\". Điểm sai?",
+   "options": [
+    "Sai vì nút quá nhỏ",
+    "Không được buộc đồng ý kèm các mục đích khác ngoài thỏa thuận",
+    "Chỉ sai nếu thu phí",
+    "Không sai gì"
+   ],
+   "answer": 1,
+   "spell": "Mỗi mục đích một lần đồng ý.",
+   "legal": "Điểm a khoản 4 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm b khoản 4 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 105,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bạn đã đồng ý cho một app dùng dữ liệu, giờ muốn rút lại. Theo luật?",
+   "options": [
+    "Đã đồng ý thì không rút được",
+    "Chỉ rút được khi app đóng cửa",
+    "Phải ra tòa mới rút được",
+    "Có quyền yêu cầu rút lại sự đồng ý, gửi bằng văn bản hoặc dạng điện tử kiểm chứng được"
+   ],
+   "answer": 3,
+   "spell": "Đồng ý được thì rút được.",
+   "legal": "Điểm b khoản 1 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 1 Điều 10 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 2 Điều 10 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 106,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Rút lại sự đồng ý có làm các hoạt động xử lý dữ liệu TRƯỚC thời điểm rút trở nên trái luật không?",
+   "options": [
+    "Có, mọi xử lý trước đó đều trái luật",
+    "Có, và app phải bồi thường tự động",
+    "Tùy app quyết định",
+    "Không – việc rút lại không áp dụng với hoạt động xử lý trước thời điểm yêu cầu"
+   ],
+   "answer": 3,
+   "spell": "Rút đồng ý là “từ nay”, không phải “từ xưa”.",
+   "legal": "Khoản 4 Điều 10 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 107,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Theo Luật BVDLCN, việc nào sau đây bị nghiêm cấm (trừ trường hợp luật khác quy định)?",
+   "options": [
+    "Mua, bán dữ liệu cá nhân",
+    "Tự đăng ảnh của mình",
+    "Yêu cầu chỉnh sửa dữ liệu sai",
+    "Đồng ý cho trường lưu hồ sơ"
+   ],
+   "answer": 0,
+   "spell": "Dữ liệu người khác – không mua, không bán.",
+   "legal": "Khoản 6 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 108,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Theo Luật BVDLCN, \"dữ liệu cá nhân\" sau khi đã khử nhận dạng thì?",
+   "options": [
+    "Trở thành bí mật nhà nước",
+    "Thuộc về người khử nhận dạng",
+    "Vẫn là dữ liệu cá nhân nhạy cảm",
+    "Không còn là dữ liệu cá nhân"
+   ],
+   "answer": 3,
+   "spell": "Khử nhận dạng xong – không còn “nhận ra ai”.",
+   "legal": "Khoản 1 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 11 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 109,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bạn phát hiện thông tin sai về mình trong hồ sơ một trung tâm tiếng Anh. Quyền của bạn?",
+   "options": [
+    "Xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân",
+    "Chỉ phụ huynh có quyền xem",
+    "Chỉ được chấp nhận",
+    "Phải trả phí mới được xem"
+   ],
+   "answer": 0,
+   "spell": "Dữ liệu sai – có quyền sửa.",
+   "legal": "Điểm c khoản 1 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 110,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một tạp chí tuổi teen muốn đăng chuyện đời tư của bạn 14 tuổi (có tên, ảnh). Theo Luật BVDLCN cần sự đồng ý của ai?",
+   "options": [
+    "Chỉ của bạn đó",
+    "Chỉ của bố mẹ",
+    "Của chính bạn đó (vì từ đủ 7 tuổi) và người đại diện theo pháp luật",
+    "Của nhà trường"
+   ],
+   "answer": 2,
+   "spell": "Trẻ từ 7 tuổi – cả em và bố mẹ cùng gật đầu.",
+   "legal": "Khoản 2 Điều 24 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 111,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Theo Luật An ninh mạng 2025, đăng thông tin sai sự thật gây hoang mang trong Nhân dân thuộc nhóm nào?",
+   "options": [
+    "Chỉ vi phạm nếu có trên 1.000 lượt chia sẻ",
+    "Vi phạm đạo đức, không vi phạm luật",
+    "Hành vi bị nghiêm cấm về an ninh mạng",
+    "Quyền tự do biểu đạt không giới hạn"
+   ],
+   "answer": 2,
+   "spell": "Sai sự thật gây hoang mang – nằm trong danh sách cấm.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 112,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Nghị định nào trong 7 nghị định ngày 19/8/2026 chuyên về phòng, chống tin giả, tin sai sự thật?",
+   "options": [
+    "Nghị định 329/2026/NĐ-CP",
+    "Nghị định 331/2026/NĐ-CP",
+    "Nghị định 332/2026/NĐ-CP",
+    "Nghị định 328/2026/NĐ-CP"
+   ],
+   "answer": 3,
+   "spell": "Tin giả? Nhớ “ba hai tám”.",
+   "legal": "Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 113,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Nghị định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân là?",
+   "options": [
+    "Nghị định 327/2026/NĐ-CP",
+    "Nghị định 332/2026/NĐ-CP",
+    "Nghị định 330/2026/NĐ-CP",
+    "Nghị định 333/2026/NĐ-CP"
+   ],
+   "answer": 2,
+   "spell": "Phạt thì “ba ba mươi”.",
+   "legal": "Nghị định 330/2026/NĐ-CP (xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 114,
+   "level": 3,
+   "difficulty": 1,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Luật An ninh mạng số 116/2025/QH15 có hiệu lực từ ngày nào?",
+   "options": [
+    "10/12/2025",
+    "01/01/2026",
+    "19/8/2026",
+    "01/7/2026"
+   ],
+   "answer": 3,
+   "spell": "Mùng 1 tháng 7 năm 2026 – luật mới “lên sóng”.",
+   "legal": "Khoản 1 Điều 44 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 115,
+   "level": 3,
+   "difficulty": 1,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 có hiệu lực từ ngày nào?",
+   "options": [
+    "01/01/2026",
+    "26/6/2025",
+    "01/7/2026",
+    "01/01/2027"
+   ],
+   "answer": 0,
+   "spell": "Tết Dương lịch 2026 – dữ liệu được “bảo hiểm”.",
+   "legal": "Điều 38 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 116,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Khi Luật An ninh mạng 2025 có hiệu lực, hai luật nào hết hiệu lực?",
+   "options": [
+    "Luật Giao dịch điện tử và Luật Viễn thông",
+    "Bộ luật Dân sự và Bộ luật Hình sự",
+    "Luật An toàn thông tin mạng 2015 và Luật An ninh mạng 2018",
+    "Luật Trẻ em và Luật Giáo dục"
+   ],
+   "answer": 2,
+   "spell": "Hai luật cũ “nghỉ hưu”, một luật mới thay.",
+   "legal": "Khoản 2 Điều 44 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 117,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Theo Luật ANM 2025, người dùng có trách nhiệm gì với tài khoản số của mình?",
+   "options": [
+    "Chỉ doanh nghiệp mới có trách nhiệm",
+    "Bảo mật thông tin đăng ký, mở, quản lý, sử dụng tài khoản số",
+    "Không có trách nhiệm gì",
+    "Chia sẻ mật khẩu cho người thân quen"
+   ],
+   "answer": 1,
+   "spell": "Tài khoản số của ai – người đó giữ.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 118,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Tài khoản của bạn bị người khác mượn để lừa đảo. Theo Luật ANM 2025, hậu quả có thể là?",
+   "options": [
+    "Chủ tài khoản, người sử dụng có thể bị xử lý kỷ luật, xử phạt hoặc truy cứu và phải bồi thường nếu gây thiệt hại",
+    "Không ai bị xử lý vì là tài khoản ảo",
+    "Chỉ người mượn bị xử lý",
+    "Chỉ bị nhắc nhở"
+   ],
+   "answer": 0,
+   "spell": "Cho mượn tài khoản – trả giá bằng trách nhiệm.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 119,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Thu thập, mua bán, trao đổi trái phép thông tin tài khoản ngân hàng, ví điện tử của người khác là?",
+   "options": [
+    "Giao dịch dân sự bình thường",
+    "Chỉ vi phạm khi trên 10 tài khoản",
+    "Hợp pháp nếu có giấy viết tay",
+    "Hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng"
+   ],
+   "answer": 3,
+   "spell": "Tài khoản người khác – không phải hàng hóa.",
+   "legal": "Điểm g khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15; Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 120,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Luật ANM 2025 quy định cụ thể về việc dùng AI để giả mạo video, hình ảnh, giọng nói của người khác như thế nào?",
+   "options": [
+    "Được phép nếu để giải trí",
+    "Là hành vi bị nghiêm cấm khi trái quy định pháp luật",
+    "Chỉ cấm với người nổi tiếng",
+    "Không có quy định về AI"
+   ],
+   "answer": 1,
+   "spell": "AI giả mặt giả giọng – luật đã gọi tên.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 121,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Hành vi nào được Luật ANM 2025 liệt kê là thông tin xâm phạm quyền, lợi ích của cá nhân?",
+   "options": [
+    "Đánh giá 3 sao một quán ăn trung thực",
+    "Xúc phạm danh dự, uy tín, nhân phẩm của người khác",
+    "Bày tỏ không thích một bộ phim",
+    "Góp ý lịch sự về bài làm"
+   ],
+   "answer": 1,
+   "spell": "Chê có văn hóa ≠ xúc phạm.",
+   "legal": "Điểm d khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 122,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Bịa đặt rằng bạn khác phạm tội rồi tố cáo họ với cơ quan có thẩm quyền thì sao?",
+   "options": [
+    "Là thông tin xâm phạm quyền, lợi ích hợp pháp của cá nhân theo Luật ANM",
+    "Là quyền tố cáo",
+    "Hợp pháp nếu tố cáo qua mạng",
+    "Chỉ là hiểu nhầm"
+   ],
+   "answer": 0,
+   "spell": "Tố cáo thật là quyền – tố cáo bịa là vi phạm.",
+   "legal": "Điểm g khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 123,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Theo Luật ANM 2025, trẻ em có những quyền gì trên không gian mạng?",
+   "options": [
+    "Tiếp cận thông tin, tham gia hoạt động xã hội, vui chơi, giải trí, bảo vệ bí mật cá nhân, đời sống riêng tư",
+    "Chỉ được dùng mạng khi có giáo viên",
+    "Chỉ được học online",
+    "Không có quyền gì cho đến 18 tuổi"
+   ],
+   "answer": 0,
+   "spell": "Trẻ em online – có quyền và được bảo vệ.",
+   "legal": "Khoản 1 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 124,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Doanh nghiệp cung cấp mạng xã hội có trách nhiệm gì với nội dung gây hại cho trẻ em theo Luật ANM 2025?",
+   "options": [
+    "Chỉ cảnh báo người đăng",
+    "Không có trách nhiệm",
+    "Ngăn chặn chia sẻ và xóa bỏ thông tin gây nguy hại, xâm hại trẻ em",
+    "Chỉ xóa khi có lệnh tòa"
+   ],
+   "answer": 2,
+   "spell": "Nền tảng phải “dọn rác” độc hại cho trẻ.",
+   "legal": "Điểm b khoản 3 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 125,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Ai có trách nhiệm chủ động phòng ngừa phần mềm độc hại theo Luật ANM 2025?",
+   "options": [
+    "Cơ quan, tổ chức, cá nhân – tức là mọi người",
+    "Chỉ người làm IT",
+    "Chỉ công an",
+    "Chỉ nhà mạng"
+   ],
+   "answer": 0,
+   "spell": "Mã độc – ai cũng phải đề phòng.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 126,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Bạn tìm ra lỗ hổng web trường và tự ý xâm nhập để \"đổi điểm giúp bạn\". Theo Luật ANM?",
+   "options": [
+    "Xâm nhập trái phép hệ thống thông tin – hành vi bị nghiêm cấm",
+    "Kỹ năng đáng khen",
+    "Hợp pháp nếu không lấy tiền",
+    "Hợp pháp nếu báo trường sau"
+   ],
+   "answer": 0,
+   "spell": "Phát hiện lỗ hổng – báo, đừng khai thác.",
+   "legal": "Khoản 5 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm d khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 127,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Bạn phát hiện lỗ hổng bảo mật trên website của trường. Cách đúng?",
+   "options": [
+    "Bán thông tin lỗ hổng",
+    "Thử khai thác để chứng minh",
+    "Báo cho nhà trường/cơ quan có thẩm quyền, không khai thác",
+    "Đăng lên mạng khoe"
+   ],
+   "answer": 2,
+   "spell": "Lỗ hổng: báo cáo, không khai thác.",
+   "legal": "Khoản 3 Điều 42 Luật An ninh mạng số 116/2025/QH15; Điểm d khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 128,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Bán, tặng phần mềm có tính năng gây hại để dùng vào mục đích trái pháp luật thuộc nhóm hành vi nào?",
+   "options": [
+    "Chia sẻ mã nguồn mở",
+    "Hành vi tấn công mạng và liên quan tới tấn công mạng",
+    "Không bị điều chỉnh",
+    "Kinh doanh phần mềm bình thường"
+   ],
+   "answer": 1,
+   "spell": "Bán vũ khí số – cũng là tấn công mạng.",
+   "legal": "Điểm đ khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 129,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Theo Luật ANM 2025, thu thập, sử dụng, phát tán, kinh doanh trái pháp luật dữ liệu cá nhân của người khác là?",
+   "options": [
+    "Hành vi bị nghiêm cấm trên không gian mạng",
+    "Hoạt động marketing bình thường",
+    "Hợp pháp nếu dữ liệu đã công khai",
+    "Chỉ vi phạm đạo đức"
+   ],
+   "answer": 0,
+   "spell": "Dữ liệu người khác – không phải “mỏ vàng” tự do.",
+   "legal": "Điểm h khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 130,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Cố ý nghe lén, ghi âm, ghi hình trái phép cuộc gọi trên không gian mạng là?",
+   "options": [
+    "Quyền lưu bằng chứng tùy ý",
+    "Chỉ sai nếu đăng lên mạng",
+    "Hợp pháp nếu là bạn bè",
+    "Hành vi bị nghiêm cấm"
+   ],
+   "answer": 3,
+   "spell": "Ghi lén cuộc gọi – luật cấm rõ ràng.",
+   "legal": "Điểm c khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 131,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Mạng xã hội muốn đọc tin nhắn của bạn để \"gợi ý quảng cáo phù hợp\" mà không hỏi. Theo Luật BVDLCN?",
+   "options": [
+    "Được nếu ghi trong điều khoản dài",
+    "Được phép nếu ẩn danh",
+    "Được phép vì miễn phí",
+    "Không được đọc tin nhắn khi chưa có sự đồng ý, trừ trường hợp luật khác quy định"
+   ],
+   "answer": 3,
+   "spell": "Tin nhắn riêng – không đọc lén.",
+   "legal": "Khoản 5 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 132,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Mạng xã hội có nghĩa vụ gì về chính sách bảo mật theo Luật BVDLCN?",
+   "options": [
+    "Giữ bí mật chính sách",
+    "Không có nghĩa vụ",
+    "Công khai chính sách, giải thích cách thu thập, sử dụng, chia sẻ dữ liệu và cho người dùng cơ chế truy cập, chỉnh sửa, xóa",
+    "Chỉ cung cấp cho cơ quan nhà nước"
+   ],
+   "answer": 2,
+   "spell": "Minh bạch là nghĩa vụ, không phải ân huệ.",
+   "legal": "Khoản 6 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 133,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Dữ liệu sinh trắc học (vân tay, khuôn mặt) được định nghĩa là gì?",
+   "options": [
+    "Mọi ảnh selfie có filter",
+    "Mật khẩu dạng số",
+    "Dữ liệu về sở thích ăn uống",
+    "Dữ liệu về thuộc tính vật lý, đặc điểm sinh học cá biệt và ổn định để xác định một người"
+   ],
+   "answer": 3,
+   "spell": "Vân tay không đổi được như mật khẩu – giữ cẩn thận!",
+   "legal": "Khoản 2 Điều 31 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 134,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một phòng gym thu thập vân tay hội viên nhưng để thiết bị lưu trữ ai cũng truy cập được. Họ vi phạm nghĩa vụ gì?",
+   "options": [
+    "Không vi phạm vì vân tay không phải bí mật",
+    "Bảo mật vật lý thiết bị, hạn chế quyền truy cập dữ liệu sinh trắc học",
+    "Chỉ cần xin lỗi khách",
+    "Chỉ vi phạm nếu bị hack"
+   ],
+   "answer": 1,
+   "spell": "Dữ liệu sinh trắc – khóa hai lớp.",
+   "legal": "Điểm a khoản 4 Điều 31 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 135,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bạn thấy dữ liệu của mình bị lạm dụng và gây thiệt hại. Quyền nào sau đây là của chủ thể dữ liệu?",
+   "options": [
+    "Không có quyền nào",
+    "Khiếu nại, tố cáo, khởi kiện, yêu cầu bồi thường thiệt hại",
+    "Chỉ được đăng lên mạng bóc phốt",
+    "Tự xâm nhập hệ thống để xóa"
+   ],
+   "answer": 1,
+   "spell": "Bị hại dữ liệu – dùng đường pháp luật.",
+   "legal": "Điểm đ khoản 1 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 136,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Khi thực hiện quyền của chủ thể dữ liệu, bạn phải tuân thủ nguyên tắc nào?",
+   "options": [
+    "Được làm mọi cách để bảo vệ dữ liệu mình",
+    "Được công khai dữ liệu người khác để trả đũa",
+    "Không có nguyên tắc nào",
+    "Không xâm phạm quyền, lợi ích hợp pháp của Nhà nước, tổ chức, cá nhân khác"
+   ],
+   "answer": 3,
+   "spell": "Đòi quyền mình – không giẫm quyền người.",
+   "legal": "Điểm c khoản 3 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 137,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Bình luận bịa đặt về chất lượng một ngân hàng gây hoang mang, rút tiền ồ ạt. Luật ANM xếp hành vi này vào?",
+   "options": [
+    "Đăng tải thông tin bịa đặt, sai sự thật trong lĩnh vực tài chính, ngân hàng – bị nghiêm cấm",
+    "Phản biện xã hội",
+    "Bình luận cá nhân",
+    "Không có quy định"
+   ],
+   "answer": 0,
+   "spell": "Tin đồn tài chính – có thể gây “bão” thật.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 138,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Tổ chức, hỗ trợ vận hành sàn giao dịch tài sản số trái phép trên mạng được Luật ANM 2025 xếp vào?",
+   "options": [
+    "Hoạt động khởi nghiệp hợp pháp",
+    "Không bị điều chỉnh",
+    "Hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng",
+    "Đầu tư cá nhân"
+   ],
+   "answer": 2,
+   "spell": "Sàn “ảo” – rắc rối thật.",
+   "legal": "Điểm e khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 139,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Theo Luật ANM 2025, việc phổ biến kiến thức an ninh mạng ưu tiên những đối tượng nào?",
+   "options": [
+    "Trẻ em, người cao tuổi, người khó khăn trong nhận thức",
+    "Chỉ sinh viên IT",
+    "Chỉ doanh nghiệp",
+    "Chỉ cán bộ công an"
+   ],
+   "answer": 0,
+   "spell": "Người dễ bị tổn thương – được ưu tiên học trước.",
+   "legal": "Khoản 1 Điều 35 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 140,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Theo Luật ANM 2025, cá nhân sử dụng không gian mạng có trách nhiệm gì khi phát hiện hành vi xâm phạm an ninh mạng?",
+   "options": [
+    "Đăng lên mạng bóc phốt trước",
+    "Kịp thời cung cấp thông tin cho cơ quan có thẩm quyền, lực lượng bảo vệ an ninh mạng",
+    "Tự xử lý bằng cách tấn công lại",
+    "Im lặng cho an toàn"
+   ],
+   "answer": 1,
+   "spell": "Thấy xâm phạm – báo đúng nơi.",
+   "legal": "Khoản 3 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 141,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Bạn A đăng clip chế giễu ngoại hình bạn B. Nhiều người chia sẻ lại \"cho vui\". Người chia sẻ có liên quan trách nhiệm không?",
+   "options": [
+    "Không, chỉ người đăng đầu tiên",
+    "Không, vì không bình luận gì",
+    "Có thể – phát tán thông tin xâm phạm danh dự người khác cũng là hành vi bị cấm",
+    "Chỉ khi chia sẻ quá 3 lần"
+   ],
+   "answer": 2,
+   "spell": "Đăng lại cũng là “phát tán”.",
+   "legal": "Điểm c khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm a khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 142,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Tài khoản giả mạo trang thông tin điện tử của trường để thu tiền \"học phí bổ sung\". Đây là?",
+   "options": [
+    "Giả mạo trang thông tin điện tử của tổ chức – bị nghiêm cấm",
+    "Quảng cáo hợp pháp",
+    "Lỗi kỹ thuật",
+    "Không vi phạm vì chưa thu được tiền"
+   ],
+   "answer": 0,
+   "spell": "Fanpage giả – học phí thật mất.",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 143,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "game"
+   ],
+   "image": "img/game.svg",
+   "situation": "Quảng cáo \"app cá độ bóng đá uy tín\" tràn ngập nhóm chat. Theo Luật ANM, tổ chức đánh bạc qua mạng là?",
+   "options": [
+    "Chỉ cấm người dưới 18",
+    "Hành vi bị nghiêm cấm",
+    "Hợp pháp nếu nhà cái ở nước ngoài",
+    "Giải trí hợp pháp"
+   ],
+   "answer": 1,
+   "spell": "Cá độ online – thua cả tiền lẫn luật.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 144,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bên quyết định mục đích và phương tiện xử lý dữ liệu cá nhân được gọi là?",
+   "options": [
+    "Chủ thể dữ liệu cá nhân",
+    "Bên kiểm soát dữ liệu cá nhân",
+    "Bên thứ ba",
+    "Bên xử lý dữ liệu cá nhân"
+   ],
+   "answer": 1,
+   "spell": "Ai quyết “để làm gì” – bên kiểm soát.",
+   "legal": "Khoản 7 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 145,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một công ty in thẻ học sinh theo hợp đồng với trường. Công ty này đóng vai trò gì?",
+   "options": [
+    "Cơ quan quản lý nhà nước",
+    "Chủ thể dữ liệu",
+    "Bên xử lý dữ liệu cá nhân",
+    "Bên kiểm soát dữ liệu cá nhân"
+   ],
+   "answer": 2,
+   "spell": "Làm theo yêu cầu qua hợp đồng – bên xử lý.",
+   "legal": "Khoản 8 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 146,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "\"Chủ thể dữ liệu cá nhân\" là ai?",
+   "options": [
+    "Cơ quan công an",
+    "Người thu thập dữ liệu",
+    "Công ty lưu dữ liệu",
+    "Người được dữ liệu cá nhân phản ánh"
+   ],
+   "answer": 3,
+   "spell": "Dữ liệu nói về ai – người đó là chủ thể.",
+   "legal": "Khoản 5 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 147,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Chiếm đoạt, cố ý làm lộ, làm mất dữ liệu cá nhân thuộc nhóm nào theo Luật BVDLCN?",
+   "options": [
+    "Không có quy định",
+    "Hành vi bị nghiêm cấm",
+    "Sơ suất được miễn trách",
+    "Chỉ vi phạm hợp đồng"
+   ],
+   "answer": 1,
+   "spell": "Làm lộ dữ liệu người khác – cấm.",
+   "legal": "Khoản 7 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 148,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Bạn cho người khác mượn căn cước, tài khoản để họ đăng ký sim, mở ví... rồi họ lừa đảo. Theo Luật BVDLCN?",
+   "options": [
+    "Không có quy định",
+    "Cho người khác sử dụng dữ liệu cá nhân của mình để làm trái luật là bị nghiêm cấm",
+    "Chỉ vi phạm nếu nhận tiền",
+    "Không có lỗi vì chỉ cho mượn"
+   ],
+   "answer": 1,
+   "spell": "Cho mượn danh tính – mượn luôn rắc rối.",
+   "legal": "Khoản 5 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 149,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Theo cẩm nang, có nên hứa giữ bí mật tuyệt đối khi bạn kể mình bị xâm hại trực tuyến?",
+   "options": [
+    "Có, và tự giải quyết",
+    "Không, mà kể cho cả lớp",
+    "Không nên hứa tuyệt đối – cần đưa người lớn tin cậy vào cuộc để bảo vệ bạn",
+    "Có, phải giữ bí mật tuyệt đối"
+   ],
+   "answer": 2,
+   "spell": "Giữ riêng tư, đừng giữ nỗi sợ một mình.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 150,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Luật ANM 2025 được Quốc hội ban hành ngày nào?",
+   "options": [
+    "26/6/2025",
+    "01/7/2026",
+    "10/12/2025",
+    "19/8/2026"
+   ],
+   "answer": 2,
+   "spell": "Ngày 10/12/2025 – ngày luật “chào đời”.",
+   "legal": "Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 151,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Theo Luật ANM 2025, ai có trách nhiệm bảo đảm quyền của trẻ em, bảo vệ trẻ khi tham gia không gian mạng?",
+   "options": [
+    "Cơ quan, tổ chức, cha mẹ, người giám hộ, giáo viên, người chăm sóc và cá nhân liên quan",
+    "Chỉ cha mẹ",
+    "Chỉ công an",
+    "Chỉ nhà mạng"
+   ],
+   "answer": 0,
+   "spell": "Bảo vệ trẻ online – việc của tất cả.",
+   "legal": "Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 152,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Theo Luật BVDLCN, chủ thể dữ liệu có nghĩa vụ nào với dữ liệu của người khác?",
+   "options": [
+    "Chỉ phải bảo vệ dữ liệu người thân",
+    "Được tự do chia sẻ nếu là bạn bè",
+    "Không có nghĩa vụ",
+    "Tôn trọng, bảo vệ dữ liệu cá nhân của người khác"
+   ],
+   "answer": 3,
+   "spell": "Bảo vệ dữ liệu mình, tôn trọng dữ liệu người.",
+   "legal": "Điểm b khoản 2 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 153,
+   "level": 3,
+   "difficulty": 3,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Đăng bản đồ Việt Nam thể hiện sai chủ quyền quốc gia trên mạng là?",
+   "options": [
+    "Lỗi thiết kế vô hại",
+    "Tự do sáng tác",
+    "Thông tin bị Luật ANM 2025 xác định là xâm phạm an ninh quốc gia",
+    "Chỉ vi phạm nếu in ra giấy"
+   ],
+   "answer": 2,
+   "spell": "Bản đồ Tổ quốc – không “vẽ bậy”.",
+   "legal": "Điểm e khoản 1 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 154,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "link-la"
+   ],
+   "image": "img/linkla.svg",
+   "situation": "Doanh nghiệp cung cấp dịch vụ thư điện tử phải làm gì với phần mềm độc hại theo Luật ANM 2025?",
+   "options": [
+    "Có hệ thống lọc phần mềm độc hại khi gửi, nhận, lưu trữ thông tin",
+    "Không cần làm gì",
+    "Chuyển trách nhiệm cho người dùng",
+    "Chỉ cảnh báo khi người dùng hỏi"
+   ],
+   "answer": 0,
+   "spell": "Hộp thư có “lưới lọc” – luật yêu cầu.",
+   "legal": "Khoản 3 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 155,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Bà Tư nhận cuộc gọi \"công an\" báo con trai liên quan đường dây ma túy, yêu cầu chuyển tiền \"tạm giữ\" vào tài khoản an toàn. Phản ứng đúng?",
+   "options": [
+    "Chuyển ngay để con khỏi bị bắt",
+    "Cung cấp số tài khoản để họ kiểm tra",
+    "Cúp máy, không chuyển tiền, liên hệ trực tiếp công an địa phương để xác minh",
+    "Chuyển một nửa để thử"
+   ],
+   "answer": 2,
+   "spell": "Công an không làm việc qua điện thoại đòi chuyển tiền.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 156,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Một \"nhân viên ngân hàng\" gọi tới, đọc đúng họ tên, số căn cước của bạn rồi xin mã OTP để \"hoàn tiền\". Điều bạn nên suy luận?",
+   "options": [
+    "Đọc thêm số thẻ để họ đối chiếu",
+    "Đưa OTP vì để hoàn tiền",
+    "Họ biết số căn cước nên chắc là thật",
+    "Biết thông tin của bạn không chứng minh họ là thật – dữ liệu có thể đã bị lộ; không đưa OTP"
+   ],
+   "answer": 3,
+   "spell": "Họ biết về bạn ≠ họ là người tốt.",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 7 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 157,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Ứng dụng \"đầu tư nhiệm vụ: thả tim video nhận hoa hồng\" cho rút lãi 2 lần rồi đòi nạp 50 triệu để \"mở khóa\". Mô hình này là?",
+   "options": [
+    "Đầu tư sinh lời thật",
+    "Lừa đảo chiếm đoạt tài sản điển hình – dừng nạp, lưu bằng chứng, trình báo",
+    "Nạp thêm để rút hết",
+    "Lỗi hệ thống tạm thời"
+   ],
+   "answer": 1,
+   "spell": "Rút được lần đầu là mồi câu lần sau.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 158,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Bạn được mời làm \"cộng tác viên\", chỉ cần cho thuê tài khoản ngân hàng, mỗi tháng 3 triệu. Rủi ro pháp lý?",
+   "options": [
+    "Cho thuê, mua bán tài khoản ngân hàng là trái luật; chủ tài khoản có thể bị xử lý",
+    "Chỉ người thuê chịu trách nhiệm",
+    "Không rủi ro nếu không hỏi mục đích",
+    "Thu nhập thụ động hợp pháp"
+   ],
+   "answer": 0,
+   "spell": "Thuê tài khoản = thuê luôn án phạt.",
+   "legal": "Điểm g khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15; Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 159,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "deepfake"
+   ],
+   "image": "img/deepfake.svg",
+   "situation": "Kế toán nhận video call \"giám đốc\" yêu cầu chuyển gấp 2 tỷ cho đối tác, hình ảnh mờ, mạng chập chờn. Quy trình đúng?",
+   "options": [
+    "Xác minh qua kênh độc lập (gọi số đã biết, gặp trực tiếp) và tuân thủ quy trình phê duyệt",
+    "Hỏi giám đốc ngày sinh qua chính cuộc gọi đó",
+    "Chuyển ngay vì giám đốc ra lệnh",
+    "Chuyển trước, báo cáo sau"
+   ],
+   "answer": 0,
+   "spell": "Deepfake sợ nhất câu: “Để em gọi lại”.",
+   "legal": "Điểm g khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 160,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Cửa hàng bắt khách để lại số điện thoại mới bán hàng, rồi chia sẻ danh sách cho bên quảng cáo. Sai ở đâu?",
+   "options": [
+    "Chỉ sai nếu bán giá cao",
+    "Không có sự đồng ý rõ ràng theo từng mục đích; chia sẻ/mua bán dữ liệu trái luật",
+    "Không sai vì khách tự cho số",
+    "Sai vì không in hóa đơn"
+   ],
+   "answer": 1,
+   "spell": "Cho số để mua hàng ≠ đồng ý bị spam.",
+   "legal": "Điểm a khoản 4 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 6 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 161,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Phụ huynh đăng ảnh con kèm tên trường, lớp, giờ tan học lên mạng công khai. Theo cẩm nang, rủi ro?",
+   "options": [
+    "Chỉ rủi ro nếu ảnh xấu",
+    "Tăng nguy cơ kẻ xấu tiếp cận trẻ – nên hạn chế công khai thông tin nhận dạng",
+    "Giúp con nổi tiếng",
+    "Không rủi ro gì"
+   ],
+   "answer": 1,
+   "spell": "Khoe con vừa đủ – đừng khoe lộ trình.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 1 Điều 24 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 162,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Ứng dụng xem phim yêu cầu ảnh chụp căn cước để \"xác minh\". Bạn là người dùng mạng xã hội, căn cứ nào để từ chối?",
+   "options": [
+    "Luật BVDLCN cấm mạng xã hội yêu cầu ảnh/video chứa giấy tờ tùy thân làm yếu tố xác thực tài khoản",
+    "Phải gửi theo quy định",
+    "Không có căn cứ",
+    "Chỉ được từ chối nếu dưới 18 tuổi"
+   ],
+   "answer": 0,
+   "spell": "Căn cước không phải vé xem phim.",
+   "legal": "Khoản 2 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 163,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Doanh nghiệp tuyển dụng có được tự ý dùng hồ sơ ứng viên trượt để quảng cáo dịch vụ khác không?",
+   "options": [
+    "Được vì ứng viên đã nộp",
+    "Được nếu sau 1 năm",
+    "Không – dữ liệu chỉ xử lý theo mục đích đã được đồng ý",
+    "Được nếu không ghi tên"
+   ],
+   "answer": 2,
+   "spell": "Nộp CV để xin việc, không phải để nhận quảng cáo.",
+   "legal": "Điểm a khoản 4 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 164,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một công ty nhận yêu cầu xóa dữ liệu của khách hàng nhưng cố tình trì hoãn, gây khó khăn. Theo Luật BVDLCN?",
+   "options": [
+    "Được trì hoãn vô thời hạn",
+    "Tổ chức có trách nhiệm tạo điều kiện, không được gây khó khăn việc thực hiện quyền của chủ thể dữ liệu",
+    "Chỉ phải xử lý nếu khách trả phí",
+    "Không có quy định"
+   ],
+   "answer": 1,
+   "spell": "Quyền của khách – doanh nghiệp phải mở cửa.",
+   "legal": "Khoản 4 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 5 Điều 4 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 165,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Bạn nhận video \"thực phẩm X gây ung thư\" từ nhóm họ hàng, chưa rõ nguồn. Ứng xử của người trưởng thành?",
+   "options": [
+    "Kiểm chứng qua nguồn chính thống, không chuyển tiếp khi chưa rõ",
+    "Thêm bình luận phóng đại",
+    "Chuyển tiếp để “thà nhầm còn hơn bỏ sót”",
+    "Đăng lên nhóm kinh doanh"
+   ],
+   "answer": 0,
+   "spell": "“Thà nhầm” có thể làm người khác thiệt thật.",
+   "legal": "Điểm d khoản 1 Điều 7 Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 166,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Nghị định 328/2026/NĐ-CP về phòng, chống tin giả, tin sai sự thật có hiệu lực từ ngày nào?",
+   "options": [
+    "01/01/2026",
+    "01/7/2026",
+    "19/8/2026",
+    "05/10/2026"
+   ],
+   "answer": 3,
+   "spell": "Tin giả “chính thức có luật chơi” từ 5/10/2026.",
+   "legal": "Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 167,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "7 nghị định hướng dẫn Luật ANM 2025 được ban hành cùng ngày nào?",
+   "options": [
+    "10/12/2025",
+    "19/8/2026",
+    "01/7/2026",
+    "05/10/2026"
+   ],
+   "answer": 1,
+   "spell": "Bảy nghị định – một ngày 19/8.",
+   "legal": "Nghị định 333/2026/NĐ-CP (quy định chi tiết và biện pháp thi hành Luật An ninh mạng)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 168,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Nghị định nào quy định về lực lượng bảo vệ an ninh mạng?",
+   "options": [
+    "Nghị định 332/2026/NĐ-CP",
+    "Nghị định 328/2026/NĐ-CP",
+    "Nghị định 329/2026/NĐ-CP",
+    "Nghị định 330/2026/NĐ-CP"
+   ],
+   "answer": 2,
+   "spell": "Lực lượng – “ba hai chín”.",
+   "legal": "Nghị định 329/2026/NĐ-CP (lực lượng bảo vệ an ninh mạng)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 169,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Doanh nghiệp kinh doanh sản phẩm, dịch vụ an ninh mạng cần đọc kỹ nghị định nào?",
+   "options": [
+    "Nghị định 328/2026/NĐ-CP",
+    "Nghị định 332/2026/NĐ-CP",
+    "Nghị định 329/2026/NĐ-CP",
+    "Nghị định 327/2026/NĐ-CP"
+   ],
+   "answer": 1,
+   "spell": "Kinh doanh bảo mật – “ba ba hai”.",
+   "legal": "Nghị định 332/2026/NĐ-CP (kinh doanh sản phẩm, dịch vụ an ninh mạng)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 170,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Bảo vệ an ninh mạng đối với hệ thống thông tin được hướng dẫn chi tiết tại?",
+   "options": [
+    "Nghị định 331/2026/NĐ-CP",
+    "Nghị định 329/2026/NĐ-CP",
+    "Nghị định 330/2026/NĐ-CP",
+    "Nghị định 328/2026/NĐ-CP"
+   ],
+   "answer": 0,
+   "spell": "Hệ thống thông tin – “ba ba mốt”.",
+   "legal": "Nghị định 331/2026/NĐ-CP (bảo vệ an ninh mạng đối với hệ thống thông tin)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 171,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Nghị định 327/2026/NĐ-CP tập trung vào nội dung nào?",
+   "options": [
+    "Lực lượng bảo vệ an ninh mạng",
+    "Phòng ngừa, xử lý thông tin và hành vi dùng CNTT, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội",
+    "Kinh doanh dịch vụ an ninh mạng",
+    "Xử phạt bảo vệ dữ liệu cá nhân"
+   ],
+   "answer": 1,
+   "spell": "327 – “chặn” thông tin xâm phạm.",
+   "legal": "Nghị định 327/2026/NĐ-CP (phòng ngừa, xử lý thông tin xâm phạm ANQG, TTATXH trên không gian mạng)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 172,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật ANM là?",
+   "options": [
+    "Nghị định 333/2026/NĐ-CP",
+    "Nghị định 330/2026/NĐ-CP",
+    "Nghị định 327/2026/NĐ-CP",
+    "Nghị định 331/2026/NĐ-CP"
+   ],
+   "answer": 0,
+   "spell": "Ba ba ba – “bản đồ” thi hành luật.",
+   "legal": "Nghị định 333/2026/NĐ-CP (quy định chi tiết và biện pháp thi hành Luật An ninh mạng)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 173,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Luật ANM 2025 gộp nội dung của những luật nào trước đây?",
+   "options": [
+    "Bộ luật Hình sự và Luật Tố cáo",
+    "Luật Viễn thông và Luật Báo chí",
+    "Luật An ninh mạng 2018 và Luật An toàn thông tin mạng 2015",
+    "Luật Giao dịch điện tử và Luật Công nghệ thông tin"
+   ],
+   "answer": 2,
+   "spell": "Hai luật cũ “hợp nhất” thành một.",
+   "legal": "Khoản 2 Điều 44 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 174,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Nhân viên tò mò dùng tài khoản quản trị để xem hồ sơ lương đồng nghiệp ngoài phạm vi công việc. Đánh giá?",
+   "options": [
+    "Truy cập, xử lý dữ liệu cá nhân trái quy định – vi phạm",
+    "Chỉ vi phạm nội quy",
+    "Không sao nếu không kể ai",
+    "Được phép vì có quyền quản trị"
+   ],
+   "answer": 0,
+   "spell": "Có chìa khóa không có nghĩa được mở mọi cửa.",
+   "legal": "Khoản 4 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 5 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 175,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Công ty bị tấn công ransomware, dữ liệu khách hàng bị lộ. Theo Luật BVDLCN, việc cần làm có tính pháp lý?",
+   "options": [
+    "Đổ lỗi cho nhân viên IT trên mạng",
+    "Giấu kín để giữ uy tín",
+    "Thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân theo quy định",
+    "Trả tiền chuộc rồi im lặng"
+   ],
+   "answer": 2,
+   "spell": "Lộ dữ liệu – phải thông báo, không được giấu.",
+   "legal": "Điều 23 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 176,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Gây sự cố, chiếm quyền điều khiển, làm tê liệt hệ thống thông tin là?",
+   "options": [
+    "Sơ suất kỹ thuật",
+    "Không bị điều chỉnh",
+    "Hành vi bị nghiêm cấm về an ninh mạng",
+    "Kiểm thử bảo mật hợp lệ dù không xin phép"
+   ],
+   "answer": 2,
+   "spell": "Không xin phép mà “thử” – là tấn công.",
+   "legal": "Khoản 3 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 177,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Chủ quản hệ thống thông tin có trách nhiệm gì với các hành vi tấn công mạng?",
+   "options": [
+    "Chỉ mua bảo hiểm",
+    "Chờ công an xử lý",
+    "Áp dụng biện pháp kỹ thuật để phòng ngừa, ngăn chặn đối với hệ thống thuộc phạm vi quản lý",
+    "Không có trách nhiệm"
+   ],
+   "answer": 2,
+   "spell": "Hệ thống của ai – người đó gác cổng.",
+   "legal": "Khoản 2 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 178,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Người cao tuổi trong nhà nhận tin \"trúng thưởng ô tô, nộp phí 5 triệu để nhận\". Con cháu nên làm gì?",
+   "options": [
+    "Giải thích dấu hiệu lừa đảo, cùng kiểm tra và không nộp tiền",
+    "Nộp một nửa",
+    "Nộp giúp cho ông bà vui",
+    "Chia sẻ lên mạng hỏi ý kiến"
+   ],
+   "answer": 0,
+   "spell": "Trúng thưởng mà phải nộp phí – trúng bẫy.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15; Khoản 1 Điều 35 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 179,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Website giả mạo cổng dịch vụ công yêu cầu nhập thông tin định danh để \"cập nhật dữ liệu\". Hành vi tạo website này vi phạm?",
+   "options": [
+    "Không vi phạm vì chưa lấy được gì",
+    "Là lỗi DNS",
+    "Giả mạo trang thông tin điện tử của cơ quan, tổ chức – bị nghiêm cấm",
+    "Chỉ vi phạm bản quyền giao diện"
+   ],
+   "answer": 2,
+   "spell": "Giống cổng công ≠ cổng công.",
+   "legal": "Điểm e khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 180,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Chủ nhà trọ lắp camera hướng vào phòng ở của người thuê. Theo Luật BVDLCN?",
+   "options": [
+    "Không có quy định",
+    "Xâm phạm dữ liệu cá nhân thu được từ ghi hình; cần tuân thủ quy định về ghi âm, ghi hình nơi công cộng và quyền riêng tư",
+    "Được phép nếu không ghi âm",
+    "Được phép vì là nhà của chủ"
+   ],
+   "answer": 1,
+   "spell": "Camera an ninh không phải camera nhìn trộm.",
+   "legal": "Điều 32 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 4 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 181,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Bạn là admin nhóm phụ huynh. Một thành viên đăng bài xúc phạm cô giáo. Ứng xử phù hợp?",
+   "options": [
+    "Chia sẻ sang nhóm khác",
+    "Ẩn/gỡ bài, nhắc nhở, hướng dẫn phản ánh qua kênh chính thức",
+    "Để nguyên cho tự do ngôn luận",
+    "Ghim bài lên đầu"
+   ],
+   "answer": 1,
+   "spell": "Admin nhóm – người gác cổng văn minh.",
+   "legal": "Điểm d khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15; Khoản 1 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 182,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Khi trẻ kể bị xâm hại trực tuyến, cẩm nang khuyên người lớn có nên thu ngay điện thoại của trẻ?",
+   "options": [
+    "Không nên phản ứng trừng phạt; ưu tiên lắng nghe, trấn an, cùng xử lý",
+    "Có, và la mắng để trẻ nhớ",
+    "Không, và bỏ qua chuyện đó",
+    "Có, thu ngay và cấm dùng mạng"
+   ],
+   "answer": 0,
+   "spell": "Thu điện thoại có thể làm trẻ không bao giờ kể nữa.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 183,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "bat-nat"
+   ],
+   "image": "img/batnat.svg",
+   "situation": "Câu nói nào cẩm nang khuyên người lớn nên dùng khi trẻ lần đầu kể chuyện?",
+   "options": [
+    "\"Sao con dại thế?\"",
+    "\"Chuyện nhỏ, quên đi\"",
+    "\"Cảm ơn con đã kể, đây không phải lỗi của con\"",
+    "\"Ai bảo con lên mạng\""
+   ],
+   "answer": 2,
+   "spell": "Câu đầu tiên quyết định trẻ có kể tiếp hay không.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 184,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Phụ huynh đăng ký tài khoản mạng xã hội cho con 10 tuổi bằng thông tin của con và để con tự dùng. Theo Luật ANM?",
+   "options": [
+    "Đúng vì là tài khoản của con",
+    "Đúng nếu con học giỏi",
+    "Luật không quy định",
+    "Chưa đúng – cha mẹ đăng ký bằng thông tin của mình và có trách nhiệm giám sát nội dung trẻ truy cập"
+   ],
+   "answer": 3,
+   "spell": "Con online – bố mẹ đứng tên và đồng hành.",
+   "legal": "Khoản 2 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 185,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một nhà trường muốn công khai danh sách học sinh vi phạm kèm ảnh trên fanpage. Cần lưu ý gì?",
+   "options": [
+    "Không cần lưu ý",
+    "Được làm vì mục đích giáo dục",
+    "Xử lý dữ liệu, công bố đời tư trẻ em từ đủ 7 tuổi cần đồng ý của trẻ và người đại diện; cân nhắc quyền trẻ em",
+    "Chỉ cần hiệu trưởng ký"
+   ],
+   "answer": 2,
+   "spell": "Giáo dục không cần “bêu” lên mạng.",
+   "legal": "Khoản 2 Điều 24 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Khoản 1 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 186,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Bạn bán hàng online, chụp màn hình tin nhắn khách \"bom hàng\" kèm số điện thoại, địa chỉ để bêu lên nhóm. Đánh giá?",
+   "options": [
+    "Cảnh báo cộng đồng nên không sao",
+    "Công khai dữ liệu cá nhân trái luật – có thể vi phạm",
+    "Hợp pháp vì khách sai trước",
+    "Quyền của người bán"
+   ],
+   "answer": 1,
+   "spell": "Bị bom hàng – vẫn không được “bom” dữ liệu khách.",
+   "legal": "Khoản 4 Điều 7 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15; Điểm h khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 187,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "mua-sam"
+   ],
+   "image": "img/muasam.svg",
+   "situation": "Livestream bán hàng giả nhãn hiệu nổi tiếng trên mạng xã hội. Theo Luật ANM 2025?",
+   "options": [
+    "Không bị điều chỉnh vì là livestream",
+    "Kinh doanh bình thường",
+    "Là hành vi mạo danh, làm nhái nhãn hiệu và quảng cáo hàng giả trên không gian mạng",
+    "Chỉ vi phạm khi bị kiện"
+   ],
+   "answer": 2,
+   "spell": "Hàng nhái online – vi phạm thật.",
+   "legal": "Điểm c khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15; Điểm h khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 188,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Dùng thông tin của người khác để đăng ký tài khoản ví điện tử là?",
+   "options": [
+    "Không có quy định",
+    "Chỉ vi phạm nếu có tiền trong ví",
+    "Hành vi xâm phạm trật tự, an toàn xã hội trên không gian mạng",
+    "Tiện lợi hợp pháp"
+   ],
+   "answer": 2,
+   "spell": "Ví đứng tên người khác – rắc rối đứng tên mình.",
+   "legal": "Điểm g khoản 4 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 189,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "tai-khoan"
+   ],
+   "image": "img/taikhoan.svg",
+   "situation": "Thói quen nào giúp người trưởng thành giảm rủi ro khi bị lộ một mật khẩu?",
+   "options": [
+    "Lưu mật khẩu trong tin nhắn Zalo",
+    "Mật khẩu khác nhau cho từng dịch vụ, dùng trình quản lý mật khẩu và bật xác thực 2 lớp",
+    "Một mật khẩu thật dài cho tất cả",
+    "Đổi mật khẩu thành ngày sinh con"
+   ],
+   "answer": 1,
+   "spell": "Mỗi cửa một chìa – mất một chìa không mất cả nhà.",
+   "legal": "Khoản 2 Điều 42 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 190,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Dữ liệu cá nhân nhạy cảm theo Luật BVDLCN là gì?",
+   "options": [
+    "Do mỗi công ty tự quy định",
+    "Dữ liệu gắn liền với quyền riêng tư, khi bị xâm phạm ảnh hưởng trực tiếp đến quyền, lợi ích hợp pháp; thuộc danh mục do Chính phủ ban hành",
+    "Chỉ dữ liệu sức khỏe",
+    "Mọi dữ liệu trên mạng"
+   ],
+   "answer": 1,
+   "spell": "Nhạy cảm – có danh mục, không tùy hứng.",
+   "legal": "Khoản 3 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 191,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Mạng xã hội phải cung cấp lựa chọn nào liên quan đến theo dõi hoạt động người dùng?",
+   "options": [
+    "Lựa chọn \"không theo dõi\" hoặc chỉ theo dõi khi người dùng đồng ý",
+    "Không cần lựa chọn nào",
+    "Chỉ cho người trả phí",
+    "Theo dõi mặc định không tắt được"
+   ],
+   "answer": 0,
+   "spell": "Không muốn bị theo dõi – phải có nút tắt.",
+   "legal": "Khoản 4 Điều 29 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 192,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Bạn nhận email \"hóa đơn điện nước tháng này\" kèm file nén có mật khẩu. Đây có thể là thủ đoạn gì?",
+   "options": [
+    "Phát tán mã độc qua file đính kèm né bộ lọc",
+    "Lỗi gửi thư",
+    "Hóa đơn bình thường",
+    "Khuyến mãi điện lực"
+   ],
+   "answer": 0,
+   "spell": "File nén có mật khẩu từ lạ – né quét, gài mã độc.",
+   "legal": "Khoản 1 Điều 17 Luật An ninh mạng số 116/2025/QH15; Điểm a khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 193,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "hack"
+   ],
+   "image": "img/hack.svg",
+   "situation": "Mua bán, trao đổi công cụ phần mềm \"hack Facebook\" để chiếm tài khoản người khác thuộc hành vi?",
+   "options": [
+    "Liên quan tấn công mạng – bị nghiêm cấm",
+    "Kinh doanh phần mềm hợp pháp",
+    "Dịch vụ phục hồi tài khoản",
+    "Không bị cấm nếu không tự dùng"
+   ],
+   "answer": 0,
+   "spell": "Bán công cụ hack – cũng là tấn công mạng.",
+   "legal": "Điểm đ khoản 1 Điều 18 Luật An ninh mạng số 116/2025/QH15; Khoản 4 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 194,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Phản ánh sai lệch đường biên giới quốc gia trong bài đăng du lịch là?",
+   "options": [
+    "Không có quy định",
+    "Thông tin xâm phạm an ninh quốc gia theo Luật ANM 2025",
+    "Sơ suất không quan trọng",
+    "Tự do sáng tạo nghệ thuật"
+   ],
+   "answer": 1,
+   "spell": "Bản đồ du lịch cũng phải đúng chủ quyền.",
+   "legal": "Điểm e khoản 1 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 195,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "tin-gia"
+   ],
+   "image": "img/tingia.svg",
+   "situation": "Người có ảnh hưởng (KOL) chia sẻ thông tin sai sự thật về một doanh nghiệp, gây thiệt hại. Theo Luật ANM 2025?",
+   "options": [
+    "Quyền đánh giá sản phẩm",
+    "Không sao nếu đã xin lỗi",
+    "Lan truyền thông tin xuyên tạc, bịa đặt ảnh hưởng uy tín tổ chức là thông tin xâm phạm quyền, lợi ích hợp pháp",
+    "Chỉ doanh nghiệp tự chịu"
+   ],
+   "answer": 2,
+   "spell": "Ảnh hưởng lớn – trách nhiệm lớn.",
+   "legal": "Điểm a khoản 3 Điều 13 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 196,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "bao-cao"
+   ],
+   "image": "img/baocao.svg",
+   "situation": "Khi phát hiện tài khoản phát tán nội dung xâm hại trẻ em, người lớn nên tránh điều gì?",
+   "options": [
+    "Chuyển tiếp nội dung cho nhiều người \"để cảnh báo\"",
+    "Báo công an",
+    "Báo cáo nền tảng",
+    "Gọi Tổng đài 111"
+   ],
+   "answer": 0,
+   "spell": "Cảnh báo bằng cách lan truyền = gây hại thêm.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 4 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 197,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Biện pháp bảo vệ an ninh mạng và trách nhiệm quản lý nhà nước được Luật ANM 2025 quy định – theo luật, ai chủ trì phòng, chống tấn công mạng đối với hệ thống thông tin quân sự?",
+   "options": [
+    "Ban Cơ yếu Chính phủ",
+    "Bộ Công an",
+    "Bộ Quốc phòng",
+    "UBND cấp tỉnh"
+   ],
+   "answer": 2,
+   "spell": "Hệ thống quân sự – Bộ Quốc phòng chủ trì.",
+   "legal": "Điểm b khoản 4 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 198,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Theo Luật ANM 2025, ai chủ trì phòng ngừa, phát hiện, xử lý phần mềm độc hại gây tổn hại tới an ninh quốc gia?",
+   "options": [
+    "Bộ Công an, phối hợp Bộ Quốc phòng và các bộ, ngành",
+    "Bộ Giáo dục",
+    "Mỗi người dân",
+    "Các nhà mạng tự quyết"
+   ],
+   "answer": 0,
+   "spell": "Mã độc đe dọa an ninh quốc gia – Bộ Công an chủ trì.",
+   "legal": "Khoản 5 Điều 17 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 199,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "UBND cấp tỉnh có trách nhiệm gì về phổ biến kiến thức an ninh mạng?",
+   "options": [
+    "Không có trách nhiệm",
+    "Chỉ cấp phép mạng",
+    "Xây dựng, triển khai hoạt động phổ biến, nâng cao nhận thức cho cơ quan, tổ chức, cá nhân của địa phương",
+    "Chỉ xử phạt"
+   ],
+   "answer": 2,
+   "spell": "Tỉnh nào cũng phải “dạy” an ninh mạng.",
+   "legal": "Khoản 3 Điều 35 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 200,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Các hoạt động sau đều là \"xử lý dữ liệu cá nhân\" theo Luật BVDLCN, TRỪ?",
+   "options": [
+    "Chuyển giao",
+    "Thu thập",
+    "Một người tự nhớ tên bạn mình trong đầu",
+    "Khử nhận dạng"
+   ],
+   "answer": 2,
+   "spell": "Xử lý dữ liệu: thu, phân tích, mã hóa, xóa, chuyển giao…",
+   "legal": "Khoản 6 Điều 2 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 201,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Theo Luật BVDLCN, sự đồng ý phải được thể hiện thế nào?",
+   "options": [
+    "Chỉ cần gật đầu qua điện thoại",
+    "Rõ ràng, cụ thể, có thể in, sao chép bằng văn bản, kể cả dạng điện tử kiểm chứng được",
+    "Mặc định khi tải app",
+    "Do bên thu thập tự suy đoán"
+   ],
+   "answer": 1,
+   "spell": "Đồng ý phải “để lại dấu vết”.",
+   "legal": "Khoản 3 Điều 9 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 202,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "anh-rieng-tu"
+   ],
+   "image": "img/anhrieng.svg",
+   "situation": "Đồng nghiệp ghi âm lén cuộc gọi Zalo giữa bạn và sếp rồi gửi vào nhóm công ty. Đánh giá?",
+   "options": [
+    "Ghi âm trái phép cuộc đàm thoại trên không gian mạng là bị nghiêm cấm",
+    "Chỉ vi phạm nội quy",
+    "Quyền lưu bằng chứng",
+    "Không sao vì là chuyện công việc"
+   ],
+   "answer": 0,
+   "spell": "Ghi lén rồi phát – hai lần sai.",
+   "legal": "Điểm c khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 203,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "lua-dao"
+   ],
+   "image": "img/luadao.svg",
+   "situation": "Dấu hiệu chung của các chiêu lừa đảo trực tuyến mà người trưởng thành nên nhận ra?",
+   "options": [
+    "Luôn gọi từ số nước ngoài",
+    "Tạo cảm giác gấp gáp, hứa lợi lớn hoặc đe dọa, và yêu cầu chuyển tiền/OTP/thông tin",
+    "Luôn có lỗi chính tả",
+    "Chỉ nhắm vào người già"
+   ],
+   "answer": 1,
+   "spell": "Gấp + lợi + đòi tiền = dừng lại.",
+   "legal": "Điểm đ khoản 2 Điều 7 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 204,
+   "level": 4,
+   "difficulty": 2,
+   "tags": [
+    "nguoi-la"
+   ],
+   "image": "img/nguoila.svg",
+   "situation": "Phụ huynh muốn bảo vệ con khỏi dụ dỗ qua game. Cách hiệu quả nhất theo cẩm nang?",
+   "options": [
+    "Cấm hoàn toàn internet",
+    "Mặc kệ vì con còn nhỏ",
+    "Đọc trộm mọi tin nhắn của con",
+    "Trò chuyện thường xuyên, thiết lập quyền riêng tư, để con biết luôn có thể kể mà không bị trách"
+   ],
+   "answer": 3,
+   "spell": "Kết nối với con trước khi con kết nối với người lạ.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình); Khoản 2 Điều 16 Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 205,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Luật ANM 2025 gồm bao nhiêu điều (theo văn bản đăng Công báo)?",
+   "options": [
+    "45 điều",
+    "58 điều",
+    "39 điều",
+    "43 điều"
+   ],
+   "answer": 0,
+   "spell": "Bốn mươi lăm điều – gọn mà đủ.",
+   "legal": "Luật An ninh mạng số 116/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 206,
+   "level": 4,
+   "difficulty": 3,
+   "tags": [
+    "luat-chung"
+   ],
+   "image": "img/luat.svg",
+   "situation": "Luật BVDLCN 2025 gồm bao nhiêu điều?",
+   "options": [
+    "45 điều",
+    "30 điều",
+    "58 điều",
+    "39 điều"
+   ],
+   "answer": 3,
+   "spell": "Ba mươi chín điều bảo vệ dữ liệu.",
+   "legal": "Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  }
+ ]
+}
