@@ -1,4 +1,4 @@
-131|1|luat|Mèo Mít hỏi chị: "Ở trường, học về an ninh mạng trong môn nào?" Chị trả lời…|An ninh mạng học trong môn Giáo dục quốc phòng và an ninh.|A33
+131|2|luat|Mèo Mít hỏi chị: "Ở trường, học về an ninh mạng trong môn nào?" Chị trả lời…|An ninh mạng học trong môn Giáo dục quốc phòng và an ninh.|A33
 132|4|luat|Lực lượng bảo vệ ANM của các bộ, ngành cần bồi dưỡng nghiệp vụ. Cơ quan nào chủ trì?|Bồi dưỡng nghiệp vụ ANM – Bộ Công an chủ trì.|A33
 133|3|dulieu|Một app nước ngoài có nhiều người dùng Việt Nam. Dữ liệu cá nhân người dùng phải lưu ở đâu?|Dữ liệu người dùng Việt – lưu tại Việt Nam theo quy định.|A25
 134|3|dulieu|Công ty của chị Hoa muốn bảo đảm an ninh dữ liệu. Nội dung nào cần làm?|Chính sách, mật mã, đánh giá rủi ro – làm đủ cả ba.|A26
@@ -9,10 +9,10 @@
 139|3|hack|Chủ quản hệ thống thông tin rà soát hệ thống định kỳ để làm gì?|Rà soát định kỳ – loại trừ nguy cơ khủng bố mạng.|A19
 140|4|hack|Đấu tranh bảo vệ ANM gồm những nội dung nào?|Giám sát, chặn thông tin vi phạm, vô hiệu hóa kẻ xâm phạm – đủ cả.|A21
 141|3|hack|Nghiên cứu, phát triển an ninh mạng gồm những gì?|Làm phần mềm, dự báo, giải quyết nguy cơ – đều là nghiên cứu ANM.|A36
-142|1|luat|Bà nội và Cún Bông cùng đi học lớp "Lướt mạng an toàn". Nhà nước ưu tiên phổ biến kiến thức ANM cho ai?|Trẻ em và người cao tuổi – được ưu tiên học trước.|A35.1
+142|2|luat|Bà nội và Cún Bông cùng đi học lớp "Lướt mạng an toàn". Nhà nước ưu tiên phổ biến kiến thức ANM cho ai?|Trẻ em và người cao tuổi – được ưu tiên học trước.|A35.1
 143|4|luat|Ai bắt buộc phải tập huấn kiến thức, kỹ năng chuyên sâu về ANM?|Quản trị hệ thống cấp độ 3, 4, 5 – bắt buộc tập huấn.|A34
 144|4|luat|Ai chủ trì bồi dưỡng nghiệp vụ ANM cho cán bộ, công chức, viên chức?|Bồi dưỡng ANM cho cán bộ – Bộ Công an chủ trì.|A33
-145|1|luat|Tí đố em: "Học an ninh mạng ở môn nào?" Không phải Văn, không phải Hóa…|Môn Giáo dục quốc phòng và an ninh.|A33
+145|2|luat|Tí đố em: "Học an ninh mạng ở môn nào?" Không phải Văn, không phải Hóa…|Môn Giáo dục quốc phòng và an ninh.|A33
 146|4|tingia|Tin xâm phạm an ninh quốc gia lan nhanh, tình huống khẩn cấp. Phải xóa chậm nhất bao lâu?|Khẩn cấp: 06 giờ.|A25
 147|2|luat|Nhà nước khuyến khích ai nâng cao năng lực tự chủ về ANM?|Cơ quan, tổ chức và cá nhân – ai cũng được khuyến khích.|A37
 148|3|hack|Biện pháp bảo vệ an ninh mạng gồm những gì?|Thẩm định, giám sát, ứng phó – đều là biện pháp bảo vệ ANM.|A5
@@ -23,11 +23,11 @@
 153|4|deepfake|Ai đó làm website giả mạo cổng thông tin của cơ quan nhà nước. Hành vi bị cấm ở khoản nào Điều 7 Luật ANM?|Giả mạo trang thông tin – khoản 2 Điều 7.|A7.2e
 154|3|hack|Gián điệp mạng xâm phạm bí mật nhà nước gồm những hành vi nào?|Chiếm đoạt, làm lộ, nghe lén – đều là gián điệp mạng.|A15
 155|3|tingia|Doanh nghiệp nhận yêu cầu xóa thông tin vi phạm (trường hợp bình thường). Phải xóa trong bao lâu?|Bình thường 24 giờ, khẩn cấp 6 giờ.|A25
-156|1|nguoila|Cún Bông hỏi: "Trẻ em có những quyền gì trên mạng ạ?"|Được vui chơi, được giữ riêng tư, được bảo vệ – đủ cả ba.|A16.1
+156|1|nguoila|Cún Bông hỏi: "Trên mạng trẻ em được những quyền gì ạ?"|Được chơi, được giữ kín, được bảo vệ – nhớ cả ba nha!|A16.1
 157|3|hack|Tấn công mạng xâm phạm an ninh quốc gia xảy ra. Ai chủ trì xử lý?|Lực lượng chuyên trách bảo vệ ANM chủ trì.|A18.3
 158|4|luat|Cơ quan nào chủ trì hợp tác quốc tế về an ninh mạng?|Hợp tác quốc tế về ANM – Bộ Công an chủ trì.|A6
-159|1|tingia|Tí thấy bài xuyên tạc lịch sử, bịa đặt vu khống, chống Nhà nước. Hành vi nào bị nghiêm cấm?|Tất cả đều bị nghiêm cấm.|A7.1
-160|1|linkla|Một bạn khoe "viết virus phá máy tính trường cho vui". Hành vi phát tán mã độc phá hoại bị xử lý theo Luật ANM – đúng hay sai?|Viết mã độc phá hoại – sai luật, bị xử lý.|A7.4
+159|2|tingia|Tí thấy bài xuyên tạc lịch sử, bịa đặt vu khống, chống Nhà nước. Hành vi nào bị nghiêm cấm?|Tất cả đều bị nghiêm cấm.|A7.1
+160|3|linkla|Một bạn khoe "viết virus phá máy tính trường cho vui". Hành vi phát tán mã độc phá hoại bị xử lý theo Luật ANM – đúng hay sai?|Viết mã độc phá hoại – sai luật, bị xử lý.|A7.4
 161|3|tingia|Phòng ngừa thông tin xâm phạm an ninh quốc gia là trách nhiệm của ai?|Chủ quản hệ thống và cơ quan chức năng cùng phòng ngừa.|A14
 162|3|luat|Hệ thống thông tin được phân loại thành mấy cấp độ?|5 cấp độ – như 5 ngón tay.|A8
 163|4|luat|Hệ thống thông tin cấp độ 5 bị sự cố sẽ gây tổn hại đến mức nào?|Cấp độ 5 – tổn hại đặc biệt nghiêm trọng an ninh quốc gia.|A8
@@ -37,7 +37,7 @@
 167|4|hack|Bộ Công an kiểm tra an ninh mạng đột xuất hệ thống của một cơ quan khi nào?|Có xâm phạm ANQG hoặc có yêu cầu của chủ quản.|A12
 168|2|tingia|Những nội dung kích động bạo loạn, phá rối an ninh trên mạng gồm gì?|Xuyên tạc, kích động chiến tranh, xúc phạm quốc kỳ – đều bị cấm.|A13.1
 169|3|linkla|Phần mềm độc hại đe dọa an ninh quốc gia. Ai chủ trì phòng chống?|Bộ Công an chủ trì, phối hợp Bộ Quốc phòng.|A17.5
-170|1|luat|Nhà nước làm gì để bà ngoại và Tí biết dùng mạng an toàn?|Ưu tiên phổ biến, hướng dẫn để tự bảo vệ.|A35.1
+170|2|luat|Nhà nước làm gì để bà ngoại và Tí biết dùng mạng an toàn?|Ưu tiên phổ biến, hướng dẫn để tự bảo vệ.|A35.1
 171|4|luat|Bảo vệ ANM trong cơ quan nhà nước gồm những nội dung nào?|Quy chế, công nghệ, bồi dưỡng – đủ cả.|A23
 172|4|luat|Bảo vệ hạ tầng không gian mạng quốc gia phải gắn với điều gì?|Bảo vệ hạ tầng mạng gắn với phát triển kinh tế – xã hội.|A24
 173|2|tingia|Website cơ quan nhà nước không được đăng thông tin nào?|Không đăng thông tin xâm phạm chủ quyền quốc gia.|A13.1e
@@ -53,14 +53,14 @@
 183|4|luat|Chứng nhận hợp quy về ANM thực hiện theo quy định nào?|Theo pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật.|A27
 184|2|hack|Dịch vụ an ninh mạng gồm những gì?|Kiểm tra, tư vấn, ứng cứu – đều là dịch vụ ANM.|A28
 185|4|hack|Ai có thẩm quyền quyết định xử lý tình huống nguy hiểm về ANM trên cả nước?|Bộ trưởng Bộ Công an hoặc Thủ tướng.|A20
-186|1|hack|Đâu là tấn công mạng?|Phát tán mã độc, chiếm quyền, làm tê liệt – đều là tấn công mạng.|A18.1
-187|1|nguoila|Bố mẹ Tí có trách nhiệm gì khi Tí dùng mạng?|Đứng tên tài khoản và giám sát con.|A16.2
+186|2|hack|Đâu là tấn công mạng?|Phát tán mã độc, chiếm quyền, làm tê liệt – đều là tấn công mạng.|A18.1
+187|1|nguoila|Bố mẹ của Tí cần làm gì khi Tí dùng mạng?|Bố mẹ đứng tên, trông chừng bé luôn!|A16.2
 188|3|luat|Bảo vệ hạ tầng không gian mạng quốc gia để làm gì?|Phát triển kinh tế, bảo đảm chủ quyền, khuyến khích đầu tư – cả ba.|A24
 189|2|dulieu|Luật Bảo vệ dữ liệu cá nhân 2025 quy định về những gì?|Dữ liệu cá nhân, quyền nghĩa vụ, trách nhiệm các bên – đủ cả.|B1
 190|2|luat|Luật An ninh mạng 2025 quy định về những gì?|An ninh mạng, quyền nghĩa vụ, trách nhiệm – đủ cả.|A1
 191|3|hack|Website của trường do thầy Hiệu trưởng quản lý trực tiếp. Ai là "chủ quản hệ thống thông tin"?|Ai có thẩm quyền quản lý trực tiếp – người đó là chủ quản.|A2
-192|1|hack|Kẻ xấu tấn công mạng nhằm mục đích gì?|Chiếm thông tin, gây rối loạn, đình trệ hệ thống.|A2
-193|1|linkla|Máy tính tự xóa ảnh, chạy lung tung sau khi cài app lạ. "Phần mềm độc hại" là gì?|Mã độc làm máy chạy bất thường, sao chép hoặc xóa dữ liệu trái phép.|A2
+192|2|hack|Kẻ xấu tấn công mạng nhằm mục đích gì?|Chiếm thông tin, gây rối loạn, đình trệ hệ thống.|A2
+193|2|linkla|Máy tính tự xóa ảnh, chạy lung tung sau khi cài app lạ. "Phần mềm độc hại" là gì?|Mã độc làm máy chạy bất thường, sao chép hoặc xóa dữ liệu trái phép.|A2
 194|2|luat|Không gian mạng quốc gia thuộc quyền quản lý của ai?|Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.|A2
 195|3|dulieu|"An ninh thông tin mạng" bảo đảm những tính chất nào của thông tin?|Nguyên vẹn, bảo mật, khả dụng – cả ba.|A2
 196|3|luat|Theo luật, "an ninh mạng" được hiểu là gì?|Ổn định, an toàn, không phương hại – cả ba ý.|A2
