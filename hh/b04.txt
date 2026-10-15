@@ -1,0 +1,70 @@
+201|3|dulieu|Câu lạc bộ muốn đăng danh sách thành viên kèm số điện thoại lên fanpage. Công khai dữ liệu cá nhân phải bảo đảm điều gì?|Công khai đúng mục đích, không xâm phạm quyền chủ thể.|B16
+202|2|dulieu|Tí phát hiện app học tập ghi sai ngày sinh của mình. Tí có được tự sửa không?|Dữ liệu của mình – được tự sửa hoặc đề nghị sửa.|B13
+203|2|dulieu|Nhóm lạ chiếm đoạt, làm lộ và mua bán dữ liệu cá nhân. Theo Luật BVDLCN, hành vi nào bị cấm?|Chống Nhà nước, mua bán, làm lộ dữ liệu – đều bị cấm.|B7
+204|2|dulieu|Bảo vệ dữ liệu cá nhân phải gắn liền với lợi ích nào?|Gắn với lợi ích quốc gia, dân tộc và phát triển kinh tế – xã hội.|B3
+205|1|dulieu|Mèo Mít hỏi: "Dữ liệu của con thì con có quyền gì?" Bạn trả lời…|Được biết, được đồng ý hay không, được yêu cầu xóa – đủ cả.|B4.1
+206|2|dulieu|Dữ liệu của chị Hoa bị lộ gây thiệt hại. Chị có quyền đòi bồi thường không?|Bị thiệt hại – có quyền đòi bồi thường.|B4.1đ
+207|1|dulieu|Cún Bông có nghĩa vụ gì với dữ liệu cá nhân?|Giữ của mình, tôn trọng của người, khai đúng khi được hỏi.|B4.2
+208|3|dulieu|Bạn A giận app nên cố tình gây khó khăn cho việc thực hiện quyền hợp pháp của bên kiểm soát dữ liệu. Có được không?|Đòi quyền mình – không được cản trở quyền hợp pháp của người khác.|B4.3b
+209|3|dulieu|Tí gửi yêu cầu xóa dữ liệu cho một app. Bên kiểm soát phải thực hiện khi nào?|Kịp thời, trong thời hạn luật định.|B4.5
+210|3|dulieu|Hợp tác quốc tế về bảo vệ dữ liệu cá nhân gồm những gì?|Trao đổi kinh nghiệm, chống vi phạm, chuyển giao công nghệ – đủ cả.|B6
+211|3|dulieu|Một công ty xử lý dữ liệu cá nhân trái luật nghiêm trọng. Có thể bị xử lý hình sự không?|Tùy mức độ – có thể truy cứu hình sự.|B8
+212|4|dulieu|Một người bán dữ liệu cá nhân thu lời lớn. Mức phạt tiền tối đa với hành vi mua bán dữ liệu là bao nhiêu?|Bán dữ liệu – phạt tới 10 lần khoản thu.|B8
+213|4|dulieu|Mức phạt tiền tối đa cho các vi phạm bảo vệ dữ liệu cá nhân khác (ngoài mua bán, chuyển xuyên biên giới) là bao nhiêu?|Vi phạm khác – tối đa 3 tỷ đồng.|B8
+214|4|dulieu|Tổ chức vi phạm quy định chuyển dữ liệu xuyên biên giới bị phạt tối đa bao nhiêu?|Xuyên biên giới sai luật – tới 5% doanh thu năm trước.|B8
+215|1|dulieu|Một nguyên tắc bảo vệ dữ liệu cá nhân là gì?|Thu đúng, dùng đúng mục đích – không “gom” bừa.|B3
+216|3|dulieu|Công ty làm "đánh giá tác động xử lý dữ liệu cá nhân" để làm gì?|Đánh giá rủi ro để giảm thiểu, bảo vệ dữ liệu.|B2.12
+217|3|dulieu|"Khử nhận dạng dữ liệu cá nhân" là gì?|Đổi hoặc xóa thông tin để không nhận ra ai.|B2.11
+218|2|dulieu|Hoạt động nào là "xử lý dữ liệu cá nhân"?|Thu thập, mã hóa, xóa, chuyển giao – đều là xử lý.|B2.6
+219|1|dulieu|Mèo Mít hỏi: "Dữ liệu về con thì con là gì của nó?" "Chủ thể dữ liệu cá nhân" là ai?|Dữ liệu nói về ai – người đó là chủ thể.|B2.5
+220|3|dulieu|Dữ liệu nào không còn là dữ liệu cá nhân?|Đã khử nhận dạng – không còn là dữ liệu cá nhân.|B2.1
+221|3|dulieu|Dữ liệu cá nhân gồm những loại nào?|Cơ bản và nhạy cảm.|B2.1
+222|2|dulieu|Luật Bảo vệ dữ liệu cá nhân áp dụng cho ai?|Trong nước, nước ngoài tại VN, và tổ chức nước ngoài xử lý dữ liệu công dân VN.|B1
+223|1|dulieu|Tên, ngày sinh, số điện thoại của Tí là gì? "Dữ liệu cá nhân" được hiểu là gì?|Dữ liệu giúp nhận ra một người cụ thể.|B2.1
+224|4|dulieu|Cá nhân vi phạm bảo vệ dữ liệu bị phạt tối đa bằng bao nhiêu so với tổ chức?|Cá nhân – bằng một nửa mức của tổ chức.|B8
+225|4|dulieu|Cơ quan chuyên trách kiểm tra định kỳ việc chuyển dữ liệu xuyên biên giới tối đa mấy lần mỗi năm?|Không quá 1 lần mỗi năm (trừ khi có vi phạm, sự cố).|B20
+226|4|dulieu|Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới phải gửi trong bao lâu?|60 ngày từ lần chuyển đầu tiên.|B20
+227|3|dulieu|Trường hợp nào là chuyển dữ liệu cá nhân xuyên biên giới?|Lưu ngoài lãnh thổ, chuyển cho tổ chức nước ngoài, dùng nền tảng nước ngoài – đều là.|B20
+228|3|dulieu|Khi nào xử lý dữ liệu cá nhân không cần sự đồng ý?|Cứu tính mạng, khẩn cấp quốc phòng an ninh, nhiệm vụ nhà nước theo luật.|B19
+229|4|dulieu|Xử lý dữ liệu phục vụ thí điểm cơ chế đặc biệt được ưu tiên ở lĩnh vực nào?|Chuyển đổi số quốc gia, khoa học công nghệ.|B18
+230|4|dulieu|Chuyển giao dữ liệu cá nhân có thu phí theo luật có bị coi là "mua bán dữ liệu" không?|Chuyển giao đúng luật có thu phí – không phải mua bán.|B17
+231|3|dulieu|Phòng nhân sự chuyển dữ liệu cho phòng kế toán trong cùng công ty. Có cần xin đồng ý lại không?|Trong cùng tổ chức, đúng mục đích – được chuyển.|B17
+232|2|dulieu|Công khai dữ liệu cá nhân có thể bằng hình thức nào?|Web, báo chí, hình thức khác theo quy định.|B16
+233|4|dulieu|Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới gửi cho ai?|Cơ quan chuyên trách bảo vệ dữ liệu cá nhân (Bộ Công an).|B20
+234|3|cookie|Trang web bán giày theo dõi bạn để hiện quảng cáo riêng. Cần điều kiện gì?|Theo dõi để quảng cáo – phải được đồng ý.|B28
+235|4|dulieu|Công ty quảng cáo có được thuê bên khác làm toàn bộ dịch vụ dùng dữ liệu cá nhân không?|Không được “khoán trắng” cho bên khác.|B28
+236|1|cookie|Cún Bông nhận quảng cáo liên tục. Bên quảng cáo phải cho Cún Bông cách gì?|Phải có nút từ chối quảng cáo.|B28
+237|2|taikhoan|Ngân hàng phát hiện thông tin tài khoản của bác Năm bị lộ. Ngân hàng phải làm gì?|Lộ thông tin – phải báo cho khách.|B27
+238|3|taikhoan|Ngân hàng muốn dùng thông tin tín dụng để chấm điểm khách. Khi nào thì không được?|Chưa đồng ý – không được chấm điểm.|B27
+239|4|dulieu|Dịch vụ quảng cáo được dùng dữ liệu cá nhân từ nguồn nào?|Do bên kiểm soát chuyển giao theo thỏa thuận hoặc tự thu thập hợp pháp.|B28
+240|4|dulieu|Hồ sơ đánh giá tác động phải cập nhật định kỳ bao lâu khi có thay đổi?|6 tháng một lần khi có thay đổi.|B22
+241|4|dulieu|Ai không phải lập hồ sơ đánh giá tác động xử lý dữ liệu cá nhân?|Cơ quan nhà nước có thẩm quyền.|B21
+242|2|dulieu|Shop online muốn đưa dữ liệu khách cho công ty khác. Cần điều gì?|Muốn cung cấp cho bên thứ ba – phải được đồng ý.|B15
+243|4|dulieu|Dữ liệu đã khử nhận dạng có được "nhận dạng lại" không?|Đã khử – không được tái nhận dạng.|B14
+244|3|dulieu|Hành vi nào bị cấm với dữ liệu đã bị xóa?|Cố ý khôi phục trái phép dữ liệu đã xóa.|B14
+245|2|dulieu|Khi nào dữ liệu cá nhân được xóa, hủy?|Khi chủ thể yêu cầu, hết mục đích, hết hạn lưu – đều xóa.|B14
+246|4|dulieu|Dữ liệu cá nhân là bí mật nhà nước được mã hóa theo quy định nào?|Theo pháp luật bảo vệ bí mật nhà nước và cơ yếu.|B12
+247|1|dulieu|Mèo Mít viết thư bằng mật mã cho bạn. "Mã hóa dữ liệu cá nhân" là gì?|Mã hóa: không có chìa thì không đọc được.|B12
+248|4|dulieu|Ai được phân tích, tổng hợp dữ liệu cá nhân phục vụ lãnh đạo, chỉ đạo?|Cơ quan Đảng, Nhà nước có thẩm quyền.|B11
+249|4|dulieu|Rút lại sự đồng ý có làm các xử lý trước đó trở thành trái luật không?|Rút đồng ý chỉ có hiệu lực từ nay về sau.|B10.4
+250|1|dulieu|Tí đã đồng ý cho app dùng ảnh, giờ muốn thôi. Tí có quyền rút lại không?|Đồng ý được thì rút lại được.|B10.1
+251|2|dulieu|App hỏi xin dữ liệu, Cún Bông im lặng không trả lời. Như vậy có coi là đồng ý không?|Im lặng không phải là đồng ý.|B9.4d
+252|1|dulieu|Sự đồng ý của chủ thể dữ liệu có hiệu lực khi nào?|Tự nguyện và biết rõ – mới là đồng ý.|B9.2
+253|4|dulieu|Phát hiện vi phạm bảo vệ dữ liệu gây tổn hại an ninh quốc gia. Phải thông báo cơ quan chức năng trong bao lâu?|Thông báo trong 72 giờ.|B23
+254|4|dulieu|Dữ liệu đã được đồng ý xử lý theo Nghị định 13/2023 thì sau khi có luật mới có phải xin lại không?|Đã đồng ý hợp lệ – không phải xin lại.|B39
+255|1|baocao|Bà ngoại muốn phản ánh việc bị lộ số điện thoại. Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân dùng để làm gì?|Cổng quốc gia: tuyên truyền, hướng dẫn, nhận phản ánh.|B
+256|1|luat|Mèo Mít khoanh lịch Tết dương: Luật Bảo vệ dữ liệu cá nhân có hiệu lực từ ngày nào?|01/01/2026.|B38
+257|2|dulieu|Ai thống nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân?|Chính phủ.|B36
+258|2|dulieu|Bộ Công an là đầu mối quản lý nhà nước về bảo vệ dữ liệu cá nhân – đúng hay sai?|Đúng – Bộ Công an là đầu mối.|B36
+259|2|dulieu|UBND cấp tỉnh quản lý nhà nước về bảo vệ dữ liệu cá nhân ở phạm vi nào?|Tại địa phương mình.|B36
+260|3|dulieu|Bên kiểm soát dữ liệu gây thiệt hại cho khách hàng. Họ có trách nhiệm gì?|Gây thiệt hại – bồi thường.|B37
+261|4|dulieu|Bên xử lý dữ liệu chỉ được nhận dữ liệu sau khi có gì với bên kiểm soát?|Phải có thỏa thuận, hợp đồng xử lý dữ liệu.|B37
+262|4|dulieu|Doanh nghiệp siêu nhỏ được miễn lập hồ sơ đánh giá tác động trong bao lâu?|Siêu nhỏ – miễn 5 năm (trừ dịch vụ xử lý dữ liệu đặc thù).|B38
+263|1|cookie|Trang mạng xã hội hiện bảng "cookies". Họ phải cho người dùng lựa chọn gì?|Có quyền từ chối cookies.|B29.3
+264|3|dulieu|Có tranh chấp "khách đã đồng ý hay chưa". Ai phải chứng minh sự đồng ý?|Bên kiểm soát phải chứng minh.|B
+265|2|dulieu|Cơ quan chuyên trách bảo vệ dữ liệu cá nhân thuộc bộ nào?|Bộ Công an.|B33
+266|3|dulieu|"Dữ liệu lớn" (Big Data) có đặc điểm gì?|Quy mô lớn, liên tục, nhiều nguồn.|B
+267|4|taikhoan|Ngân hàng phải tự đánh giá tuân thủ bảo vệ dữ liệu định kỳ bao lâu?|Mỗi năm một lần.|B
+268|4|dulieu|Chuyển dữ liệu nhạy cảm giữa các tổ chức cần biện pháp bảo mật nào?|Bảo mật thiết bị, mã hóa, thỏa thuận bằng văn bản – đủ cả.|B
+269|3|dulieu|Tổng đài gọi xin đồng ý xử lý dữ liệu qua cuộc gọi có ghi âm. Có hợp lệ không?|Hợp lệ nếu kiểm chứng được.|B9.3
+270|4|dulieu|Nhận yêu cầu xóa dữ liệu cá nhân, bên kiểm soát phải thực hiện trong bao nhiêu ngày?|Xóa dữ liệu – trong 20 ngày.|B
