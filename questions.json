@@ -2224,7 +2224,7 @@
   },
   {
    "id": 112,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin-gia"
@@ -2244,7 +2244,7 @@
   },
   {
    "id": 113,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin-gia"
@@ -2264,7 +2264,7 @@
   },
   {
    "id": 114,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "luat-chung"
@@ -2284,7 +2284,7 @@
   },
   {
    "id": 115,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "luat-chung"
@@ -2304,7 +2304,7 @@
   },
   {
    "id": 116,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "luat-chung"
@@ -2644,7 +2644,7 @@
   },
   {
    "id": 133,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "du-lieu-ca-nhan"
@@ -2744,7 +2744,7 @@
   },
   {
    "id": 138,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "mua-sam"
@@ -2864,7 +2864,7 @@
   },
   {
    "id": 144,
-   "level": 3,
+   "level": 4,
    "difficulty": 3,
    "tags": [
     "du-lieu-ca-nhan"
@@ -2884,7 +2884,7 @@
   },
   {
    "id": 145,
-   "level": 3,
+   "level": 4,
    "difficulty": 3,
    "tags": [
     "du-lieu-ca-nhan"
@@ -2984,7 +2984,7 @@
   },
   {
    "id": 150,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "luat-chung"
@@ -3044,7 +3044,7 @@
   },
   {
    "id": 153,
-   "level": 3,
+   "level": 4,
    "difficulty": 3,
    "tags": [
     "tin-gia"
@@ -3064,7 +3064,7 @@
   },
   {
    "id": 154,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "link-la"
@@ -3304,162 +3304,162 @@
   },
   {
    "id": 166,
-   "level": 4,
-   "difficulty": 3,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
     "tin-gia"
    ],
    "image": "img/tingia.svg",
-   "situation": "Nghị định 328/2026/NĐ-CP về phòng, chống tin giả, tin sai sự thật có hiệu lực từ ngày nào?",
+   "situation": "Nhóm chat lớp 8A rần rần clip \"trường sắp bị sập\", ai cũng bấm chia sẻ. Bạn nên làm gì?",
    "options": [
-    "01/01/2026",
-    "01/7/2026",
-    "19/8/2026",
-    "05/10/2026"
+    "Chia sẻ kèm câu \"không biết thật không nha\"",
+    "Thêm hiệu ứng động đất cho clip \"căng\" hơn",
+    "Chia sẻ thêm cho chắc ăn, lỡ thật thì sao",
+    "Không chia sẻ, hỏi thầy cô hoặc xem thông báo chính thức của trường"
    ],
    "answer": 3,
-   "spell": "Tin giả “chính thức có luật chơi” từ 5/10/2026.",
-   "legal": "Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
+   "spell": "Chưa kiểm chứng – không chia sẻ, chặn tin đồn từ tay mình.",
+   "legal": "Luật An ninh mạng số 116/2025/QH15; Nghị định 328/2026/NĐ-CP (phòng, chống tin giả, tin sai sự thật)",
    "source": "ORIGINAL"
   },
   {
    "id": 167,
-   "level": 4,
-   "difficulty": 2,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "game"
    ],
-   "image": "img/luat.svg",
-   "situation": "7 nghị định hướng dẫn Luật ANM 2025 được ban hành cùng ngày nào?",
+   "image": "img/game.svg",
+   "situation": "Trong game, một người tự xưng \"admin\" nhắn: \"Gửi mật khẩu để anh nâng cấp nick VIP miễn phí\". Bạn nên?",
    "options": [
-    "10/12/2025",
-    "19/8/2026",
-    "01/7/2026",
-    "05/10/2026"
+    "Gửi mật khẩu cũ, giữ mật khẩu mới",
+    "Không gửi, chặn và báo cáo tài khoản đó",
+    "Gửi vì admin thì đáng tin",
+    "Đổi mật khẩu thành \"123\" rồi gửi"
    ],
    "answer": 1,
-   "spell": "Bảy nghị định – một ngày 19/8.",
-   "legal": "Nghị định 333/2026/NĐ-CP (quy định chi tiết và biện pháp thi hành Luật An ninh mạng)",
+   "spell": "Admin thật không bao giờ xin mật khẩu.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
    "source": "ORIGINAL"
   },
   {
    "id": 168,
-   "level": 4,
-   "difficulty": 2,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "bat-nat"
    ],
-   "image": "img/luat.svg",
-   "situation": "Nghị định nào quy định về lực lượng bảo vệ an ninh mạng?",
+   "image": "img/batnat.svg",
+   "situation": "Bạn thân bị cả nhóm nhắn tin chửi bới vì chuyện nhỏ. Bạn có thể giúp thế nào?",
    "options": [
-    "Nghị định 332/2026/NĐ-CP",
-    "Nghị định 328/2026/NĐ-CP",
-    "Nghị định 329/2026/NĐ-CP",
-    "Nghị định 330/2026/NĐ-CP"
+    "Khuyên bạn xóa tài khoản và quên đi",
+    "Im lặng để khỏi bị vạ lây",
+    "Hỏi han bạn, giúp lưu bằng chứng và cùng báo thầy cô hoặc gọi 111",
+    "Vào chửi lại cả nhóm cho hả"
    ],
    "answer": 2,
-   "spell": "Lực lượng – “ba hai chín”.",
-   "legal": "Nghị định 329/2026/NĐ-CP (lực lượng bảo vệ an ninh mạng)",
+   "spell": "Bạn bị bắt nạt – mình đứng cạnh, cùng báo người lớn.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
    "source": "ORIGINAL"
   },
   {
    "id": 169,
-   "level": 4,
-   "difficulty": 2,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "anh-rieng-tu"
    ],
-   "image": "img/luat.svg",
-   "situation": "Doanh nghiệp kinh doanh sản phẩm, dịch vụ an ninh mạng cần đọc kỹ nghị định nào?",
+   "image": "img/anhrieng.svg",
+   "situation": "Bạn chụp ảnh nhóm đi chơi, một bạn nói \"đừng đăng ảnh tớ nhé\". Bạn nên làm gì?",
    "options": [
-    "Nghị định 328/2026/NĐ-CP",
-    "Nghị định 332/2026/NĐ-CP",
-    "Nghị định 329/2026/NĐ-CP",
-    "Nghị định 327/2026/NĐ-CP"
+    "Đăng rồi tag luôn bạn đó",
+    "Không đăng ảnh có bạn đó, hoặc làm mờ/cắt bạn ra",
+    "Đăng để chế độ \"chỉ bạn bè\"",
+    "Vẫn đăng vì ảnh đẹp mà"
    ],
    "answer": 1,
-   "spell": "Kinh doanh bảo mật – “ba ba hai”.",
-   "legal": "Nghị định 332/2026/NĐ-CP (kinh doanh sản phẩm, dịch vụ an ninh mạng)",
+   "spell": "Ảnh có bạn – bạn đồng ý mới đăng.",
+   "legal": "Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
    "source": "ORIGINAL"
   },
   {
    "id": 170,
-   "level": 4,
-   "difficulty": 2,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "lua-dao"
    ],
-   "image": "img/luat.svg",
-   "situation": "Bảo vệ an ninh mạng đối với hệ thống thông tin được hướng dẫn chi tiết tại?",
+   "image": "img/luadao.svg",
+   "situation": "Trang bán hàng mời \"nạp 200k nhận ngay iPhone\", chỉ cần chuyển khoản trước. Bạn nghĩ gì?",
    "options": [
-    "Nghị định 331/2026/NĐ-CP",
-    "Nghị định 329/2026/NĐ-CP",
-    "Nghị định 330/2026/NĐ-CP",
-    "Nghị định 328/2026/NĐ-CP"
+    "Đây là dấu hiệu lừa đảo – không chuyển tiền",
+    "Rủ cả lớp cùng góp tiền nạp",
+    "Cơ hội hiếm, nạp ngay kẻo lỡ",
+    "Nạp thử 100k xem sao"
    ],
    "answer": 0,
-   "spell": "Hệ thống thông tin – “ba ba mốt”.",
-   "legal": "Nghị định 331/2026/NĐ-CP (bảo vệ an ninh mạng đối với hệ thống thông tin)",
+   "spell": "Rẻ bất thường + chuyển tiền trước = lừa đảo.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
    "source": "ORIGINAL"
   },
   {
    "id": 171,
-   "level": 4,
-   "difficulty": 3,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "nguoi-la"
    ],
-   "image": "img/luat.svg",
-   "situation": "Nghị định 327/2026/NĐ-CP tập trung vào nội dung nào?",
+   "image": "img/nguoila.svg",
+   "situation": "Bạn mới quen trên mạng luôn từ chối gọi video, nhưng hay hỏi trường học, giờ tan học của bạn. Nên làm gì?",
    "options": [
-    "Lực lượng bảo vệ an ninh mạng",
-    "Phòng ngừa, xử lý thông tin và hành vi dùng CNTT, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội",
-    "Kinh doanh dịch vụ an ninh mạng",
-    "Xử phạt bảo vệ dữ liệu cá nhân"
+    "Hẹn gặp ở cổng trường cho tiện",
+    "Cảnh giác, không cho thông tin, kể với bố mẹ",
+    "Kể hết vì bạn ấy thân thiện",
+    "Gửi luôn thời khóa biểu"
    ],
    "answer": 1,
-   "spell": "327 – “chặn” thông tin xâm phạm.",
-   "legal": "Nghị định 327/2026/NĐ-CP (phòng ngừa, xử lý thông tin xâm phạm ANQG, TTATXH trên không gian mạng)",
+   "spell": "Bạn mạng hỏi giờ giấc, chỗ học – dừng lại, kể người lớn.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
    "source": "ORIGINAL"
   },
   {
    "id": 172,
-   "level": 4,
-   "difficulty": 2,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "du-lieu-ca-nhan"
    ],
-   "image": "img/luat.svg",
-   "situation": "Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật ANM là?",
+   "image": "img/dulieu.svg",
+   "situation": "Một trang \"bói tên crush\" bắt đăng nhập bằng Facebook và xin quyền đọc danh sách bạn bè. Bạn nên?",
    "options": [
-    "Nghị định 333/2026/NĐ-CP",
-    "Nghị định 330/2026/NĐ-CP",
-    "Nghị định 327/2026/NĐ-CP",
-    "Nghị định 331/2026/NĐ-CP"
+    "Không đăng nhập, không cấp quyền đọc dữ liệu không cần thiết",
+    "Đăng nhập luôn, bói xong thì thôi",
+    "Cấp hết quyền cho kết quả chính xác",
+    "Đăng nhập bằng tài khoản của bạn thân"
    ],
    "answer": 0,
-   "spell": "Ba ba ba – “bản đồ” thi hành luật.",
-   "legal": "Nghị định 333/2026/NĐ-CP (quy định chi tiết và biện pháp thi hành Luật An ninh mạng)",
+   "spell": "App đòi quyền quá đà – từ chối là khôn.",
+   "legal": "Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
    "source": "ORIGINAL"
   },
   {
    "id": 173,
-   "level": 4,
-   "difficulty": 3,
+   "level": 2,
+   "difficulty": 1,
    "tags": [
-    "luat-chung"
+    "tai-khoan"
    ],
-   "image": "img/luat.svg",
-   "situation": "Luật ANM 2025 gộp nội dung của những luật nào trước đây?",
+   "image": "img/taikhoan.svg",
+   "situation": "Bạn dùng điện thoại mượn của bạn để vào Zalo. Dùng xong nên làm gì?",
    "options": [
-    "Bộ luật Hình sự và Luật Tố cáo",
-    "Luật Viễn thông và Luật Báo chí",
-    "Luật An ninh mạng 2018 và Luật An toàn thông tin mạng 2015",
-    "Luật Giao dịch điện tử và Luật Công nghệ thông tin"
+    "Đổi ảnh đại diện của bạn cho vui",
+    "Để nguyên cho lần sau đỡ đăng nhập",
+    "Đăng xuất và không lưu mật khẩu trên máy bạn",
+    "Nhờ bạn giữ tài khoản hộ"
    ],
    "answer": 2,
-   "spell": "Hai luật cũ “hợp nhất” thành một.",
-   "legal": "Khoản 2 Điều 44 Luật An ninh mạng số 116/2025/QH15",
+   "spell": "Máy mượn dùng xong – đăng xuất ngay.",
+   "legal": "Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
    "source": "ORIGINAL"
   },
   {
@@ -3504,42 +3504,42 @@
   },
   {
    "id": 176,
-   "level": 4,
+   "level": 3,
+   "difficulty": 2,
+   "tags": [
+    "du-lieu-ca-nhan"
+   ],
+   "image": "img/dulieu.svg",
+   "situation": "Một ứng dụng học tập để lộ danh sách học sinh kèm số điện thoại của bạn. Bạn có những quyền gì?",
+   "options": [
+    "Chỉ được viết bình luận chê app",
+    "Phải tự xóa số điện thoại của mình",
+    "Yêu cầu xóa, hạn chế xử lý và yêu cầu bồi thường nếu bị thiệt hại",
+    "Không có quyền gì vì đã dùng app miễn phí"
+   ],
+   "answer": 2,
+   "spell": "Dữ liệu bị lộ – bạn có quyền lên tiếng và đòi bồi thường.",
+   "legal": "Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "source": "ORIGINAL"
+  },
+  {
+   "id": 177,
+   "level": 3,
    "difficulty": 2,
    "tags": [
     "hack"
    ],
    "image": "img/hack.svg",
-   "situation": "Gây sự cố, chiếm quyền điều khiển, làm tê liệt hệ thống thông tin là?",
+   "situation": "Bạn cùng lớp khoe \"chiếm được nick Facebook của cô giáo\" bằng cách đoán mật khẩu. Đánh giá?",
    "options": [
-    "Sơ suất kỹ thuật",
-    "Không bị điều chỉnh",
-    "Hành vi bị nghiêm cấm về an ninh mạng",
-    "Kiểm thử bảo mật hợp lệ dù không xin phép"
+    "Lỗi của cô vì đặt mật khẩu dễ",
+    "Chỉ là đùa, không sao",
+    "Xâm nhập, chiếm quyền tài khoản trái phép – vi phạm pháp luật",
+    "Đúng nếu chỉ xem không sửa gì"
    ],
    "answer": 2,
-   "spell": "Không xin phép mà “thử” – là tấn công.",
-   "legal": "Khoản 3 Điều 7 Luật An ninh mạng số 116/2025/QH15",
-   "source": "ORIGINAL"
-  },
-  {
-   "id": 177,
-   "level": 4,
-   "difficulty": 3,
-   "tags": [
-    "hack"
-   ],
-   "image": "img/hack.svg",
-   "situation": "Chủ quản hệ thống thông tin có trách nhiệm gì với các hành vi tấn công mạng?",
-   "options": [
-    "Chỉ mua bảo hiểm",
-    "Chờ công an xử lý",
-    "Áp dụng biện pháp kỹ thuật để phòng ngừa, ngăn chặn đối với hệ thống thuộc phạm vi quản lý",
-    "Không có trách nhiệm"
-   ],
-   "answer": 2,
-   "spell": "Hệ thống của ai – người đó gác cổng.",
-   "legal": "Khoản 2 Điều 18 Luật An ninh mạng số 116/2025/QH15",
+   "spell": "Chiếm nick người khác là phạm luật, dù \"cho vui\".",
+   "legal": "Luật An ninh mạng số 116/2025/QH15",
    "source": "ORIGINAL"
   },
   {
@@ -4064,7 +4064,7 @@
   },
   {
    "id": 204,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -4164,7 +4164,7 @@
   },
   {
    "id": 209,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -4184,7 +4184,7 @@
   },
   {
    "id": 210,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4204,7 +4204,7 @@
   },
   {
    "id": 211,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4264,7 +4264,7 @@
   },
   {
    "id": 214,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -4284,7 +4284,7 @@
   },
   {
    "id": 215,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tài khoản"
@@ -4384,7 +4384,7 @@
   },
   {
    "id": 220,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4404,7 +4404,7 @@
   },
   {
    "id": 221,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -4444,7 +4444,7 @@
   },
   {
    "id": 223,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4504,7 +4504,7 @@
   },
   {
    "id": 226,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -4524,7 +4524,7 @@
   },
   {
    "id": 227,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4544,7 +4544,7 @@
   },
   {
    "id": 228,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -4564,7 +4564,7 @@
   },
   {
    "id": 229,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "tài khoản"
@@ -4604,7 +4604,7 @@
   },
   {
    "id": 231,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4624,7 +4624,7 @@
   },
   {
    "id": 232,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4644,7 +4644,7 @@
   },
   {
    "id": 233,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4704,7 +4704,7 @@
   },
   {
    "id": 236,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -4744,7 +4744,7 @@
   },
   {
    "id": 238,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -4764,7 +4764,7 @@
   },
   {
    "id": 239,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4844,7 +4844,7 @@
   },
   {
    "id": 243,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4864,7 +4864,7 @@
   },
   {
    "id": 244,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4884,7 +4884,7 @@
   },
   {
    "id": 245,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -4924,7 +4924,7 @@
   },
   {
    "id": 247,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -4944,7 +4944,7 @@
   },
   {
    "id": 248,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -4964,7 +4964,7 @@
   },
   {
    "id": 249,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -4984,7 +4984,7 @@
   },
   {
    "id": 250,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -5004,7 +5004,7 @@
   },
   {
    "id": 251,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -5044,7 +5044,7 @@
   },
   {
    "id": 253,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -5084,7 +5084,7 @@
   },
   {
    "id": 255,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -5104,7 +5104,7 @@
   },
   {
    "id": 256,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -5144,7 +5144,7 @@
   },
   {
    "id": 258,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -5284,7 +5284,7 @@
   },
   {
    "id": 265,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -5304,7 +5304,7 @@
   },
   {
    "id": 266,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -5364,7 +5364,7 @@
   },
   {
    "id": 269,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "lừa đảo"
@@ -5384,7 +5384,7 @@
   },
   {
    "id": 270,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -5504,7 +5504,7 @@
   },
   {
    "id": 276,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -5544,7 +5544,7 @@
   },
   {
    "id": 278,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -5584,7 +5584,7 @@
   },
   {
    "id": 280,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -5684,7 +5684,7 @@
   },
   {
    "id": 285,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "tin giả"
@@ -5764,7 +5764,7 @@
   },
   {
    "id": 289,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -5864,7 +5864,7 @@
   },
   {
    "id": 294,
-   "level": 2,
+   "level": 3,
    "difficulty": 2,
    "tags": [
     "báo cáo"
@@ -5904,7 +5904,7 @@
   },
   {
    "id": 296,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -5964,7 +5964,7 @@
   },
   {
    "id": 299,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -5984,7 +5984,7 @@
   },
   {
    "id": 300,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -6044,7 +6044,7 @@
   },
   {
    "id": 303,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -6064,7 +6064,7 @@
   },
   {
    "id": 304,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6084,7 +6084,7 @@
   },
   {
    "id": 305,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6124,7 +6124,7 @@
   },
   {
    "id": 307,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -6164,7 +6164,7 @@
   },
   {
    "id": 309,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6184,7 +6184,7 @@
   },
   {
    "id": 310,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -6244,7 +6244,7 @@
   },
   {
    "id": 313,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "tài khoản"
@@ -6264,7 +6264,7 @@
   },
   {
    "id": 314,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -6304,7 +6304,7 @@
   },
   {
    "id": 316,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tài khoản"
@@ -6324,7 +6324,7 @@
   },
   {
    "id": 317,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6344,7 +6344,7 @@
   },
   {
    "id": 318,
-   "level": 2,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "lừa đảo"
@@ -6364,7 +6364,7 @@
   },
   {
    "id": 319,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -6404,7 +6404,7 @@
   },
   {
    "id": 321,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6424,7 +6424,7 @@
   },
   {
    "id": 322,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -6444,7 +6444,7 @@
   },
   {
    "id": 323,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6464,7 +6464,7 @@
   },
   {
    "id": 324,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6484,7 +6484,7 @@
   },
   {
    "id": 325,
-   "level": 2,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6504,7 +6504,7 @@
   },
   {
    "id": 326,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6544,7 +6544,7 @@
   },
   {
    "id": 328,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6564,7 +6564,7 @@
   },
   {
    "id": 329,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6604,7 +6604,7 @@
   },
   {
    "id": 331,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6624,7 +6624,7 @@
   },
   {
    "id": 332,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6644,7 +6644,7 @@
   },
   {
    "id": 333,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6664,7 +6664,7 @@
   },
   {
    "id": 334,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6704,7 +6704,7 @@
   },
   {
    "id": 336,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -6724,7 +6724,7 @@
   },
   {
    "id": 337,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -6804,7 +6804,7 @@
   },
   {
    "id": 341,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6824,7 +6824,7 @@
   },
   {
    "id": 342,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6864,7 +6864,7 @@
   },
   {
    "id": 344,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -6884,7 +6884,7 @@
   },
   {
    "id": 345,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6944,7 +6944,7 @@
   },
   {
    "id": 348,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -6984,7 +6984,7 @@
   },
   {
    "id": 350,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7004,7 +7004,7 @@
   },
   {
    "id": 351,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7024,7 +7024,7 @@
   },
   {
    "id": 352,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7044,7 +7044,7 @@
   },
   {
    "id": 353,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -7084,7 +7084,7 @@
   },
   {
    "id": 355,
-   "level": 2,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7124,7 +7124,7 @@
   },
   {
    "id": 357,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7144,7 +7144,7 @@
   },
   {
    "id": 358,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -7184,7 +7184,7 @@
   },
   {
    "id": 360,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7224,7 +7224,7 @@
   },
   {
    "id": 362,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "tin giả"
@@ -7264,7 +7264,7 @@
   },
   {
    "id": 364,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -7284,7 +7284,7 @@
   },
   {
    "id": 365,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -7404,7 +7404,7 @@
   },
   {
    "id": 371,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "tin giả"
@@ -7424,7 +7424,7 @@
   },
   {
    "id": 372,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "lừa đảo"
@@ -7444,7 +7444,7 @@
   },
   {
    "id": 373,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7504,7 +7504,7 @@
   },
   {
    "id": 376,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tin giả"
@@ -7524,7 +7524,7 @@
   },
   {
    "id": 377,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -7544,7 +7544,7 @@
   },
   {
    "id": 378,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7564,7 +7564,7 @@
   },
   {
    "id": 379,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -7584,7 +7584,7 @@
   },
   {
    "id": 380,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7604,7 +7604,7 @@
   },
   {
    "id": 381,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7624,7 +7624,7 @@
   },
   {
    "id": 382,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7644,7 +7644,7 @@
   },
   {
    "id": 383,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tin giả"
@@ -7684,7 +7684,7 @@
   },
   {
    "id": 385,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -7724,7 +7724,7 @@
   },
   {
    "id": 387,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "tấn công mạng"
@@ -7804,7 +7804,7 @@
   },
   {
    "id": 391,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -7824,7 +7824,7 @@
   },
   {
    "id": 392,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -7844,7 +7844,7 @@
   },
   {
    "id": 393,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7864,7 +7864,7 @@
   },
   {
    "id": 394,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tấn công mạng"
@@ -7924,7 +7924,7 @@
   },
   {
    "id": 397,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -7944,7 +7944,7 @@
   },
   {
    "id": 398,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -7964,7 +7964,7 @@
   },
   {
    "id": 399,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -7984,7 +7984,7 @@
   },
   {
    "id": 400,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -8004,7 +8004,7 @@
   },
   {
    "id": 401,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "tin giả"
@@ -8044,7 +8044,7 @@
   },
   {
    "id": 403,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8124,7 +8124,7 @@
   },
   {
    "id": 407,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8244,7 +8244,7 @@
   },
   {
    "id": 413,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8344,7 +8344,7 @@
   },
   {
    "id": 418,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8364,7 +8364,7 @@
   },
   {
    "id": 419,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8384,7 +8384,7 @@
   },
   {
    "id": 420,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8404,7 +8404,7 @@
   },
   {
    "id": 421,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8424,7 +8424,7 @@
   },
   {
    "id": 422,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8444,7 +8444,7 @@
   },
   {
    "id": 423,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8464,7 +8464,7 @@
   },
   {
    "id": 424,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8484,7 +8484,7 @@
   },
   {
    "id": 425,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8584,7 +8584,7 @@
   },
   {
    "id": 430,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8664,7 +8664,7 @@
   },
   {
    "id": 434,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -8684,7 +8684,7 @@
   },
   {
    "id": 435,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8944,7 +8944,7 @@
   },
   {
    "id": 448,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -8984,7 +8984,7 @@
   },
   {
    "id": 450,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -9144,7 +9144,7 @@
   },
   {
    "id": 458,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "báo cáo"
@@ -9164,7 +9164,7 @@
   },
   {
    "id": 459,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -9184,7 +9184,7 @@
   },
   {
    "id": 460,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -9204,7 +9204,7 @@
   },
   {
    "id": 461,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -9224,7 +9224,7 @@
   },
   {
    "id": 462,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -9324,7 +9324,7 @@
   },
   {
    "id": 467,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -9344,7 +9344,7 @@
   },
   {
    "id": 468,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -9364,7 +9364,7 @@
   },
   {
    "id": 469,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -9604,7 +9604,7 @@
   },
   {
    "id": 481,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -9684,7 +9684,7 @@
   },
   {
    "id": 485,
-   "level": 2,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -9884,7 +9884,7 @@
   },
   {
    "id": 495,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -10064,7 +10064,7 @@
   },
   {
    "id": 504,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -10164,7 +10164,7 @@
   },
   {
    "id": 509,
-   "level": 2,
+   "level": 3,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -10284,7 +10284,7 @@
   },
   {
    "id": 515,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -10404,7 +10404,7 @@
   },
   {
    "id": 521,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "báo cáo"
@@ -10444,7 +10444,7 @@
   },
   {
    "id": 523,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -10504,7 +10504,7 @@
   },
   {
    "id": 526,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -10564,7 +10564,7 @@
   },
   {
    "id": 529,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -10864,7 +10864,7 @@
   },
   {
    "id": 544,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -10924,7 +10924,7 @@
   },
   {
    "id": 547,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -10944,7 +10944,7 @@
   },
   {
    "id": 548,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -11144,7 +11144,7 @@
   },
   {
    "id": 558,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "game"
@@ -11284,7 +11284,7 @@
   },
   {
    "id": 565,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -11384,7 +11384,7 @@
   },
   {
    "id": 570,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -11464,7 +11464,7 @@
   },
   {
    "id": 574,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -11484,7 +11484,7 @@
   },
   {
    "id": 575,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "pháp luật"
@@ -11504,7 +11504,7 @@
   },
   {
    "id": 576,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -11524,7 +11524,7 @@
   },
   {
    "id": 577,
-   "level": 2,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "báo cáo"
@@ -11724,7 +11724,7 @@
   },
   {
    "id": 587,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "dữ liệu cá nhân"
@@ -11744,7 +11744,7 @@
   },
   {
    "id": 588,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "AI-deepfake"
@@ -11804,7 +11804,7 @@
   },
   {
    "id": 591,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -11824,7 +11824,7 @@
   },
   {
    "id": 592,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "pháp luật"
@@ -11884,7 +11884,7 @@
   },
   {
    "id": 595,
-   "level": 3,
+   "level": 4,
    "difficulty": 1,
    "tags": [
     "dữ liệu cá nhân"
@@ -11964,7 +11964,7 @@
   },
   {
    "id": 599,
-   "level": 3,
+   "level": 4,
    "difficulty": 2,
    "tags": [
     "mật khẩu"
