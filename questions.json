@@ -9,7 +9,7 @@
    "tags": [
     "mat-khau"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-1.svg",
    "situation": "Mèo Mít đặt mật khẩu game là \"meomit123\". Cún Bông khen: \"Dễ nhớ ghê, cho tớ mượn nhé!\". Mèo Mít nên làm gì?",
    "options": [
     "Viết mật khẩu lên bảng lớp để khỏi quên",
@@ -29,7 +29,7 @@
    "tags": [
     "mat-khau"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-2.svg",
    "situation": "Tí dán tờ giấy ghi mật khẩu ngay trên màn hình máy tính \"cho tiện\". Điều gì có thể xảy ra?",
    "options": [
     "Ai đi ngang qua cũng đọc được và đăng nhập vào tài khoản của Tí",
@@ -109,7 +109,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-2.svg",
    "situation": "Mèo Mít nhận tin nhắn: \"Bấm vào đây nhận 1 triệu kim cương miễn phí!!!\". Mèo Mít nên làm gì?",
    "options": [
     "Gửi cho cả lớp cùng nhận",
@@ -129,7 +129,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Máy tính báo: \"Máy bạn có 99 con virus! Tải ngay phần mềm diệt virus này!\". Tí nên làm gì?",
    "options": [
     "Rút điện máy tính rồi cắm lại và tải",
@@ -169,7 +169,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-1.svg",
    "situation": "Trong nhóm chat lớp, các bạn chế ảnh Tí thành con heo và cười ầm. Mèo Mít nên làm gì?",
    "options": [
     "Thả \"haha\" cho hòa đồng",
@@ -209,7 +209,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Tí mới 9 tuổi, muốn có tài khoản mạng xã hội riêng. Ai nên đăng ký cho Tí?",
    "options": [
     "Không ai cả, cứ dùng tài khoản của anh họ",
@@ -229,7 +229,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Một trang web đố vui hỏi: \"Nhập tên, số nhà, trường và số điện thoại của mẹ để biết bạn là siêu nhân nào!\". Tí nên làm gì?",
    "options": [
     "Nhập thông tin của bạn thân",
@@ -249,7 +249,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Đâu là thông tin cá nhân cần giữ kín, không đăng lên mạng?",
    "options": [
     "Địa chỉ nhà và số điện thoại",
@@ -269,7 +269,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-1.svg",
    "situation": "Bạn mới quen trong game rủ Cún Bông gặp nhau ở công viên, \"đừng nói với ai nhé\". Cún Bông nên làm gì?",
    "options": [
     "Đi nhưng mang theo ô",
@@ -349,7 +349,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Một tin nhắn từ số lạ: \"Con của bạn đã trúng thưởng xe đạp, bấm link điền thông tin\". Tí đọc được trên máy mẹ. Tí nên?",
    "options": [
     "Bấm giúp mẹ cho nhanh",
@@ -369,7 +369,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-1.svg",
    "situation": "Gặp nội dung đáng sợ trên mạng, 5 \"nút\" cần nhớ là gì?",
    "options": [
     "Chụp lại – Gửi cả lớp – Đăng – Câu like – Xóa",
@@ -409,7 +409,7 @@
    "tags": [
     "mat-khau"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-2.svg",
    "situation": "Mật khẩu nào an toàn nhất cho tài khoản của Tí?",
    "options": [
     "123456",
@@ -429,7 +429,7 @@
    "tags": [
     "anh-rieng-tu"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-2.svg",
    "situation": "Bố đăng ảnh Cún Bông tắm bồn lên mạng. Cún Bông thấy ngại. Cún Bông nên làm gì?",
    "options": [
     "Nói với bố rằng mình không thích và xin bố gỡ ảnh",
@@ -449,7 +449,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Trên mạng có video \"Ăn 10 cái kẹo mỗi ngày sẽ cao thêm 10cm\". Mèo Mít nên?",
    "options": [
     "Không tin ngay, hỏi thầy cô, bố mẹ",
@@ -489,7 +489,7 @@
    "tags": [
     "ai-deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-2.svg",
    "situation": "Cún Bông thấy video \"chú mèo nói tiếng người, kêu gọi các bạn chuyển tiền mua cá\". Đây có thể là gì?",
    "options": [
     "Phim hoạt hình chính thức của trường",
@@ -509,7 +509,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Mèo Mít dùng máy tính ở thư viện, xong việc thì đi về luôn. Mèo Mít quên làm gì?",
    "options": [
     "Chỉnh ghế",
@@ -589,7 +589,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "USB nhặt được ở sân trường có ghi \"Đáp án kiểm tra\". Tí nên làm gì?",
    "options": [
     "Không cắm vào máy, nộp cho thầy cô",
@@ -629,7 +629,7 @@
    "tags": [
     "webcam"
    ],
-   "image": "img/webcam.svg",
+   "image": "img/webcam-1.svg",
    "situation": "Khi không học online, nên làm gì với camera máy tính?",
    "options": [
     "Tắt hoặc che camera lại",
@@ -649,7 +649,7 @@
    "tags": [
     "mua-sam"
    ],
-   "image": "img/muasam.svg",
+   "image": "img/muasam-2.svg",
    "situation": "Cún Bông thấy quảng cáo game: \"Nhập số thẻ ngân hàng của bố để nhận skin miễn phí\". Nên làm gì?",
    "options": [
     "Nhập một nửa số thẻ",
@@ -669,7 +669,7 @@
    "tags": [
     "mat-khau"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-1.svg",
    "situation": "Tí dùng chung một mật khẩu cho tất cả tài khoản. Nếu một tài khoản bị lộ thì sao?",
    "options": [
     "Máy tính sẽ tự đổi mật khẩu",
@@ -689,7 +689,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-2.svg",
    "situation": "Ai là người Tí nên tìm khi gặp chuyện không ổn trên mạng?",
    "options": [
     "Một tài khoản ẩn danh",
@@ -709,7 +709,7 @@
    "tags": [
     "anh-rieng-tu"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-2.svg",
    "situation": "Cún Bông muốn gửi ảnh mặc đồ ngủ cho \"bạn mới quen trên mạng\". Nên làm gì?",
    "options": [
     "Gửi ảnh mờ thôi",
@@ -729,7 +729,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Khi bị người lạ nhắn tin đe dọa, điều gì KHÔNG nên làm?",
    "options": [
     "Xóa hết tin nhắn và giấu không cho ai biết",
@@ -749,7 +749,7 @@
    "tags": [
     "ban-quyen"
    ],
-   "image": "img/banquyen.svg",
+   "image": "img/banquyen-1.svg",
    "situation": "Mèo Mít tải phim lậu trên trang lạ để xem miễn phí. Rủi ro là gì?",
    "options": [
     "Phim sẽ hay hơn",
@@ -769,7 +769,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Có người nhắn: \"Mình là quản trị game, cho mình mã đăng nhập (OTP) để tặng quà\". Tí nên?",
    "options": [
     "Đưa một nửa mã",
@@ -849,7 +849,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Video \"uống nước rửa chén sẽ thông minh hơn\" đang lan truyền. Tí nên?",
    "options": [
     "Rủ bạn thử chung",
@@ -889,7 +889,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Email \"Từ: Hiệu trưởng\" nhưng địa chỉ là thaihieutruong99@abcxyz.top, yêu cầu tải file \"diem.exe\". Tí nên?",
    "options": [
     "Mở bằng điện thoại",
@@ -929,7 +929,7 @@
    "tags": [
     "mua-sam"
    ],
-   "image": "img/muasam.svg",
+   "image": "img/muasam-2.svg",
    "situation": "Tí thấy quảng cáo \"Điện thoại xịn chỉ 10.000 đồng, chuyển khoản trước\". Nên nghĩ gì?",
    "options": [
     "Mua 10 cái tặng cả lớp",
@@ -949,7 +949,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Cún Bông đăng ảnh check-in kèm \"đang ở nhà một mình\". Có vấn đề gì?",
    "options": [
     "Ảnh sẽ được nhiều tim hơn",
@@ -989,7 +989,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Tí bị \"mất nick\" game. Ai đó đòi tiền để trả lại. Tí nên?",
    "options": [
     "Hack lại tài khoản kẻ đó",
@@ -1009,7 +1009,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-2.svg",
    "situation": "Lời mời kết bạn từ \"Siêu nhân Gao Đỏ chính hãng\". Mèo Mít nên?",
    "options": [
     "Kết bạn cả Gao Xanh",
@@ -1029,7 +1029,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Nhóm lớp lan truyền \"Mai thi học kỳ bị hoãn, nguồn: tin chuẩn 100%\". Không ai biết ai đăng đầu tiên. Bạn nên?",
    "options": [
     "Chia sẻ thêm vào 5 nhóm khác cho chắc",
@@ -1089,7 +1089,7 @@
    "tags": [
     "deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-1.svg",
    "situation": "Nhóm bạn dùng app AI ghép mặt cô giáo vào clip nhảy múa hài rồi đăng lên TikTok. Đánh giá?",
    "options": [
     "Hợp pháp nếu có chữ \"AI\"",
@@ -1109,7 +1109,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-2.svg",
    "situation": "Bạn rủ \"cho mượn tài khoản ngân hàng của mẹ để nhận tiền hộ, được trả 200k\". Cún Bông nên?",
    "options": [
     "Đồng ý một lần thôi",
@@ -1129,7 +1129,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Tin nhắn Facebook từ bạn thân: \"Bình chọn giúp tớ nhé!\" kèm link yêu cầu đăng nhập Facebook lần nữa. Bạn nên?",
    "options": [
     "Không đăng nhập, gọi hỏi bạn – có thể tài khoản bạn đã bị chiếm",
@@ -1149,7 +1149,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "App \"xem ai vào trang cá nhân bạn\" đòi tên đăng nhập và mật khẩu Facebook. Tí nên?",
    "options": [
     "Cung cấp vì tò mò",
@@ -1169,7 +1169,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-2.svg",
    "situation": "Tí bị nhắn tin xúc phạm liên tục. Bước nào là ĐÚNG để lưu bằng chứng?",
    "options": [
     "Chỉnh ảnh cho rõ ràng hơn",
@@ -1189,7 +1189,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Bài đăng \"Uống 3 lít nước chanh mỗi sáng chữa khỏi mọi bệnh\" có 1 triệu like. Nhiều like có nghĩa là?",
    "options": [
     "Chắc chắn đúng",
@@ -1229,7 +1229,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Trang web \"cá cược game, nạp 50k ăn 500k\" mời Tí tham gia. Đúng hay sai?",
    "options": [
     "Đúng vì chỉ là game",
@@ -1249,7 +1249,7 @@
    "tags": [
     "anh-rieng-tu"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-2.svg",
    "situation": "Người quen qua mạng dọa: \"Không gửi thêm ảnh thì tao phát tán ảnh cũ\". Bạn nên làm gì?",
    "options": [
     "Gửi thêm để họ im",
@@ -1289,7 +1289,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Một nhóm Zalo bán \"danh sách số điện thoại học sinh cả trường\". Việc mua bán này?",
    "options": [
     "Được phép nếu dùng để quảng cáo",
@@ -1309,7 +1309,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-2.svg",
    "situation": "Bạn thấy livestream đánh nhau của học sinh trường mình. Hành động đúng?",
    "options": [
     "Không chia sẻ, báo cáo nội dung và báo thầy cô",
@@ -1349,7 +1349,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-2.svg",
    "situation": "Tài khoản của Tí bị kẻ xấu chiếm và dùng đi lừa bạn bè. Điều Tí nên làm đầu tiên?",
    "options": [
     "Đi lừa lại kẻ xấu",
@@ -1389,7 +1389,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-2.svg",
    "situation": "Tin nhắn \"Tài khoản ngân hàng của bạn bị khóa, bấm link để mở\" gửi tới máy mẹ. Bạn nên khuyên mẹ?",
    "options": [
     "Không bấm link, gọi tổng đài chính thức của ngân hàng",
@@ -1449,7 +1449,7 @@
    "tags": [
     "cookie"
    ],
-   "image": "img/cookie.svg",
+   "image": "img/cookie-2.svg",
    "situation": "Trang web hỏi \"Chấp nhận tất cả cookie?\". Theo Luật BVDLCN, mạng xã hội phải cho bạn quyền gì?",
    "options": [
     "Bắt buộc chấp nhận",
@@ -1509,7 +1509,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-1.svg",
    "situation": "Tí \"chỉ like\" một bài chế giễu bạn cùng lớp. Điều đó có ảnh hưởng không?",
    "options": [
     "Không, like thì vô hại",
@@ -1529,7 +1529,7 @@
    "tags": [
     "mua-sam"
    ],
-   "image": "img/muasam.svg",
+   "image": "img/muasam-1.svg",
    "situation": "Shop online yêu cầu \"chuyển khoản cọc 100%, không giao COD, không cho xem hàng\". Bạn nên?",
    "options": [
     "Chuyển gấp đôi để được ưu tiên",
@@ -1569,7 +1569,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Mạng xã hội yêu cầu chụp ảnh căn cước của bạn để \"xác thực tài khoản\". Theo Luật BVDLCN?",
    "options": [
     "Luật không quy định",
@@ -1589,7 +1589,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Bạn thấy bài \"Cô hiệu trưởng bị bắt\" không có nguồn. Lựa chọn tốt nhất?",
    "options": [
     "Không bình luận, không chia sẻ, chờ thông tin chính thức",
@@ -1609,7 +1609,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-1.svg",
    "situation": "Nhóm lớp tạo bình chọn \"Bạn xấu nhất lớp\". Mèo Mít là lớp trưởng nên làm gì?",
    "options": [
     "Bình chọn cho vui",
@@ -1629,7 +1629,7 @@
    "tags": [
     "mat-khau"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-2.svg",
    "situation": "Wifi quán trà sữa miễn phí không mật khẩu. Bạn nên tránh làm gì khi dùng?",
    "options": [
     "Xem dự báo thời tiết",
@@ -1649,7 +1649,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-2.svg",
    "situation": "File \"Ảnh_kỷ_yếu.jpg.apk\" gửi qua Zalo. Điều đáng ngờ là gì?",
    "options": [
     "Tên file quá dài",
@@ -1669,7 +1669,7 @@
    "tags": [
     "ban-quyen"
    ],
-   "image": "img/banquyen.svg",
+   "image": "img/banquyen-1.svg",
    "situation": "Bạn mua 1 tài khoản xem phim rồi bán lại mật khẩu cho 50 người. Đánh giá?",
    "options": [
     "Hợp pháp vì đã trả tiền",
@@ -1709,7 +1709,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Cô giáo dùng bảng điểm có tên học sinh để làm ví dụ công khai trên Facebook. Học sinh có quyền gì?",
    "options": [
     "Không có quyền gì",
@@ -1729,7 +1729,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-1.svg",
    "situation": "Tí nạp game bằng thẻ của bố mà không hỏi. Vấn đề là?",
    "options": [
     "Game sẽ hoàn tiền",
@@ -1769,7 +1769,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Thấy tài khoản đăng ảnh xâm hại trẻ em, bạn nên?",
    "options": [
     "Tải về làm bằng chứng gửi nhóm lớp",
@@ -1789,7 +1789,7 @@
    "tags": [
     "deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-2.svg",
    "situation": "Bạn nhận tin nhắn thoại giống giọng bố: \"Bố đang gấp, chuyển ngay 5 triệu vào số này\". Cách xử lý?",
    "options": [
     "Chuyển ngay vì giọng giống",
@@ -1829,7 +1829,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "App học tiếng Anh tắt đi rồi mà vẫn liên tục lấy vị trí. Theo luật, nhà cung cấp app phải?",
    "options": [
     "Được lấy tự do",
@@ -1849,7 +1849,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Mã QR dán trên cột điện: \"Quét để nhận học bổng 10 triệu\". Bạn nên?",
    "options": [
     "Không quét, mã QR lạ có thể dẫn tới trang lừa đảo",
@@ -1929,7 +1929,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-2.svg",
    "situation": "Dấu hiệu nào cho thấy bạn mạng có thể không như họ nói?",
    "options": [
     "Không bao giờ bật camera, hỏi nhiều chuyện riêng, đòi giữ bí mật",
@@ -1969,7 +1969,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Bạn tạo phần mềm làm sập server game của trường \"cho vui\". Hành vi này là?",
    "options": [
     "Không ai biết thì không sao",
@@ -1989,7 +1989,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-1.svg",
    "situation": "Bạn nhận được tin nhắn đe dọa lúc 11 giờ đêm. Theo cẩm nang, bước đầu tiên là?",
    "options": [
     "Đăng lên mạng kể khổ",
@@ -2009,7 +2009,7 @@
    "tags": [
     "ai-deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-1.svg",
    "situation": "Bạn dùng AI tạo ảnh \"bạn cùng lớp đang ăn trộm\" để trêu. Hành vi này vi phạm?",
    "options": [
     "Không vi phạm vì ảnh là AI",
@@ -2029,7 +2029,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Bạn có nghĩa vụ gì với dữ liệu cá nhân của chính mình theo Luật BVDLCN?",
    "options": [
     "Tự bảo vệ dữ liệu cá nhân của mình",
@@ -2049,7 +2049,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một app học tập ghi: \"Tiếp tục sử dụng nghĩa là bạn đồng ý cho chúng tôi bán dữ liệu cho đối tác\". Theo Luật BVDLCN, cách \"đồng ý\" này?",
    "options": [
     "Hợp lệ nếu người dùng trên 16 tuổi",
@@ -2089,7 +2089,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Bạn đã đồng ý cho một app dùng dữ liệu, giờ muốn rút lại. Theo luật?",
    "options": [
     "Đã đồng ý thì không rút được",
@@ -2109,7 +2109,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Rút lại sự đồng ý có làm các hoạt động xử lý dữ liệu TRƯỚC thời điểm rút trở nên trái luật không?",
    "options": [
     "Có, mọi xử lý trước đó đều trái luật",
@@ -2149,7 +2149,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Theo Luật BVDLCN, \"dữ liệu cá nhân\" sau khi đã khử nhận dạng thì?",
    "options": [
     "Trở thành bí mật nhà nước",
@@ -2169,7 +2169,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bạn phát hiện thông tin sai về mình trong hồ sơ một trung tâm tiếng Anh. Quyền của bạn?",
    "options": [
     "Xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân",
@@ -2209,7 +2209,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Theo Luật An ninh mạng 2025, đăng thông tin sai sự thật gây hoang mang trong Nhân dân thuộc nhóm nào?",
    "options": [
     "Chỉ vi phạm nếu có trên 1.000 lượt chia sẻ",
@@ -2269,7 +2269,7 @@
    "tags": [
     "luat-chung"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Luật An ninh mạng số 116/2025/QH15 có hiệu lực từ ngày nào?",
    "options": [
     "10/12/2025",
@@ -2309,7 +2309,7 @@
    "tags": [
     "luat-chung"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Khi Luật An ninh mạng 2025 có hiệu lực, hai luật nào hết hiệu lực?",
    "options": [
     "Luật Giao dịch điện tử và Luật Viễn thông",
@@ -2349,7 +2349,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Tài khoản của bạn bị người khác mượn để lừa đảo. Theo Luật ANM 2025, hậu quả có thể là?",
    "options": [
     "Chủ tài khoản, người sử dụng có thể bị xử lý kỷ luật, xử phạt hoặc truy cứu và phải bồi thường nếu gây thiệt hại",
@@ -2369,7 +2369,7 @@
    "tags": [
     "tai-khoan"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Thu thập, mua bán, trao đổi trái phép thông tin tài khoản ngân hàng, ví điện tử của người khác là?",
    "options": [
     "Giao dịch dân sự bình thường",
@@ -2409,7 +2409,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-2.svg",
    "situation": "Hành vi nào được Luật ANM 2025 liệt kê là thông tin xâm phạm quyền, lợi ích của cá nhân?",
    "options": [
     "Đánh giá 3 sao một quán ăn trung thực",
@@ -2469,7 +2469,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-2.svg",
    "situation": "Doanh nghiệp cung cấp mạng xã hội có trách nhiệm gì với nội dung gây hại cho trẻ em theo Luật ANM 2025?",
    "options": [
     "Chỉ cảnh báo người đăng",
@@ -2489,7 +2489,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Ai có trách nhiệm chủ động phòng ngừa phần mềm độc hại theo Luật ANM 2025?",
    "options": [
     "Cơ quan, tổ chức, cá nhân – tức là mọi người",
@@ -2509,7 +2509,7 @@
    "tags": [
     "hack"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Bạn tìm ra lỗ hổng web trường và tự ý xâm nhập để \"đổi điểm giúp bạn\". Theo Luật ANM?",
    "options": [
     "Xâm nhập trái phép hệ thống thông tin – hành vi bị nghiêm cấm",
@@ -2549,7 +2549,7 @@
    "tags": [
     "hack"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Bán, tặng phần mềm có tính năng gây hại để dùng vào mục đích trái pháp luật thuộc nhóm hành vi nào?",
    "options": [
     "Chia sẻ mã nguồn mở",
@@ -2569,7 +2569,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Theo Luật ANM 2025, thu thập, sử dụng, phát tán, kinh doanh trái pháp luật dữ liệu cá nhân của người khác là?",
    "options": [
     "Hành vi bị nghiêm cấm trên không gian mạng",
@@ -2589,7 +2589,7 @@
    "tags": [
     "anh-rieng-tu"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-1.svg",
    "situation": "Cố ý nghe lén, ghi âm, ghi hình trái phép cuộc gọi trên không gian mạng là?",
    "options": [
     "Quyền lưu bằng chứng tùy ý",
@@ -2609,7 +2609,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Mạng xã hội muốn đọc tin nhắn của bạn để \"gợi ý quảng cáo phù hợp\" mà không hỏi. Theo Luật BVDLCN?",
    "options": [
     "Được nếu ghi trong điều khoản dài",
@@ -2689,7 +2689,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bạn thấy dữ liệu của mình bị lạm dụng và gây thiệt hại. Quyền nào sau đây là của chủ thể dữ liệu?",
    "options": [
     "Không có quyền nào",
@@ -2749,7 +2749,7 @@
    "tags": [
     "mua-sam"
    ],
-   "image": "img/muasam.svg",
+   "image": "img/muasam-1.svg",
    "situation": "Tổ chức, hỗ trợ vận hành sàn giao dịch tài sản số trái phép trên mạng được Luật ANM 2025 xếp vào?",
    "options": [
     "Hoạt động khởi nghiệp hợp pháp",
@@ -2769,7 +2769,7 @@
    "tags": [
     "luat-chung"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Theo Luật ANM 2025, việc phổ biến kiến thức an ninh mạng ưu tiên những đối tượng nào?",
    "options": [
     "Trẻ em, người cao tuổi, người khó khăn trong nhận thức",
@@ -2789,7 +2789,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Theo Luật ANM 2025, cá nhân sử dụng không gian mạng có trách nhiệm gì khi phát hiện hành vi xâm phạm an ninh mạng?",
    "options": [
     "Đăng lên mạng bóc phốt trước",
@@ -2829,7 +2829,7 @@
    "tags": [
     "deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-2.svg",
    "situation": "Tài khoản giả mạo trang thông tin điện tử của trường để thu tiền \"học phí bổ sung\". Đây là?",
    "options": [
     "Giả mạo trang thông tin điện tử của tổ chức – bị nghiêm cấm",
@@ -2849,7 +2849,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Quảng cáo \"app cá độ bóng đá uy tín\" tràn ngập nhóm chat. Theo Luật ANM, tổ chức đánh bạc qua mạng là?",
    "options": [
     "Chỉ cấm người dưới 18",
@@ -2869,7 +2869,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bên quyết định mục đích và phương tiện xử lý dữ liệu cá nhân được gọi là?",
    "options": [
     "Chủ thể dữ liệu cá nhân",
@@ -2889,7 +2889,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Một công ty in thẻ học sinh theo hợp đồng với trường. Công ty này đóng vai trò gì?",
    "options": [
     "Cơ quan quản lý nhà nước",
@@ -2909,7 +2909,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "\"Chủ thể dữ liệu cá nhân\" là ai?",
    "options": [
     "Cơ quan công an",
@@ -2949,7 +2949,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bạn cho người khác mượn căn cước, tài khoản để họ đăng ký sim, mở ví... rồi họ lừa đảo. Theo Luật BVDLCN?",
    "options": [
     "Không có quy định",
@@ -2989,7 +2989,7 @@
    "tags": [
     "luat-chung"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Luật ANM 2025 được Quốc hội ban hành ngày nào?",
    "options": [
     "26/6/2025",
@@ -3029,7 +3029,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Theo Luật BVDLCN, chủ thể dữ liệu có nghĩa vụ nào với dữ liệu của người khác?",
    "options": [
     "Chỉ phải bảo vệ dữ liệu người thân",
@@ -3069,7 +3069,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-2.svg",
    "situation": "Doanh nghiệp cung cấp dịch vụ thư điện tử phải làm gì với phần mềm độc hại theo Luật ANM 2025?",
    "options": [
     "Có hệ thống lọc phần mềm độc hại khi gửi, nhận, lưu trữ thông tin",
@@ -3089,7 +3089,7 @@
    "tags": [
     "lua-dao"
    ],
-   "image": "img/luadao.svg",
+   "image": "img/luadao-2.svg",
    "situation": "Bà Tư nhận cuộc gọi \"công an\" báo con trai liên quan đường dây ma túy, yêu cầu chuyển tiền \"tạm giữ\" vào tài khoản an toàn. Phản ứng đúng?",
    "options": [
     "Chuyển ngay để con khỏi bị bắt",
@@ -3109,7 +3109,7 @@
    "tags": [
     "lua-dao"
    ],
-   "image": "img/luadao.svg",
+   "image": "img/luadao-2.svg",
    "situation": "Một \"nhân viên ngân hàng\" gọi tới, đọc đúng họ tên, số căn cước của bạn rồi xin mã OTP để \"hoàn tiền\". Điều bạn nên suy luận?",
    "options": [
     "Đọc thêm số thẻ để họ đối chiếu",
@@ -3129,7 +3129,7 @@
    "tags": [
     "lua-dao"
    ],
-   "image": "img/luadao.svg",
+   "image": "img/luadao-2.svg",
    "situation": "Ứng dụng \"đầu tư nhiệm vụ: thả tim video nhận hoa hồng\" cho rút lãi 2 lần rồi đòi nạp 50 triệu để \"mở khóa\". Mô hình này là?",
    "options": [
     "Đầu tư sinh lời thật",
@@ -3169,7 +3169,7 @@
    "tags": [
     "deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-2.svg",
    "situation": "Kế toán nhận video call \"giám đốc\" yêu cầu chuyển gấp 2 tỷ cho đối tác, hình ảnh mờ, mạng chập chờn. Quy trình đúng?",
    "options": [
     "Xác minh qua kênh độc lập (gọi số đã biết, gặp trực tiếp) và tuân thủ quy trình phê duyệt",
@@ -3189,7 +3189,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Cửa hàng bắt khách để lại số điện thoại mới bán hàng, rồi chia sẻ danh sách cho bên quảng cáo. Sai ở đâu?",
    "options": [
     "Chỉ sai nếu bán giá cao",
@@ -3209,7 +3209,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Phụ huynh đăng ảnh con kèm tên trường, lớp, giờ tan học lên mạng công khai. Theo cẩm nang, rủi ro?",
    "options": [
     "Chỉ rủi ro nếu ảnh xấu",
@@ -3229,7 +3229,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Ứng dụng xem phim yêu cầu ảnh chụp căn cước để \"xác minh\". Bạn là người dùng mạng xã hội, căn cứ nào để từ chối?",
    "options": [
     "Luật BVDLCN cấm mạng xã hội yêu cầu ảnh/video chứa giấy tờ tùy thân làm yếu tố xác thực tài khoản",
@@ -3269,7 +3269,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một công ty nhận yêu cầu xóa dữ liệu của khách hàng nhưng cố tình trì hoãn, gây khó khăn. Theo Luật BVDLCN?",
    "options": [
     "Được trì hoãn vô thời hạn",
@@ -3289,7 +3289,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Bạn nhận video \"thực phẩm X gây ung thư\" từ nhóm họ hàng, chưa rõ nguồn. Ứng xử của người trưởng thành?",
    "options": [
     "Kiểm chứng qua nguồn chính thống, không chuyển tiếp khi chưa rõ",
@@ -3309,7 +3309,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Nhóm chat lớp 8A rần rần clip \"trường sắp bị sập\", ai cũng bấm chia sẻ. Bạn nên làm gì?",
    "options": [
     "Chia sẻ kèm câu \"không biết thật không nha\"",
@@ -3329,7 +3329,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Trong game, một người tự xưng \"admin\" nhắn: \"Gửi mật khẩu để anh nâng cấp nick VIP miễn phí\". Bạn nên?",
    "options": [
     "Gửi mật khẩu cũ, giữ mật khẩu mới",
@@ -3349,7 +3349,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-2.svg",
    "situation": "Bạn thân bị cả nhóm nhắn tin chửi bới vì chuyện nhỏ. Bạn có thể giúp thế nào?",
    "options": [
     "Khuyên bạn xóa tài khoản và quên đi",
@@ -3369,7 +3369,7 @@
    "tags": [
     "anh-rieng-tu"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-1.svg",
    "situation": "Bạn chụp ảnh nhóm đi chơi, một bạn nói \"đừng đăng ảnh tớ nhé\". Bạn nên làm gì?",
    "options": [
     "Đăng rồi tag luôn bạn đó",
@@ -3429,7 +3429,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Một trang \"bói tên crush\" bắt đăng nhập bằng Facebook và xin quyền đọc danh sách bạn bè. Bạn nên?",
    "options": [
     "Không đăng nhập, không cấp quyền đọc dữ liệu không cần thiết",
@@ -3489,7 +3489,7 @@
    "tags": [
     "hack"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Công ty bị tấn công ransomware, dữ liệu khách hàng bị lộ. Theo Luật BVDLCN, việc cần làm có tính pháp lý?",
    "options": [
     "Đổ lỗi cho nhân viên IT trên mạng",
@@ -3509,7 +3509,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một ứng dụng học tập để lộ danh sách học sinh kèm số điện thoại của bạn. Bạn có những quyền gì?",
    "options": [
     "Chỉ được viết bình luận chê app",
@@ -3529,7 +3529,7 @@
    "tags": [
     "hack"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Bạn cùng lớp khoe \"chiếm được nick Facebook của cô giáo\" bằng cách đoán mật khẩu. Đánh giá?",
    "options": [
     "Lỗi của cô vì đặt mật khẩu dễ",
@@ -3549,7 +3549,7 @@
    "tags": [
     "lua-dao"
    ],
-   "image": "img/luadao.svg",
+   "image": "img/luadao-2.svg",
    "situation": "Người cao tuổi trong nhà nhận tin \"trúng thưởng ô tô, nộp phí 5 triệu để nhận\". Con cháu nên làm gì?",
    "options": [
     "Giải thích dấu hiệu lừa đảo, cùng kiểm tra và không nộp tiền",
@@ -3569,7 +3569,7 @@
    "tags": [
     "lua-dao"
    ],
-   "image": "img/luadao.svg",
+   "image": "img/luadao-1.svg",
    "situation": "Website giả mạo cổng dịch vụ công yêu cầu nhập thông tin định danh để \"cập nhật dữ liệu\". Hành vi tạo website này vi phạm?",
    "options": [
     "Không vi phạm vì chưa lấy được gì",
@@ -3589,7 +3589,7 @@
    "tags": [
     "anh-rieng-tu"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-2.svg",
    "situation": "Chủ nhà trọ lắp camera hướng vào phòng ở của người thuê. Theo Luật BVDLCN?",
    "options": [
     "Không có quy định",
@@ -3609,7 +3609,7 @@
    "tags": [
     "mat-khau"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-2.svg",
    "situation": "Bạn cùng bàn hỏi: \"Cho tớ biết mật khẩu Zalo của cậu đi!\". Tí nên nói gì?",
    "options": [
     "\"Tớ viết lên bảng cho cậu chép\"",
@@ -3629,7 +3629,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-1.svg",
    "situation": "Một chú lạ hoắc trên mạng hỏi: \"Nhà cháu ở đâu thế?\". Cún Bông nên làm gì?",
    "options": [
     "Không nói, kể ngay với bố mẹ",
@@ -3649,7 +3649,7 @@
    "tags": [
     "link-la"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-1.svg",
    "situation": "Tin nhắn hiện lên: \"Bấm vào đây để nhận cún con miễn phí!\". Mèo Mít nên làm gì?",
    "options": [
     "Bấm ngay kẻo hết cún",
@@ -3669,7 +3669,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-1.svg",
    "situation": "Tí gặp chuyện buồn trên mạng, không biết kể ai. Tí có thể gọi số nào?",
    "options": [
     "999 – số của siêu nhân",
@@ -3689,7 +3689,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-2.svg",
    "situation": "Có bạn nhắn tin chê Mèo Mít \"xấu như khoai lang\". Mèo Mít nên làm gì?",
    "options": [
     "Đăng lên mạng cho cả trường cùng chê bạn",
@@ -3749,7 +3749,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-1.svg",
    "situation": "Đang chơi game, có người nói: \"Cho anh mã gửi về điện thoại của mẹ em, anh tặng skin\". Tí nên làm gì?",
    "options": [
     "Chụp màn hình gửi luôn",
@@ -3789,7 +3789,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-1.svg",
    "situation": "Bạn mới quen trong game rủ Mèo Mít ra công viên gặp, \"đừng nói ai nha\". Mèo Mít làm gì?",
    "options": [
     "Rủ thêm em bé hàng xóm",
@@ -3809,7 +3809,7 @@
    "tags": [
     "bao-cao"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Cún Bông thấy video làm mình sợ hãi trên mạng. Việc đầu tiên nên làm?",
    "options": [
     "Dừng xem và kể với bố mẹ, thầy cô",
@@ -3869,7 +3869,7 @@
    "tags": [
     "hack"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Máy tính bỗng hiện chữ đỏ: \"Máy bạn sắp nổ! Tải ngay ứng dụng này!\". Mèo Mít làm gì?",
    "options": [
     "Bấm \"Đồng ý\" thật nhiều lần",
@@ -3929,7 +3929,7 @@
    "tags": [
     "du-lieu-ca-nhan"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Một trò chơi đố vui hỏi: \"Nhập tên trường và địa chỉ nhà để nhận quà\". Mèo Mít nên làm gì?",
    "options": [
     "Nhập địa chỉ nhà bạn thân",
@@ -3949,7 +3949,7 @@
    "tags": [
     "bat-nat"
    ],
-   "image": "img/batnat.svg",
+   "image": "img/batnat-1.svg",
    "situation": "Cả nhóm chat chế ảnh bạn Bin thành con khỉ. Cún Bông nên làm gì?",
    "options": [
     "Không cười theo, không chia sẻ, kể với thầy cô",
@@ -3969,7 +3969,7 @@
    "tags": [
     "tin-gia"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Bạn kể: \"Nghe nói mai trường nghỉ vì có rồng bay qua\". Tí nên làm gì?",
    "options": [
     "Gửi ngay cho cả lớp",
@@ -3989,7 +3989,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Cún Bông muốn chơi game tới nửa đêm. Lời khuyên nào đúng?",
    "options": [
     "Chơi tới sáng cho lên cấp",
@@ -4009,7 +4009,7 @@
    "tags": [
     "nguoi-la"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-1.svg",
    "situation": "Có lời mời kết bạn từ \"Công chúa Tuyết thật 100%\". Mèo Mít không quen. Nên làm gì?",
    "options": [
     "Đồng ý ngay vì là công chúa",
@@ -4069,7 +4069,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Đội \"Thánh trả bài\" của lớp 11A cãi nhau to: Luật An ninh mạng 2025 được Quốc hội khóa XV thông qua ở kỳ họp nào? Cả đội cược 1 hộp bánh tráng trộn. Bạn chọn?",
    "options": [
     "Kỳ họp thứ 10",
@@ -4089,7 +4089,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Anh Ba là kỹ sư bảo mật, đang phân vân có nên nộp hồ sơ vào lực lượng an ninh mạng. Bạn trấn an anh: Nhà nước có chính sách gì khi tuyển dụng?",
    "options": [
     "Không có chính sách gì",
@@ -4129,7 +4129,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Chị kế toán cơ quan nhà nước hỏi: \"Dự án nào thì phải bố trí tiền cho an ninh mạng hả anh?\" Anh IT cười bí ẩn rồi trả lời…",
    "options": [
     "Dự án đầu tư chuyển đổi số",
@@ -4149,7 +4149,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Bác Năm đố cả nhà trong bữa cơm: \"Ai giúp Bộ trưởng Bộ Quốc phòng quản lý nhà nước về mật mã dân sự?\" Thằng cháu nhanh nhảu trả lời…",
    "options": [
     "Tổng cục Tình báo",
@@ -4169,7 +4169,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Mèo Mít làm thuyết trình \"Bộ Công an làm gì cho không gian mạng?\" và liệt kê một loạt việc. Đâu là kết luận đúng?",
    "options": [
     "Xây dựng chiến lược bảo vệ an ninh mạng",
@@ -4189,7 +4189,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Cún Bông hỏi: \"Ai là 'đội trưởng' quản lý an ninh mạng trên cả nước vậy?\" Câu \"Chính phủ thống nhất quản lý nhà nước về an ninh mạng\" là…",
    "options": [
     "Đúng",
@@ -4209,7 +4209,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Trong phim, nhân vật tự xưng \"tôi đang đấu tranh bảo vệ an ninh mạng\" chỉ vì đi comment cãi nhau. Theo luật, \"đấu tranh bảo vệ an ninh mạng\" là hoạt động có tổ chức của ai?",
    "options": [
     "Các doanh nghiệp nước ngoài",
@@ -4249,7 +4249,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Một viện nghiên cứu khoe \"đang nghiên cứu phát triển an ninh mạng\". Ông chú hỏi: \"Nghiên cứu cái gì cơ?\" Đáp án đầy đủ nhất là?",
    "options": [
     "Giải quyết nguy cơ đe dọa an ninh mạng",
@@ -4269,7 +4269,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Server công ty của chị Hoa bị sự cố an ninh mạng lúc 2h sáng. Sếp hỏi: \"Báo cho ai bây giờ?\" Bạn trả lời?",
    "options": [
     "Báo cáo cho nhà mạng",
@@ -4309,7 +4309,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Một người lạ gọi đến nhà mạng: \"Cho tôi địa chỉ IP của thằng hàng xóm!\" Theo luật, doanh nghiệp chỉ cung cấp thông tin định danh IP khi nào?",
    "options": [
     "Khi có yêu cầu của đối thủ cạnh tranh",
@@ -4349,7 +4349,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Tí hỏi: \"Vi phạm luật an ninh mạng thì chỉ bị khóa nick thôi đúng không?\" Bạn trả lời sao?",
    "options": [
     "Chỉ bị khóa tài khoản",
@@ -4369,7 +4369,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Thầy giáo đố: Luật ANM 2025 sửa cụm \"an toàn thông tin\" thành \"an ninh mạng\" trong luật nào?",
    "options": [
     "Luật Lưu trữ",
@@ -4389,7 +4389,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Mèo Mít hỏi bố: \"Bảo vệ an ninh mạng phải tuân theo văn bản 'xịn' nhất nào?\" Bố trả lời…",
    "options": [
     "Quy định của công ty",
@@ -4409,7 +4409,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Trong phim hành động, kẻ xấu tấn công mạng để làm loạn đất nước. \"Khủng bố mạng\" nhằm mục đích gì về chính trị?",
    "options": [
     "Để được bầu cử",
@@ -4429,7 +4429,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Phòng IT của Bộ X cần cho quản trị viên hệ thống đi tập huấn chuyên sâu về an ninh mạng. Ai phối hợp tổ chức?",
    "options": [
     "Bộ Y tế",
@@ -4449,7 +4449,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Cún Bông xem ảnh văn bản luật và thắc mắc chữ ký cuối cùng là của ai. Luật An ninh mạng 2025 do ai ký?",
    "options": [
     "Chủ tịch Quốc hội",
@@ -4489,7 +4489,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Hệ thống thông tin của trường đại học phải bảo đảm điều kiện ANM theo luật mới. Thời gian chuyển tiếp là bao lâu?",
    "options": [
     "24 tháng",
@@ -4509,7 +4509,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Ông nội đọc báo hỏi: \"Luật An toàn thông tin mạng 2015 giờ còn dùng không cháu?\" Bạn trả lời…",
    "options": [
     "Chỉ có hiệu lực một nửa",
@@ -4529,7 +4529,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Cô giáo đố: \"Luật An ninh mạng 2025 có hiệu lực vào mùa nào năm 2026?\" Mèo Mít đang cầm cây kem nghĩ ngay ra đáp án…",
    "options": [
     "Mùa thu (tháng 9)",
@@ -4549,7 +4549,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Chị luật sư hỏi đồng nghiệp: Luật Giao dịch điện tử cũng được sửa vài cụm từ cho khớp với Luật ANM 2025 – đúng hay sai?",
    "options": [
     "Chỉ sửa Luật Hình sự",
@@ -4569,7 +4569,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Tí dùng máy tính cơ quan của mẹ, có tài khoản riêng, lại biết thông tin của bạn bè. Người dùng mạng có trách nhiệm bảo mật những gì?",
    "options": [
     "Thông tin đăng ký tài khoản của mình",
@@ -4649,7 +4649,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Trong game chiến thuật, Tí phải chọn \"ai bảo vệ hệ thống thông tin quân sự\". Đáp án đúng ngoài đời là?",
    "options": [
     "Bộ Công an",
@@ -4669,7 +4669,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Trong buổi họp, sếp hỏi: Ban Cơ yếu Chính phủ giúp Bộ trưởng Bộ Quốc phòng quản lý nội dung gì?",
    "options": [
     "Quản lý thiết bị viễn thông",
@@ -4709,7 +4709,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Ứng dụng giao đồ ăn bị sự cố an ninh mạng. Doanh nghiệp phải làm gì?",
    "options": [
     "Triển khai phương án ứng cứu khẩn cấp",
@@ -4729,7 +4729,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Bạn A nói: \"Luật ANM 2025 đổi từ 'an toàn thông tin mạng' thành 'an ninh mạng' trong nhiều luật khác.\" Đúng hay sai?",
    "options": [
     "Chỉ sửa trong Luật Hình sự",
@@ -4749,7 +4749,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Bà ngoại hỏi: \"Luật An toàn thông tin mạng 86/2015 hết hiệu lực bao giờ?\"",
    "options": [
     "Khi Luật ANM 2025 có hiệu lực",
@@ -4769,7 +4769,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Mèo Mít đánh dấu lịch: ngày Luật An ninh mạng 2025 bắt đầu có hiệu lực là ngày nào?",
    "options": [
     "01/07/2026",
@@ -4809,7 +4809,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Hệ thống đã được xác định cấp độ theo luật cũ có thời gian chuyển tiếp bao lâu?",
    "options": [
     "12 tháng kể từ ngày luật mới có hiệu lực",
@@ -4869,7 +4869,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Câu nói \"Chính phủ thống nhất quản lý nhà nước về an ninh mạng\" – đúng hay sai?",
    "options": [
     "Sai",
@@ -4889,7 +4889,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Mèo Mít làm poster \"Bộ Công an quản lý nhà nước về ANM những gì?\" Đáp án đầy đủ là?",
    "options": [
     "Phòng ngừa, đấu tranh chống tội phạm mạng",
@@ -4909,7 +4909,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Chị kế toán đơn vị dùng ngân sách nhà nước tính kinh phí: tối thiểu bao nhiêu % kinh phí CNTT phải dành cho an ninh mạng?",
    "options": [
     "5%",
@@ -4929,7 +4929,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Cún Bông hỏi: \"Lực lượng chuyên trách bảo vệ an ninh mạng ở đâu ạ?\"",
    "options": [
     "Bộ Công an",
@@ -4969,7 +4969,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Tí hỏi: \"Dịch vụ an ninh mạng là gì vậy anh?\" Đâu là đáp án đầy đủ?",
    "options": [
     "Tư vấn an ninh mạng",
@@ -5009,7 +5009,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Tí giữ \"kho báu dữ liệu\" của lớp. Bảo đảm an ninh dữ liệu cần biện pháp gì?",
    "options": [
     "Kỹ thuật, tổ chức và pháp lý",
@@ -5049,7 +5049,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Trong phim gián điệp, nhân vật làm nhiều việc mờ ám trên mạng. Hành vi nào là gián điệp mạng?",
    "options": [
     "Xâm nhập trái phép để chiếm đoạt bí mật nhà nước",
@@ -5069,7 +5069,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Bộ Y tế có đội bảo vệ ANM riêng. Lực lượng bảo vệ ANM tại bộ, ngành do ai trực tiếp quản lý?",
    "options": [
     "Ủy ban nhân dân cấp xã",
@@ -5129,7 +5129,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Ai ban hành Quy chuẩn kỹ thuật quốc gia về an ninh mạng?",
    "options": [
     "Bộ trưởng Bộ Công an",
@@ -5149,7 +5149,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Hai phe tài khoản ảo \"đấu khẩu\" bằng tin giả trên mạng gây hỗn loạn. Xung đột thông tin trên mạng gây tổn hại điều gì?",
    "options": [
     "Gây tổn hại đến an ninh quốc gia, trật tự an toàn xã hội",
@@ -5189,7 +5189,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia có trách nhiệm gì về kiểm tra ANM?",
    "options": [
     "Tự kiểm tra hàng năm",
@@ -5209,7 +5209,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Fanpage đăng nội dung vi phạm pháp luật, cơ quan chức năng yêu cầu gỡ. Doanh nghiệp phải gỡ chậm nhất bao lâu?",
    "options": [
     "24 giờ",
@@ -5229,7 +5229,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Tình huống khẩn cấp: tin xâm phạm an ninh quốc gia lan nhanh. Doanh nghiệp phải xóa chậm nhất trong bao lâu?",
    "options": [
     "12 giờ",
@@ -5289,7 +5289,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Chị Hoa viết bài cho fanpage công ty và phát hiện trong bài có nội dung vi phạm pháp luật. Người soạn thảo thông tin phải làm gì?",
    "options": [
     "Gỡ bỏ thông tin",
@@ -5309,7 +5309,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Có người đăng tài liệu \"MẬT\" của nhà nước lên mạng để câu like. Cơ quan nào phát hiện, xử lý?",
    "options": [
     "Bộ Y tế",
@@ -5349,7 +5349,7 @@
    "tags": [
     "người lạ"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-1.svg",
    "situation": "Bố đăng ký tài khoản cho Cún Bông bằng thông tin của bố. Bố có trách nhiệm gì?",
    "options": [
     "Giám sát nội dung trẻ em truy cập",
@@ -5369,7 +5369,7 @@
    "tags": [
     "lừa đảo"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-2.svg",
    "situation": "Nhà mạng phải ngăn phần mềm độc hại lây lan. Họ làm theo yêu cầu của ai?",
    "options": [
     "Theo yêu cầu của đối thủ",
@@ -5389,7 +5389,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Trong trò chơi \"Ai bảo vệ ai\", Tí phải nối: hệ thống thông tin quân sự bị tấn công mạng – ai chủ trì xử lý?",
    "options": [
     "Bộ Quốc phòng",
@@ -5409,7 +5409,7 @@
    "tags": [
     "báo cáo"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-1.svg",
    "situation": "Mèo Mít thấy nhóm lạ bàn kế hoạch \"đánh sập mạng\" để gây sợ hãi. Phải báo cho ai?",
    "options": [
     "Không cần báo",
@@ -5429,7 +5429,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Hacker lấy trộm dữ liệu lưu trên mạng của một shop online. Hành vi này có phải \"tấn công mạng\" không?",
    "options": [
     "Có",
@@ -5449,7 +5449,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Trên mạng xuất hiện tin kích động bạo loạn, có nguy cơ lan rộng. Tình huống này được gọi là gì?",
    "options": [
     "Tin đồn bình thường",
@@ -5549,7 +5549,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Tí xem phim về \"chiến sĩ an ninh mạng\". Lực lượng chuyên trách có quyền gì khi làm nhiệm vụ?",
    "options": [
     "Kiểm tra an ninh mạng",
@@ -5569,7 +5569,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Tí xâm nhập máy tính của bạn, làm mất bài tập lớn. Theo luật, Tí phải làm gì?",
    "options": [
     "Bị phạt tù",
@@ -5589,7 +5589,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Cô giáo hỏi: \"Mục đích cao nhất của Luật An ninh mạng là gì?\" Cún Bông giơ tay…",
    "options": [
     "Tăng doanh thu cho các nhà mạng",
@@ -5649,7 +5649,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Một tài khoản liên tục kích động chia rẽ tôn giáo, chia rẽ các tầng lớp nhân dân. Thông tin phá hoại chính sách đoàn kết bao gồm những gì?",
    "options": [
     "Kích động, gây mâu thuẫn giữa các tầng lớp nhân dân",
@@ -5669,7 +5669,7 @@
    "tags": [
     "mua sắm"
    ],
-   "image": "img/muasam.svg",
+   "image": "img/muasam-2.svg",
    "situation": "Shop A giả logo, mạo danh thương hiệu shop B để bán hàng nhái trên mạng. Bị xử lý theo luật nào?",
    "options": [
     "Không bị xử lý",
@@ -5729,7 +5729,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Admin website trường phát hiện có bài vi phạm an ninh quốc gia trên hệ thống. Chủ quản phải làm gì?",
    "options": [
     "Gỡ bỏ thông tin vi phạm",
@@ -5749,7 +5749,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Lực lượng chuyên trách bảo vệ ANM có thẩm quyền gì với thông tin xâm phạm an ninh quốc gia?",
    "options": [
     "Áp dụng biện pháp kỹ thuật để xử lý thông tin",
@@ -5769,7 +5769,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Trong phim, \"điệp viên mạng\" làm đủ trò. Gián điệp mạng gồm những hành vi nào?",
    "options": [
     "Chiếm đoạt, mua bán, cố ý làm lộ thông tin bí mật nhà nước",
@@ -5789,7 +5789,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một cán bộ soạn văn bản mật trên máy tính. Khi lưu trữ, phải làm gì?",
    "options": [
     "Phải bảo đảm an toàn, bí mật theo quy định pháp luật",
@@ -5809,7 +5809,7 @@
    "tags": [
     "người lạ"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-1.svg",
    "situation": "Ứng dụng video mà Cún Bông hay xem có trách nhiệm gì với trẻ em?",
    "options": [
     "Kiểm soát nội dung để không gây nguy hại cho trẻ em",
@@ -5829,7 +5829,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Bộ Công an có trách nhiệm gì trong phòng, chống gián điệp mạng?",
    "options": [
     "Kiểm tra ANM đối với hệ thống thông tin quan trọng về ANQG",
@@ -5849,7 +5849,7 @@
    "tags": [
     "quyền riêng tư"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-1.svg",
    "situation": "Tí hỏi: \"Chuyện riêng của con trên mạng có được giữ kín không?\" Câu \"Trẻ em có quyền giữ chuyện riêng tư\" là đúng hay sai?",
    "options": [
     "Chỉ trẻ em trên 14 tuổi",
@@ -5869,7 +5869,7 @@
    "tags": [
     "báo cáo"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-1.svg",
    "situation": "Bác bảo vệ trường thấy clip xâm hại trẻ em lan trên mạng. Ai phải thông báo cho lực lượng chuyên trách?",
    "options": [
     "Chỉ trẻ em bị hại",
@@ -5889,7 +5889,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Kế toán cơ quan nhà nước hỏi: tối thiểu bao nhiêu % kinh phí chuyển đổi số, CNTT phải dành cho an ninh mạng?",
    "options": [
     "20%",
@@ -5909,7 +5909,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Ông nội cầm cuốn luật cũ hỏi: \"Luật nào hết hiệu lực khi Luật ANM 2025 chạy?\"",
    "options": [
     "Luật An toàn thông tin mạng năm 2015",
@@ -5929,7 +5929,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Giấy phép kinh doanh dịch vụ an toàn thông tin mạng cấp năm 2024 còn dùng được tới khi nào?",
    "options": [
     "Bị thu hồi ngay",
@@ -5969,7 +5969,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Có yêu cầu gỡ thông tin vi phạm gửi tới nhà mạng (trường hợp thường). Hạn chót là bao lâu?",
    "options": [
     "48 giờ",
@@ -6029,7 +6029,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Nhà nước khuyến khích các cơ quan, tổ chức tự chủ về điều gì trong an ninh mạng?",
    "options": [
     "Sản xuất, kiểm tra, đánh giá thiết bị số và dịch vụ mạng",
@@ -6069,7 +6069,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Cún Bông hỏi: \"Chú công an mạng làm ở bộ nào?\" Lực lượng chuyên trách bảo vệ ANM ở những bộ nào?",
    "options": [
     "Bộ Y tế và Bộ Giáo dục",
@@ -6109,7 +6109,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Hệ thống giám sát ANM của một cơ quan phải kết nối về đâu?",
    "options": [
     "Trung tâm An ninh mạng quốc gia thuộc Bộ Công an hoặc Trung tâm An ninh mạng của tỉnh, thành phố",
@@ -6149,7 +6149,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Ban Cơ yếu Chính phủ giúp Bộ trưởng Bộ Quốc phòng quản lý nội dung gì về ANM?",
    "options": [
     "Quản lý về trò chơi trực tuyến",
@@ -6209,7 +6209,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Luật ANM 2025 sửa đổi, bổ sung luật nào liên quan?",
    "options": [
     "Luật Lưu trữ",
@@ -6229,7 +6229,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Anh Ba xâm phạm ANM thì bị xử lý thế nào?",
    "options": [
     "Xử phạt vi phạm hành chính",
@@ -6249,7 +6249,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Cún Bông có tài khoản học trực tuyến. Người dùng mạng có trách nhiệm gì?",
    "options": [
     "Tuân thủ quy định của pháp luật về ANM",
@@ -6269,7 +6269,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Trò chơi trí nhớ: \"Hệ thống thông tin quân sự – ai bảo vệ?\" Tí lật thẻ…",
    "options": [
     "Bộ Quốc phòng",
@@ -6289,7 +6289,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Lực lượng chuyên trách yêu cầu nhà mạng cung cấp thông tin. Đó là thông tin gì?",
    "options": [
     "Bí mật đời tư của khách hàng",
@@ -6309,7 +6309,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Nhà mạng gửi tin \"Cách phòng tránh mất an toàn khi dùng mạng\". Họ phải hướng dẫn gì?",
    "options": [
     "Cách trốn tránh cơ quan chức năng",
@@ -6369,7 +6369,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Tí đọc truyện về hacker. Tấn công mạng gồm những hoạt động nào?",
    "options": [
     "Phát tán chương trình tin học gây hại (mã độc)",
@@ -6389,7 +6389,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Chứng nhận hợp quy về an ninh mạng được thực hiện theo pháp luật về lĩnh vực nào?",
    "options": [
     "Tiêu chuẩn và quy chuẩn kỹ thuật",
@@ -6429,7 +6429,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Mèo Mít lập danh sách \"Dịch vụ an ninh mạng\". Đáp án đầy đủ?",
    "options": [
     "Tư vấn an ninh mạng",
@@ -6469,7 +6469,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Mạng nhà Tí chậm vì đứt cáp – có phải \"sự cố an ninh mạng\"? Định nghĩa đúng là?",
    "options": [
     "Sự việc bất ngờ xảy ra xâm phạm ANQG, trật tự an toàn xã hội trên không gian mạng",
@@ -6489,7 +6489,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Hội chợ công nghệ trưng bày \"Sản phẩm an ninh mạng\". Gồm loại nào?",
    "options": [
     "Sản phẩm mật mã dân sự",
@@ -6549,7 +6549,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Tí hỏi: \"Giỏi an ninh mạng thì Nhà nước có chăm lo không?\"",
    "options": [
     "Chỉ dành cho người có bằng tiến sĩ",
@@ -6589,7 +6589,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Ai xây dựng dự thảo tiêu chuẩn quốc gia về an ninh mạng?",
    "options": [
     "Bộ Công an",
@@ -6609,7 +6609,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Công ty muốn kinh doanh sản phẩm, dịch vụ ANM phải có gì?",
    "options": [
     "Nhiều nhân viên giỏi",
@@ -6649,7 +6649,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Công dân đủ đạo đức, sức khỏe, trình độ có thể được tuyển vào lực lượng ANM – đúng hay sai?",
    "options": [
     "Chỉ tuyển người nước ngoài",
@@ -6669,7 +6669,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Mèo Mít hỏi chị: \"Ở trường, học về an ninh mạng trong môn nào?\" Chị trả lời…",
    "options": [
     "Môn Vẽ",
@@ -6689,7 +6689,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Lực lượng bảo vệ ANM của các bộ, ngành cần bồi dưỡng nghiệp vụ. Cơ quan nào chủ trì?",
    "options": [
     "Bộ Công an",
@@ -6709,7 +6709,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một app nước ngoài có nhiều người dùng Việt Nam. Dữ liệu cá nhân người dùng phải lưu ở đâu?",
    "options": [
     "Không cần lưu trữ",
@@ -6749,7 +6749,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Tí thấy người bán \"tool tấn công mạng\" trên nhóm chat. Sản xuất, mua bán công cụ tấn công mạng là gì?",
    "options": [
     "Hành vi được khuyến khích",
@@ -6769,7 +6769,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Tấn công mạng xâm phạm an ninh quốc gia xảy ra. Lực lượng chuyên trách được làm gì?",
    "options": [
     "Yêu cầu doanh nghiệp cung cấp thông tin, tài liệu liên quan",
@@ -6789,7 +6789,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Tình huống nguy hiểm về ANM xảy ra. Biện pháp xử lý có thể gồm những gì?",
    "options": [
     "Ngừng cung cấp thông tin mạng tại khu vực cụ thể",
@@ -6889,7 +6889,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Bà nội và Cún Bông cùng đi học lớp \"Lướt mạng an toàn\". Nhà nước ưu tiên phổ biến kiến thức ANM cho ai?",
    "options": [
     "Các hacker chuyên nghiệp",
@@ -6909,7 +6909,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Ai bắt buộc phải tập huấn kiến thức, kỹ năng chuyên sâu về ANM?",
    "options": [
     "Học sinh tiểu học",
@@ -6929,7 +6929,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Ai chủ trì bồi dưỡng nghiệp vụ ANM cho cán bộ, công chức, viên chức?",
    "options": [
     "Bộ Lao động - Thương binh và Xã hội",
@@ -6949,7 +6949,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Tí đố em: \"Học an ninh mạng ở môn nào?\" Không phải Văn, không phải Hóa…",
    "options": [
     "Môn Hóa học",
@@ -6989,7 +6989,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Nhà nước khuyến khích ai nâng cao năng lực tự chủ về ANM?",
    "options": [
     "Chỉ cơ quan nhà nước",
@@ -7009,7 +7009,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Biện pháp bảo vệ an ninh mạng gồm những gì?",
    "options": [
     "Thẩm định, đánh giá điều kiện ANM",
@@ -7029,7 +7029,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Một nguyên tắc bảo vệ an ninh mạng là đặt dưới sự lãnh đạo của tổ chức nào?",
    "options": [
     "Đoàn Thanh niên",
@@ -7049,7 +7049,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Nhà nước ưu tiên bảo vệ an ninh mạng trong những lĩnh vực nào?",
    "options": [
     "Thương mại điện tử giá rẻ",
@@ -7089,7 +7089,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Trong phim, nhóm xấu tấn công mạng để mọi người hoảng sợ. \"Khủng bố mạng\" nhằm mục đích gì?",
    "options": [
     "Gây hoang mang trong công chúng hoặc làm mất ổn định chính trị",
@@ -7129,7 +7129,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Gián điệp mạng xâm phạm bí mật nhà nước gồm những hành vi nào?",
    "options": [
     "Chiếm đoạt, mua bán bí mật nhà nước trên mạng",
@@ -7149,7 +7149,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Doanh nghiệp nhận yêu cầu xóa thông tin vi phạm (trường hợp bình thường). Phải xóa trong bao lâu?",
    "options": [
     "48 giờ",
@@ -7189,7 +7189,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Tấn công mạng xâm phạm an ninh quốc gia xảy ra. Ai chủ trì xử lý?",
    "options": [
     "Lực lượng chuyên trách bảo vệ ANM",
@@ -7209,7 +7209,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Cơ quan nào chủ trì hợp tác quốc tế về an ninh mạng?",
    "options": [
     "Bộ Thông tin và Truyền thông",
@@ -7269,7 +7269,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Phòng ngừa thông tin xâm phạm an ninh quốc gia là trách nhiệm của ai?",
    "options": [
     "Chỉ của Bộ Công an",
@@ -7289,7 +7289,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Hệ thống thông tin được phân loại thành mấy cấp độ?",
    "options": [
     "3 cấp độ",
@@ -7309,7 +7309,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Hệ thống thông tin cấp độ 5 bị sự cố sẽ gây tổn hại đến mức nào?",
    "options": [
     "Tổn hại đến lợi ích cá nhân",
@@ -7329,7 +7329,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Ai quyết định danh mục hệ thống thông tin quan trọng về an ninh quốc gia?",
    "options": [
     "Bộ trưởng Bộ Quốc phòng",
@@ -7349,7 +7349,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Lĩnh vực nào có hệ thống thông tin quan trọng về an ninh quốc gia?",
    "options": [
     "Quân sự, an ninh, ngoại giao",
@@ -7369,7 +7369,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Hệ thống thông tin quan trọng về ANQG phải kiểm tra an ninh mạng khi nào?",
    "options": [
     "Trước khi đưa vào vận hành và định kỳ hàng năm",
@@ -7389,7 +7389,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Bộ Công an kiểm tra an ninh mạng đột xuất hệ thống của một cơ quan khi nào?",
    "options": [
     "Có hành vi xâm phạm ANQG",
@@ -7409,7 +7409,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Những nội dung kích động bạo loạn, phá rối an ninh trên mạng gồm gì?",
    "options": [
     "Tuyên truyền xuyên tạc, phỉ báng chính quyền",
@@ -7429,7 +7429,7 @@
    "tags": [
     "lừa đảo"
    ],
-   "image": "img/linkla.svg",
+   "image": "img/linkla-2.svg",
    "situation": "Phần mềm độc hại đe dọa an ninh quốc gia. Ai chủ trì phòng chống?",
    "options": [
     "Bộ Y tế",
@@ -7449,7 +7449,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Nhà nước làm gì để bà ngoại và Tí biết dùng mạng an toàn?",
    "options": [
     "Thu học phí cao",
@@ -7469,7 +7469,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Bảo vệ ANM trong cơ quan nhà nước gồm những nội dung nào?",
    "options": [
     "Xây dựng quy chế sử dụng mạng máy tính nội bộ",
@@ -7489,7 +7489,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Bảo vệ hạ tầng không gian mạng quốc gia phải gắn với điều gì?",
    "options": [
     "Chỉ bảo vệ các trang web cá nhân",
@@ -7509,7 +7509,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Website cơ quan nhà nước không được đăng thông tin nào?",
    "options": [
     "Thông tin lịch làm việc",
@@ -7529,7 +7529,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Nhà mạng nhận yêu cầu xóa thông tin vi phạm (trường hợp thường). Hạn bao lâu?",
    "options": [
     "48 giờ",
@@ -7549,7 +7549,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Ai chịu trách nhiệm triển khai bảo vệ ANM trong cơ quan, tổ chức?",
    "options": [
     "Nhân viên IT",
@@ -7589,7 +7589,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Đấu tranh bảo vệ an ninh mạng là hoạt động của ai?",
    "options": [
     "Lực lượng chuyên trách bảo vệ ANM",
@@ -7609,7 +7609,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "\"Tình huống nguy hiểm về an ninh mạng\" gồm những trường hợp nào?",
    "options": [
     "Tấn công vào hệ thống thông tin quan trọng về ANQG quy mô lớn",
@@ -7629,7 +7629,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Cơ quan nhà nước phải xây dựng phương án bảo đảm ANM cho hệ thống của mình – đúng hay sai?",
    "options": [
     "Sai",
@@ -7649,7 +7649,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-1.svg",
    "situation": "Website cơ quan nhà nước không được đăng nội dung gì?",
    "options": [
     "Thủ tục hành chính",
@@ -7669,7 +7669,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Doanh nghiệp dịch vụ mạng tại Việt Nam lưu dữ liệu cá nhân người dùng ở đâu?",
    "options": [
     "Chỉ lưu tại nước ngoài",
@@ -7709,7 +7709,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Chứng nhận hợp quy về ANM thực hiện theo quy định nào?",
    "options": [
     "Theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật",
@@ -7729,7 +7729,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Dịch vụ an ninh mạng gồm những gì?",
    "options": [
     "Kiểm tra, đánh giá ANM",
@@ -7749,7 +7749,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Ai có thẩm quyền quyết định xử lý tình huống nguy hiểm về ANM trên cả nước?",
    "options": [
     "Chủ tịch xã",
@@ -7769,7 +7769,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Đâu là tấn công mạng?",
    "options": [
     "Phát tán chương trình tin học gây hại",
@@ -7789,7 +7789,7 @@
    "tags": [
     "người lạ"
    ],
-   "image": "img/nguoila.svg",
+   "image": "img/nguoila-2.svg",
    "situation": "Bố mẹ của Tí cần làm gì khi Tí dùng mạng?",
    "options": [
     "Cấm tuyệt đối trẻ dùng internet",
@@ -7829,7 +7829,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Luật Bảo vệ dữ liệu cá nhân 2025 quy định về những gì?",
    "options": [
     "Dữ liệu cá nhân, bảo vệ dữ liệu cá nhân",
@@ -7849,7 +7849,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Luật An ninh mạng 2025 quy định về những gì?",
    "options": [
     "An ninh mạng, bảo vệ an ninh mạng",
@@ -7869,7 +7869,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-2.svg",
    "situation": "Website của trường do thầy Hiệu trưởng quản lý trực tiếp. Ai là \"chủ quản hệ thống thông tin\"?",
    "options": [
     "Người sử dụng hệ thống",
@@ -7889,7 +7889,7 @@
    "tags": [
     "tấn công mạng"
    ],
-   "image": "img/hack.svg",
+   "image": "img/hack-1.svg",
    "situation": "Kẻ xấu tấn công mạng nhằm mục đích gì?",
    "options": [
     "Kiểm tra tính bảo mật của người dùng",
@@ -7929,7 +7929,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Không gian mạng quốc gia thuộc quyền quản lý của ai?",
    "options": [
     "Các tập đoàn viễn thông",
@@ -7989,7 +7989,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Luật An ninh mạng áp dụng cho ai?",
    "options": [
     "Cơ quan, tổ chức Việt Nam",
@@ -8009,7 +8009,7 @@
    "tags": [
     "tin giả"
    ],
-   "image": "img/tingia.svg",
+   "image": "img/tingia-2.svg",
    "situation": "Lập hội nhóm trên mạng để xúi giục người khác chống chính quyền vi phạm nhóm điều cấm nào?",
    "options": [
     "Điều cấm về thực hiện hành vi",
@@ -8029,7 +8029,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Dữ liệu cá nhân được lưu trữ trong bao lâu?",
    "options": [
     "50 năm",
@@ -8069,7 +8069,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Câu lạc bộ muốn đăng danh sách thành viên kèm số điện thoại lên fanpage. Công khai dữ liệu cá nhân phải bảo đảm điều gì?",
    "options": [
     "Chỉ công khai trên báo giấy",
@@ -8089,7 +8089,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Tí phát hiện app học tập ghi sai ngày sinh của mình. Tí có được tự sửa không?",
    "options": [
     "Chỉ khi có lệnh của tòa án",
@@ -8129,7 +8129,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bảo vệ dữ liệu cá nhân phải gắn liền với lợi ích nào?",
    "options": [
     "Lợi ích quốc gia, dân tộc và phát triển kinh tế - xã hội",
@@ -8149,7 +8149,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Mèo Mít hỏi: \"Dữ liệu của con thì con có quyền gì?\" Bạn trả lời…",
    "options": [
     "Được biết về hoạt động xử lý",
@@ -8169,7 +8169,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Dữ liệu của chị Hoa bị lộ gây thiệt hại. Chị có quyền đòi bồi thường không?",
    "options": [
     "Có quyền yêu cầu bồi thường theo quy định pháp luật",
@@ -8189,7 +8189,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Cún Bông có nghĩa vụ gì với dữ liệu cá nhân?",
    "options": [
     "Tự bảo vệ dữ liệu của mình",
@@ -8209,7 +8209,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bạn A giận app nên cố tình gây khó khăn cho việc thực hiện quyền hợp pháp của bên kiểm soát dữ liệu. Có được không?",
    "options": [
     "Có",
@@ -8269,7 +8269,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một công ty xử lý dữ liệu cá nhân trái luật nghiêm trọng. Có thể bị xử lý hình sự không?",
    "options": [
     "Chỉ bị khóa tài khoản",
@@ -8289,7 +8289,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Một người bán dữ liệu cá nhân thu lời lớn. Mức phạt tiền tối đa với hành vi mua bán dữ liệu là bao nhiêu?",
    "options": [
     "10 lần khoản thu có được (hoặc theo quy định khoản 5)",
@@ -8389,7 +8389,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "\"Khử nhận dạng dữ liệu cá nhân\" là gì?",
    "options": [
     "Là việc khóa tài khoản người dùng",
@@ -8429,7 +8429,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Mèo Mít hỏi: \"Dữ liệu về con thì con là gì của nó?\" \"Chủ thể dữ liệu cá nhân\" là ai?",
    "options": [
     "Người mua bán dữ liệu",
@@ -8449,7 +8449,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Dữ liệu nào không còn là dữ liệu cá nhân?",
    "options": [
     "Dữ liệu lưu trong USB",
@@ -8529,7 +8529,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Cá nhân vi phạm bảo vệ dữ liệu bị phạt tối đa bằng bao nhiêu so với tổ chức?",
    "options": [
     "Gấp đôi mức tổ chức",
@@ -8589,7 +8589,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Trường hợp nào là chuyển dữ liệu cá nhân xuyên biên giới?",
    "options": [
     "Chuyển đến hệ thống lưu trữ ngoài lãnh thổ Việt Nam",
@@ -8609,7 +8609,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Khi nào xử lý dữ liệu cá nhân không cần sự đồng ý?",
    "options": [
     "Để bảo vệ tính mạng, sức khỏe trong tình trạng cấp bách",
@@ -8669,7 +8669,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Phòng nhân sự chuyển dữ liệu cho phòng kế toán trong cùng công ty. Có cần xin đồng ý lại không?",
    "options": [
     "Không được phép",
@@ -8689,7 +8689,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Công khai dữ liệu cá nhân có thể bằng hình thức nào?",
    "options": [
     "Đăng tải trên trang thông tin điện tử",
@@ -8709,7 +8709,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới gửi cho ai?",
    "options": [
     "Ngân hàng Nhà nước",
@@ -8729,7 +8729,7 @@
    "tags": [
     "cookie"
    ],
-   "image": "img/cookie.svg",
+   "image": "img/cookie-1.svg",
    "situation": "Trang web bán giày theo dõi bạn để hiện quảng cáo riêng. Cần điều kiện gì?",
    "options": [
     "Chỉ cần cài đặt cookies",
@@ -8789,7 +8789,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-2.svg",
    "situation": "Ngân hàng phát hiện thông tin tài khoản của bác Năm bị lộ. Ngân hàng phải làm gì?",
    "options": [
     "Không cần thông báo",
@@ -8809,7 +8809,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Ngân hàng muốn dùng thông tin tín dụng để chấm điểm khách. Khi nào thì không được?",
    "options": [
     "Khi chưa có sự đồng ý của chủ thể dữ liệu",
@@ -8829,7 +8829,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Dịch vụ quảng cáo được dùng dữ liệu cá nhân từ nguồn nào?",
    "options": [
     "Từ các mạng xã hội trái phép",
@@ -8869,7 +8869,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Ai không phải lập hồ sơ đánh giá tác động xử lý dữ liệu cá nhân?",
    "options": [
     "Mọi doanh nghiệp",
@@ -8929,7 +8929,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Hành vi nào bị cấm với dữ liệu đã bị xóa?",
    "options": [
     "Lưu trữ bản sao",
@@ -8969,7 +8969,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Dữ liệu cá nhân là bí mật nhà nước được mã hóa theo quy định nào?",
    "options": [
     "Không cần mã hóa",
@@ -9009,7 +9009,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Ai được phân tích, tổng hợp dữ liệu cá nhân phục vụ lãnh đạo, chỉ đạo?",
    "options": [
     "Mọi doanh nghiệp",
@@ -9049,7 +9049,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Tí đã cho một ứng dụng dùng ảnh của mình, giờ Tí không muốn nữa. Tí có được đổi ý không?",
    "options": [
     "Có quyền yêu cầu rút lại sự đồng ý",
@@ -9069,7 +9069,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "App hỏi xin dữ liệu, Cún Bông im lặng không trả lời. Như vậy có coi là đồng ý không?",
    "options": [
     "Có",
@@ -9089,7 +9089,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Sự đồng ý của chủ thể dữ liệu có hiệu lực khi nào?",
    "options": [
     "Khi có sự đồng ý của hàng xóm",
@@ -9109,7 +9109,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Phát hiện vi phạm bảo vệ dữ liệu gây tổn hại an ninh quốc gia. Phải thông báo cơ quan chức năng trong bao lâu?",
    "options": [
     "12 giờ",
@@ -9149,7 +9149,7 @@
    "tags": [
     "báo cáo"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Bà ngoại muốn phản ánh việc bị lộ số điện thoại. Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân dùng để làm gì?",
    "options": [
     "Để xem phim",
@@ -9169,7 +9169,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Mèo Mít khoanh lịch Tết dương: Luật Bảo vệ dữ liệu cá nhân có hiệu lực từ ngày nào?",
    "options": [
     "26/6/2025",
@@ -9189,7 +9189,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Ai thống nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân?",
    "options": [
     "Quốc hội",
@@ -9209,7 +9209,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bộ Công an là đầu mối quản lý nhà nước về bảo vệ dữ liệu cá nhân – đúng hay sai?",
    "options": [
     "Sai",
@@ -9229,7 +9229,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "UBND cấp tỉnh quản lý nhà nước về bảo vệ dữ liệu cá nhân ở phạm vi nào?",
    "options": [
     "Tại địa phương theo chức năng, nhiệm vụ",
@@ -9249,7 +9249,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Bên kiểm soát dữ liệu gây thiệt hại cho khách hàng. Họ có trách nhiệm gì?",
    "options": [
     "Chỉ cần xin lỗi",
@@ -9269,7 +9269,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Bên xử lý dữ liệu chỉ được nhận dữ liệu sau khi có gì với bên kiểm soát?",
    "options": [
     "Thỏa thuận miệng",
@@ -9289,7 +9289,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Doanh nghiệp siêu nhỏ được miễn lập hồ sơ đánh giá tác động trong bao lâu?",
    "options": [
     "5 năm (trừ trường hợp kinh doanh dịch vụ xử lý dữ liệu đặc thù)",
@@ -9329,7 +9329,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Có tranh chấp \"khách đã đồng ý hay chưa\". Ai phải chứng minh sự đồng ý?",
    "options": [
     "Nhà mạng",
@@ -9369,7 +9369,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "\"Dữ liệu lớn\" (Big Data) có đặc điểm gì?",
    "options": [
     "Chỉ xử lý dữ liệu của 1 người",
@@ -9409,7 +9409,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Chuyển dữ liệu nhạy cảm giữa các tổ chức cần biện pháp bảo mật nào?",
    "options": [
     "Bảo mật vật lý thiết bị lưu trữ",
@@ -9429,7 +9429,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Tổng đài gọi xin đồng ý xử lý dữ liệu qua cuộc gọi có ghi âm. Có hợp lệ không?",
    "options": [
     "Có, nếu bảo đảm khả năng kiểm chứng được",
@@ -9449,7 +9449,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Nhận yêu cầu xóa dữ liệu cá nhân, bên kiểm soát phải thực hiện trong bao nhiêu ngày?",
    "options": [
     "20 ngày",
@@ -9489,7 +9489,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Nhận yêu cầu rút lại sự đồng ý hợp lệ, bên kiểm soát phải phản hồi trong bao lâu?",
    "options": [
     "02 ngày làm việc",
@@ -9549,7 +9549,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Bệnh viện xử lý dữ liệu sức khỏe của bệnh nhân. Khi nào không cần sự đồng ý?",
    "options": [
     "Khi bệnh viện muốn nghiên cứu",
@@ -9569,7 +9569,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Công ty lắp phần mềm theo dõi máy tính nhân viên. Phải bảo đảm điều gì?",
    "options": [
     "Chỉ cần sếp biết",
@@ -9609,7 +9609,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Chị Tư nộp CV xin việc. Thông tin trong CV được dùng vào mục đích gì?",
    "options": [
     "Để thống kê dân số",
@@ -9649,7 +9649,7 @@
    "tags": [
     "quyền riêng tư"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-1.svg",
    "situation": "Một kênh YouTube muốn kể chuyện đời tư của bạn Na 8 tuổi. Cần sự đồng ý của ai?",
    "options": [
     "Chỉ cần người đại diện đồng ý",
@@ -9709,7 +9709,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Tiêu chuẩn về bảo vệ dữ liệu cá nhân được ban hành theo luật nào?",
    "options": [
     "Luật Đất đai",
@@ -9729,7 +9729,7 @@
    "tags": [
     "camera"
    ],
-   "image": "img/webcam.svg",
+   "image": "img/webcam-1.svg",
    "situation": "Siêu thị lắp camera nơi công cộng. Họ phải làm gì (trừ khi luật định khác)?",
    "options": [
     "Giữ bí mật việc mình đang quay phim",
@@ -9749,7 +9749,7 @@
    "tags": [
     "camera"
    ],
-   "image": "img/webcam.svg",
+   "image": "img/webcam-1.svg",
    "situation": "Khi nào được ghi hình nơi công cộng mà không cần đồng ý?",
    "options": [
     "Để thực hiện nhiệm vụ quốc phòng, an ninh, trật tự xã hội",
@@ -9769,7 +9769,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Dữ liệu vân tay của khách bị xử lý gây thiệt hại. Tổ chức phải làm gì?",
    "options": [
     "Xóa dấu vết thiệt hại",
@@ -9789,7 +9789,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Điện thoại của Cún Bông biết Cún đang ở đâu. \"Dữ liệu vị trí cá nhân\" xác định qua công nghệ nào?",
    "options": [
     "Công nghệ lọc nước",
@@ -9809,7 +9809,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "App mạng xã hội đòi ảnh căn cước để xác thực tài khoản. Theo luật?",
    "options": [
     "Số điện thoại",
@@ -9829,7 +9829,7 @@
    "tags": [
     "AI-deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-1.svg",
    "situation": "Xử lý dữ liệu với AI, blockchain phải tuân thủ nguyên tắc gì?",
    "options": [
     "Xử lý để gây hại cho đối thủ",
@@ -9869,7 +9869,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Số định danh cá nhân, số hộ chiếu thuộc loại dữ liệu nào?",
    "options": [
     "Dữ liệu nhạy cảm",
@@ -9889,7 +9889,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Lực lượng bảo vệ dữ liệu cá nhân gồm những ai?",
    "options": [
     "Cơ quan chuyên trách Bộ Công an",
@@ -9949,7 +9949,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Báo cáo đánh giá tác động chuyển dữ liệu xuyên biên giới phải mô tả gì?",
    "options": [
     "Mục đích chuyển và loại dữ liệu chuyển",
@@ -9969,7 +9969,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới gồm tài liệu nào?",
    "options": [
     "Báo cáo đánh giá theo Mẫu số 09",
@@ -9989,7 +9989,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Ai có thẩm quyền yêu cầu ngừng chuyển dữ liệu ra nước ngoài khi có dấu hiệu xâm phạm an ninh quốc gia?",
    "options": [
     "Bộ Tài chính",
@@ -10009,7 +10009,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Hồ sơ năng lực của tổ chức dịch vụ bảo vệ dữ liệu phải thể hiện gì?",
    "options": [
     "Ngành nghề kinh doanh và kinh nghiệm",
@@ -10089,7 +10089,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Cơ quan chức năng yêu cầu hoàn thiện hồ sơ đánh giá tác động. Có bao lâu?",
    "options": [
     "60 ngày",
@@ -10109,7 +10109,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân (nội bộ) nộp theo mẫu nào?",
    "options": [
     "Mẫu số 10",
@@ -10129,7 +10129,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Nhân sự bảo vệ dữ liệu được chỉ định phải có trình độ tối thiểu là gì?",
    "options": [
     "Đại học trở lên",
@@ -10149,7 +10149,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Chỉ định nhân sự bảo vệ dữ liệu trong tổ chức phải bằng hình thức nào?",
    "options": [
     "Văn bản chính thức của cơ quan, tổ chức",
@@ -10189,7 +10189,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "\"Quan điểm chính trị, tôn giáo\" là dữ liệu nhạy cảm – đúng hay sai?",
    "options": [
     "Tùy vào người cung cấp",
@@ -10209,7 +10209,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bộ phận bảo vệ dữ liệu cá nhân trong công ty có nhiệm vụ gì?",
    "options": [
     "Xây dựng chính sách, quy trình tuân thủ",
@@ -10249,7 +10249,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Nhân sự bảo vệ dữ liệu cần ít nhất bao nhiêu năm kinh nghiệm?",
    "options": [
     "02 năm",
@@ -10269,7 +10269,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Trường hợp nào không phải đánh giá tác động chuyển dữ liệu xuyên biên giới?",
    "options": [
     "Hoạt động báo chí, truyền thông theo luật",
@@ -10289,7 +10289,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Nghị định 13/2023 về bảo vệ dữ liệu cá nhân hết hiệu lực từ khi nào?",
    "options": [
     "Khi có Luật mới",
@@ -10309,7 +10309,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Doanh nghiệp siêu nhỏ xử lý dữ liệu của bao nhiêu người trở lên thì phải lập hồ sơ đánh giá tác động?",
    "options": [
     "100.000 trở lên (tích lũy tổng lượng dữ liệu đã xử lý)",
@@ -10329,7 +10329,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước lấy từ đâu?",
    "options": [
     "Do các công ty tài trợ",
@@ -10349,7 +10349,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Giấy chứng nhận bị mất, hỏng – cấp lại trong bao lâu?",
    "options": [
     "03 ngày",
@@ -10389,7 +10389,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Tổ chức không kinh doanh dịch vụ bao lâu thì bị thu hồi Giấy chứng nhận?",
    "options": [
     "24 tháng",
@@ -10409,7 +10409,7 @@
    "tags": [
     "báo cáo"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân có chức năng gì?",
    "options": [
     "Tuyên truyền chính sách pháp luật",
@@ -10429,7 +10429,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Khai thác dữ liệu cá nhân thí điểm cơ chế đặc biệt nhằm phát triển lĩnh vực nào?",
    "options": [
     "Thời trang, may mặc",
@@ -10469,7 +10469,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Hồ sơ đánh giá tác động làm mấy lần cho suốt thời gian hoạt động?",
    "options": [
     "Mỗi khi có dữ liệu mới",
@@ -10489,7 +10489,7 @@
    "tags": [
     "quyền riêng tư"
    ],
-   "image": "img/anhrieng.svg",
+   "image": "img/anhrieng-2.svg",
    "situation": "Mẹ muốn đăng chuyện riêng của Tí (8 tuổi) lên báo. Cần những ai đồng ý?",
    "options": [
     "Chỉ cần sự đồng ý của trẻ em",
@@ -10609,7 +10609,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Người phụ trách chuyên môn của tổ chức kinh doanh dịch vụ xử lý dữ liệu phải là ai?",
    "options": [
     "Bất kỳ ai có bằng cấp",
@@ -10649,7 +10649,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Tổ chức giải thể, phá sản – phải cập nhật thay đổi hồ sơ trong bao lâu?",
    "options": [
     "15 ngày",
@@ -10669,7 +10669,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Phát sinh mục đích xử lý mới – hồ sơ đánh giá tác động cập nhật định kỳ bao lâu?",
    "options": [
     "12 tháng",
@@ -10689,7 +10689,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu được cấp dưới dạng nào?",
    "options": [
     "Văn bản thông báo",
@@ -10709,7 +10709,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Thời gian phản hồi tối đa cho chủ thể dữ liệu sau khi nhận yêu cầu thực hiện quyền?",
    "options": [
     "02 ngày làm việc",
@@ -10809,7 +10809,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Dịch vụ quảng cáo có được thuê bên khác làm thay toàn bộ không?",
    "options": [
     "Chỉ khi thuê công ty trong nước",
@@ -10829,7 +10829,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Ngân hàng phải báo cho khách khi xảy ra chuyện gì với dữ liệu?",
    "options": [
     "Khi thay đổi lãi suất",
@@ -10849,7 +10849,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Nhận yêu cầu xóa dữ liệu, bên kiểm soát làm trong bao nhiêu ngày?",
    "options": [
     "20 ngày",
@@ -10869,7 +10869,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Luật Bảo vệ dữ liệu cá nhân 2025 do Quốc hội khóa mấy thông qua? (Gợi ý: nhìn số hiệu 91/2025/QH15)",
    "options": [
     "Khóa XIV",
@@ -10909,7 +10909,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Yêu cầu của chủ thể dữ liệu quá phức tạp. Được gia hạn tối đa bao lâu?",
    "options": [
     "30 ngày",
@@ -10929,7 +10929,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Công ty bảo hiểm xin bệnh viện hồ sơ sức khỏe của bác Tư. Bệnh viện chỉ được cung cấp khi nào?",
    "options": [
     "Có sự yêu cầu của công ty bảo hiểm",
@@ -10949,7 +10949,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Nghị định 356/2025/NĐ-CP hướng dẫn Luật BVDLCN có hiệu lực từ ngày nào?",
    "options": [
     "01/7/2026",
@@ -10969,7 +10969,7 @@
    "tags": [
     "camera"
    ],
-   "image": "img/webcam.svg",
+   "image": "img/webcam-1.svg",
    "situation": "Camera ở công viên ghi hình mọi người. Dữ liệu được lưu bao lâu?",
    "options": [
     "10 năm",
@@ -11009,7 +11009,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Dữ liệu vân tay khách hàng bị lộ. Phải báo cho chủ thể trong bao lâu?",
    "options": [
     "48 giờ",
@@ -11029,7 +11029,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Hồ sơ vi phạm dữ liệu vị trí, sinh trắc phải lưu tối thiểu bao lâu?",
    "options": [
     "01 năm",
@@ -11049,7 +11049,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Kiểm tra thường xuyên – cơ quan chuyên trách báo trước bao nhiêu ngày?",
    "options": [
     "07 ngày",
@@ -11069,7 +11069,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Khi nào cơ quan chuyên trách được kiểm tra ngay không cần báo trước?",
    "options": [
     "Khi doanh nghiệp yêu cầu",
@@ -11089,7 +11089,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Nhân sự bảo vệ dữ liệu nội bộ cần ít nhất bao nhiêu năm kinh nghiệm?",
    "options": [
     "02 năm",
@@ -11129,7 +11129,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-2.svg",
    "situation": "Trong metaverse, avatar của Bin lưu đầy lịch sử hành vi. Bin có quyền gì với hồ sơ nhận dạng của mình?",
    "options": [
     "Chỉ được xem hồ sơ",
@@ -11149,7 +11149,7 @@
    "tags": [
     "game"
    ],
-   "image": "img/game.svg",
+   "image": "img/game-1.svg",
    "situation": "Metaverse (vũ trụ ảo) là gì?",
    "options": [
     "Một hệ thống lưu trữ đám mây",
@@ -11189,7 +11189,7 @@
    "tags": [
     "camera"
    ],
-   "image": "img/webcam.svg",
+   "image": "img/webcam-1.svg",
    "situation": "Dữ liệu từ camera nơi công cộng được lưu trữ bao lâu?",
    "options": [
     "Khoảng thời gian cần thiết để phục vụ mục đích thu thập",
@@ -11269,7 +11269,7 @@
    "tags": [
     "mật khẩu"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-1.svg",
    "situation": "Dữ liệu cá nhân đã mã hóa thành chuỗi loằng ngoằng – còn là dữ liệu cá nhân không?",
    "options": [
     "Trở thành dữ liệu công cộng",
@@ -11329,7 +11329,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Mai muốn rút lại sự đồng ý cho app dùng dữ liệu. Phải làm bằng hình thức nào?",
    "options": [
     "Văn bản (bao gồm cả dạng điện tử hoặc định dạng kiểm chứng được)",
@@ -11369,7 +11369,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Sự đồng ý của bạn cho app dùng dữ liệu có hiệu lực đến khi nào?",
    "options": [
     "Sau 5 năm",
@@ -11429,7 +11429,7 @@
    "tags": [
     "tài khoản"
    ],
-   "image": "img/taikhoan.svg",
+   "image": "img/taikhoan-1.svg",
    "situation": "Tổ chức kinh doanh dịch vụ xử lý dữ liệu xác thực danh tính theo luật nào?",
    "options": [
     "Luật Đất đai",
@@ -11509,7 +11509,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Bảo vệ dữ liệu cá nhân phải tuân thủ văn bản nào cao nhất?",
    "options": [
     "Quy chế công ty",
@@ -11569,7 +11569,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Hồ sơ vi phạm dữ liệu vị trí, sinh trắc phải lưu tối thiểu bao lâu?",
    "options": [
     "02 năm",
@@ -11589,7 +11589,7 @@
    "tags": [
     "báo cáo"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-1.svg",
    "situation": "Phát hiện vi phạm gây tổn hại an ninh quốc gia – báo Bộ Công an trong bao lâu?",
    "options": [
     "24 giờ",
@@ -11609,7 +11609,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Tổ chức vi phạm chuyển dữ liệu xuyên biên giới bị phạt tối đa bao nhiêu?",
    "options": [
     "5% doanh thu của năm trước liền kề",
@@ -11669,7 +11669,7 @@
    "tags": [
     "báo cáo"
    ],
-   "image": "img/baocao.svg",
+   "image": "img/baocao-2.svg",
    "situation": "Mẫu số 08 tại Nghị định 356/2025 dùng để làm gì?",
    "options": [
     "Báo cáo đánh giá tác động",
@@ -11709,7 +11709,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Nhà cung cấp điện toán đám mây phải yêu cầu nhà thầu phụ làm gì?",
    "options": [
     "Chia sẻ toàn bộ dữ liệu",
@@ -11729,7 +11729,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bảo vệ dữ liệu vân tay, khuôn mặt bắt buộc phải có biện pháp nào?",
    "options": [
     "Không cần bảo mật vật lý",
@@ -11749,7 +11749,7 @@
    "tags": [
     "AI-deepfake"
    ],
-   "image": "img/deepfake.svg",
+   "image": "img/deepfake-2.svg",
    "situation": "Xử lý dữ liệu bằng AI phân loại theo tiêu chí nào?",
    "options": [
     "Tốc độ xử lý",
@@ -11769,7 +11769,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Cơ quan nào cùng Bộ Công an xây dựng quy chuẩn khử nhận dạng dữ liệu?",
    "options": [
     "Bộ Khoa học và Công nghệ",
@@ -11829,7 +11829,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Bộ Quốc phòng quản lý nhà nước về bảo vệ dữ liệu cá nhân trong phạm vi nào?",
    "options": [
     "Phạm vi thuộc Bộ Quốc phòng quản lý",
@@ -11849,7 +11849,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-2.svg",
    "situation": "Hồ sơ đã nộp theo Nghị định 13/2023 trước khi Luật mới có hiệu lực thì sao?",
    "options": [
     "Bị hủy bỏ",
@@ -11889,7 +11889,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Ai cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu?",
    "options": [
     "Chính phủ",
@@ -11909,7 +11909,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-2.svg",
    "situation": "Xử lý dữ liệu lớn (Big Data) có đặc điểm nào?",
    "options": [
     "Quy mô lớn, tính liên tục",
@@ -11929,7 +11929,7 @@
    "tags": [
     "dữ liệu cá nhân"
    ],
-   "image": "img/dulieu.svg",
+   "image": "img/dulieu-1.svg",
    "situation": "Bị thu hồi Giấy chứng nhận – nộp lại trong bao nhiêu ngày làm việc?",
    "options": [
     "03 ngày",
@@ -11949,7 +11949,7 @@
    "tags": [
     "pháp luật"
    ],
-   "image": "img/luat.svg",
+   "image": "img/luat-1.svg",
    "situation": "Một trách nhiệm của UBND cấp tỉnh về bảo vệ dữ liệu cá nhân là gì?",
    "options": [
     "Cấp hộ chiếu",
@@ -11969,7 +11969,7 @@
    "tags": [
     "mật khẩu"
    ],
-   "image": "img/matkhau.svg",
+   "image": "img/matkhau-2.svg",
    "situation": "Xác thực mạnh khi xử lý dữ liệu lớn yêu cầu tối thiểu gì?",
    "options": [
     "Chỉ cần vân tay",

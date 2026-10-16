@@ -44,13 +44,24 @@ input:focus{outline:none;border-color:var(--navy2)}
 table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left}
 .foot{color:#c7d2fe;font-size:12px;text-align:center;margin-top:18px;line-height:1.6}.foot a{color:#fde68a}
 .hide{display:none!important}
+.homebar{position:sticky;top:0;z-index:50;display:flex;justify-content:space-between;align-items:center;padding:8px 14px;background:rgba(7,26,69,.92);backdrop-filter:blur(6px)}
+.homebtn{background:var(--gold);color:var(--navy);border:0;border-radius:999px;padding:9px 16px;font:inherit;font-weight:900;font-size:15px;cursor:pointer;box-shadow:0 3px 0 #b8860b}
+.homebar a{color:#fde68a;font-weight:700;font-size:14px;text-decoration:none}
+.lv{display:flex;gap:10px;align-items:center}.lv .ic{flex:0 0 42px;height:42px;border-radius:12px;display:grid;place-items:center;font-size:24px;color:#fff}
+.lvb{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:999px;color:#fff;font-size:13px;font-weight:800}
+.chip{display:inline-block;background:#eef2ff;color:#1e3a8a;border-radius:999px;padding:2px 9px;margin:2px 3px 0 0;font-size:12px;font-weight:700}
+#fw{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:90}
+.congrats{position:fixed;left:50%;top:18%;transform:translateX(-50%);z-index:91;background:rgba(255,255,255,.96);border-radius:20px;padding:16px 24px;text-align:center;box-shadow:0 10px 40px rgba(0,0,0,.4);font-weight:900;color:var(--navy);font-size:22px;max-width:90vw;animation:pop .6s ease}
+.congrats small{display:block;font-size:16px;color:var(--red);margin-top:4px}
+@keyframes pop{from{transform:translateX(-50%) scale(.3);opacity:0}to{transform:translateX(-50%) scale(1);opacity:1}}
 .row{display:flex;gap:10px;flex-wrap:wrap}.row .btn{flex:1}
 </style></head><body>
+<nav class="homebar"><button class="homebtn" id="homeTop" aria-label="Về trang chủ">🏠 Về trang chủ</button><a href="admin/index.html">🔐 Quản trị</a></nav>
 <header><div class="eb">PHỔ BIẾN · TUYÊN TRUYỀN · PHÁP LUẬT</div><h1>Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><p>Luật An ninh mạng 2025 · Luật Bảo vệ dữ liệu cá nhân · Tình huống vui, dễ nhớ</p></header>
 <main class="wrap">
 <section id="vStart" class="card">
- <label for="name">Tên của bạn</label><input id="name" maxlength="60" placeholder="VD: Mèo Mít" autocomplete="nickname">
- <label for="age">Số tuổi</label><input id="age" type="number" min="5" max="100" inputmode="numeric" placeholder="VD: 13">
+ <label for="name">🙋 Tên của bạn</label><input id="name" maxlength="60" placeholder="VD: Mèo Mít" autocomplete="nickname">
+ <label for="age">🎂 Số tuổi</label><input id="age" type="number" min="5" max="100" inputmode="numeric" placeholder="VD: 13">
  <div class="levels" id="levels"></div>
  <p class="meta" id="lvNote" style="margin-top:10px"></p>
  <button class="btn full" id="go" style="margin-top:8px">Bắt đầu thử thách 🚀</button>
@@ -58,13 +69,13 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
  <p class="meta" style="margin-top:12px">Mỗi phiên 25 câu. Ba đáp án sai được viết cho “nghe cũng có lý”, nên đừng chọn câu dài nhất!</p>
 </section>
 <section id="vQuiz" class="hide">
- <div class="top"><span class="qno" id="qno">Câu 1/25</span><span id="who"></span><span id="timer">00:00</span></div>
+ <div class="top"><span class="qno" id="qno">Câu 1/25</span><span id="who"></span><span>⏱️ <span id="timer">00:00</span></span></div>
  <div class="bar"><i id="prog" style="width:0"></i></div>
  <div class="card">
   <img class="qimg" id="qimg" alt="Hình minh họa tình huống">
   <div class="sit" id="sit"></div><div class="meta" id="qmeta"></div>
   <div class="opts" id="opts"></div>
-  <div class="fb" id="fb"><h3 id="fbT"></h3><div>Câu thần chú:</div><div class="spell" id="spell"></div><div class="legal" id="legal"></div>
+  <div class="fb" id="fb"><h3 id="fbT"></h3><div>🪄 Câu thần chú:</div><div class="spell" id="spell"></div><div class="legal" id="legal"></div>
    <button class="btn alt full" id="next" style="margin-top:12px">Câu tiếp theo →</button></div>
  </div>
 </section>
@@ -72,21 +83,23 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
  <h2 id="endT" style="margin:0"></h2>
  <div class="stats"><div><b id="sOk" style="color:var(--ok)"></b>Đúng</div><div><b id="sBad" style="color:var(--bad)"></b>Sai</div><div><b id="sTime"></b>Thời gian</div></div>
  <p id="endMsg"></p><div id="review"></div>
- <div class="row"><button class="btn" id="again">Chơi phiên mới</button><button class="btn ghost" id="home">Trang đầu</button></div>
+ <div class="row"><button class="btn" id="again">🔁 Chơi phiên mới</button><button class="btn ghost" id="home">🏠 Về trang chủ</button></div>
 </section>
-<section id="vHist" class="card hide"><h2 style="margin-top:0">Lịch sử trên thiết bị này</h2><div id="histBox"></div>
- <div class="row" style="margin-top:12px"><button class="btn ghost" id="histBack">← Quay lại</button><button class="btn ghost" id="histClear">Xóa lịch sử</button></div></section>
+<section id="vHist" class="card hide"><h2 style="margin-top:0">📜 Lịch sử trên thiết bị này</h2><div id="histBox"></div>
+ <div class="row" style="margin-top:12px"><button class="btn ghost" id="histBack">🏠 Về trang chủ</button><button class="btn ghost" id="histClear">🗑️ Xóa lịch sử</button></div></section>
 <div class="foot">Minh họa để tuyên truyền, không thay thế văn bản luật. Căn cứ: Luật An ninh mạng số 116/2025/QH15 (hiệu lực 01/7/2026), Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026), 7 nghị định ngày 19/8/2026 hướng dẫn Luật An ninh mạng, Cẩm nang “Kết nối không tổn thương” 2026.<br>Cần hỗ trợ trẻ em: gọi <b>111</b> · <a href="admin/index.html">Quản trị</a></div>
-</main>
+</main><canvas id="fw" class="hide"></canvas><div id="congrats" class="congrats hide"></div>
 <script src="config.js"></script><script src="api.js"></script>
 <script>
 const $=s=>document.querySelector(s),N=25;
-const LV=[null,{n:"Cấp 1 · Tiểu học",d:"≤ 11 tuổi · phản xạ cơ bản"},{n:"Cấp 2 · THCS",d:"12–15 tuổi · tình huống mạng xã hội"},{n:"Cấp 3 · THPT",d:"16–18 tuổi · quyền, nghĩa vụ, rủi ro"},{n:"Người lớn",d:"trên 18 tuổi · tư duy nâng cao"}];
+const LV=[null,{n:"Cấp 1 · Tiểu học",d:"≤ 11 tuổi · nhận biết đơn giản",i:"🐣",c:"#16a34a"},{n:"Cấp 2 · THCS",d:"12–15 tuổi · tình huống mạng xã hội",i:"🎮",c:"#2563eb"},{n:"Cấp 3 · THPT",d:"16–18 tuổi · quyền, nghĩa vụ, rủi ro",i:"🎓",c:"#9333ea"},{n:"Người lớn",d:"trên 18 tuổi · chuyên sâu",i:"🛡️",c:"#c8102e"}];
+const TI={"mật khẩu":"🔒","người lạ":"🕵️","quyền riêng tư":"🙈","lừa đảo":"🎣","tin giả":"📢","bắt nạt mạng":"🚫","tài khoản":"🔑","dữ liệu cá nhân":"🗂️","camera":"📷","bản quyền":"©️","game":"🎮","báo cáo":"☎️","mua sắm":"🛒","AI-deepfake":"🤖","cookie":"🍪","tấn công mạng":"💻","pháp luật":"⚖️"};const ti=t=>(TI[t]||Object.entries(TI).find(([k])=>String(t).toLowerCase().includes(k.toLowerCase()))?.[1]||"🏷️");
+const badge=l=>`<span class="lvb" style="background:${LV[l].c}">${LV[l].i} ${LV[l].n}</span>`;
 const lvOf=a=>a<=11?1:a<=15?2:a<=18?3:4;
 let ALL=[],S=null,tick=null;
 function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 function show(v){["vStart","vQuiz","vEnd","vHist"].forEach(x=>$("#"+x).classList.toggle("hide",x!==v));scrollTo(0,0)}
-function renderLv(){const a=+$("#age").value,cur=a?lvOf(a):0;$("#levels").innerHTML=LV.slice(1).map((l,i)=>`<div class="lv ${cur===i+1?"on":""}"><b>${l.n}</b>${l.d}</div>`).join("");$("#lvNote").textContent=cur?`Bạn sẽ chơi bộ câu hỏi ${LV[cur].n}.`:""}
+function renderLv(){const a=+$("#age").value,cur=a?lvOf(a):0;$("#levels").innerHTML=LV.slice(1).map((l,i)=>`<div class="lv ${cur===i+1?"on":""}"><span class="ic" style="background:${l.c}">${l.i}</span><div><b>${l.n}</b>${l.d}</div></div>`).join("");$("#lvNote").textContent=cur?`Bạn sẽ chơi bộ câu hỏi ${LV[cur].n}.`:""}
 $("#age").oninput=renderLv;
 $("#name").value=localStorage.cq_name||"";$("#age").value=localStorage.cq_age||"";renderLv();
 const fmt=s=>String(Math.floor(s/60)).padStart(2,"0")+":"+String(s%60).padStart(2,"0");
@@ -98,19 +111,22 @@ $("#go").onclick=async()=>{const name=$("#name").value.trim(),age=parseInt($("#a
  $("#go").disabled=false;$("#go").textContent="Bắt đầu thử thách 🚀";
  const lv=lvOf(age);let pool=ALL.filter(q=>q.level===lv);if(!pool.length)return alert("Chưa có câu hỏi cho cấp này.");
  pool=shuffle(pool).slice(0,N).sort((a,b)=>a.difficulty-b.difficulty);
- S={name,age,lv,qs:pool,i:0,ans:[],t0:Date.now()};$("#who").textContent=name+" · "+LV[lv].n;
+ const base=x=>String(x.image||"").replace(/-\d\.svg$/,".svg");
+ for(let k=1;k<pool.length;k++)if(base(pool[k])===base(pool[k-1])){const j=pool.findIndex((x,m)=>m>k&&base(x)!==base(pool[k-1])&&(m+1>=pool.length||base(pool[m+1]||{})!==base(pool[k])));if(j>0)[pool[k],pool[j]]=[pool[j],pool[k]]}
+ pool=pool.map((x,k)=>{if(k&&x.image&&x.image===pool[k-1].image&&/^img\//.test(x.image)){const b=base(x).replace(".svg",""),v=["",  "-1","-2"];return {...x,image:b+v[(v.indexOf((x.image.match(/-\d(?=\.svg$)/)||[""])[0])+1)%3]+".svg"}}return x});
+ S={name,age,lv,qs:pool,i:0,ans:[],t0:Date.now()};$("#who").innerHTML=esc(name)+" "+badge(lv);
  clearInterval(tick);tick=setInterval(()=>$("#timer").textContent=fmt(Math.round((Date.now()-S.t0)/1000)),1000);show("vQuiz");renderQ()};
 function renderQ(){const q=S.qs[S.i],n=S.qs.length;
  $("#qno").textContent=`Câu ${S.i+1}/${n}`;$("#prog").style.width=(S.i/n*100)+"%";
  const im=$("#qimg");if(q.image){im.src=/^https?:/.test(q.image)?q.image:q.image;im.classList.remove("hide")}else im.classList.add("hide");
- $("#sit").textContent=q.situation;$("#qmeta").textContent=`Mã câu #${q.id} · Độ khó ${"★".repeat(q.difficulty)}${"☆".repeat(3-q.difficulty)} · ${(q.tags||[]).join(", ")}`;
+ $("#sit").textContent=q.situation;$("#qmeta").textContent=`Mã câu #${q.id} · Độ khó ${"★".repeat(q.difficulty)}${"☆".repeat(3-q.difficulty)} · `;$("#qmeta").innerHTML=esc($("#qmeta").textContent)+"<br>"+(q.tags||[]).map(t=>`<span class="chip">${ti(t)} ${esc(t)}</span>`).join("");
  $("#opts").innerHTML=q.options.map((o,i)=>`<button class="opt" data-i="${i}"><span class="k">${"ABCD"[i]}</span><span>${esc(o)}</span></button>`).join("");
  $("#fb").style.display="none";document.querySelectorAll(".opt").forEach(b=>b.onclick=()=>pick(+b.dataset.i))}
 function pick(i){const q=S.qs[S.i],ok=i===q.answer;S.ans.push({q:q.id,c:ok,p:i});
  document.querySelectorAll(".opt").forEach((b,j)=>{b.disabled=true;if(j===q.answer)b.classList.add("ok");else if(j===i)b.classList.add("bad")});
  const fb=$("#fb");fb.className="fb "+(ok?"ok":"bad");fb.style.display="block";
- $("#fbT").textContent=ok?"✅ Chính xác!":"❌ Chưa đúng rồi! Đáp án đúng: "+"ABCD"[q.answer];
- $("#spell").textContent=q.spell||"";$("#legal").innerHTML="📘 <b>Căn cứ:</b> "+esc(q.legal||"");
+ $("#fbT").textContent=ok?"🎯 Chính xác!":"❌ Chưa đúng rồi! Đáp án đúng: "+"ABCD"[q.answer];
+ $("#spell").textContent=q.spell||"";$("#legal").innerHTML="⚖️ <b>Căn cứ pháp lý:</b> "+esc(q.legal||"");
  $("#next").textContent=S.i+1<S.qs.length?"Câu tiếp theo →":"Xem kết quả 🏁";fb.scrollIntoView({behavior:"smooth",block:"nearest"})}
 $("#next").onclick=()=>{S.i++;if(S.i<S.qs.length)renderQ();else finish()};
 function finish(){clearInterval(tick);const sec=Math.round((Date.now()-S.t0)/1000),ok=S.ans.filter(a=>a.c).length,n=S.ans.length;
@@ -121,8 +137,18 @@ function finish(){clearInterval(tick);const sec=Math.round((Date.now()-S.t0)/100
  const h=JSON.parse(localStorage.cq_hist||"[]");h.unshift({t:new Date().toISOString(),name:S.name,age:S.age,lv:S.lv,ok,n,sec});localStorage.cq_hist=JSON.stringify(h.slice(0,100));
  const st=JSON.parse(localStorage.cq_qstats||"{}");S.ans.forEach(a=>{const x=st[a.q]||(st[a.q]=[0,0]);x[0]++;if(a.c)x[1]++});localStorage.cq_qstats=JSON.stringify(st);
  if(CQ.on)CQ.rpc("submit_session",{p_player:S.name,p_age:S.age,p_level:S.lv,p_duration:sec,p_answers:S.ans.map(a=>({q:a.q,c:a.c}))}).catch(e=>console.warn("stats",e));
- show("vEnd")}
-$("#again").onclick=()=>$("#go").click();$("#home").onclick=()=>show("vStart");
-$("#histBtn").onclick=()=>{const h=JSON.parse(localStorage.cq_hist||"[]");$("#histBox").innerHTML=h.length?`<table><tr><th>Thời gian</th><th>Tên</th><th>Cấp</th><th>Đúng</th><th>Thời lượng</th></tr>${h.map(x=>`<tr><td>${new Date(x.t).toLocaleString("vi-VN")}</td><td>${esc(x.name)}</td><td>${x.lv}</td><td>${x.ok}/${x.n}</td><td>${fmt(x.sec)}</td></tr>`).join("")}</table>`:"<p>Chưa có phiên nào.</p>";show("vHist")};
-$("#histBack").onclick=()=>show("vStart");$("#histClear").onclick=()=>{if(confirm("Xóa toàn bộ lịch sử trên thiết bị này?")){localStorage.removeItem("cq_hist");$("#histBtn").click()}};
+ show("vEnd");fireworks(`🎉 Chúc mừng ${S.name}!`,`Bạn đúng ${ok}/${n} câu (${pct}%)`)}
+$("#again").onclick=()=>$("#go").click();$("#home").onclick=goHome;$("#homeTop").onclick=goHome;
+function goHome(){if(S&&!$("#vQuiz").classList.contains("hide")&&S.i<S.qs.length){if(!confirm("Bạn muốn dừng bài thi?"))return;clearInterval(tick);S=null}stopFw();show("vStart")}
+let fwRaf=0,fwTo=0;function stopFw(){cancelAnimationFrame(fwRaf);clearTimeout(fwTo);$("#fw").classList.add("hide");$("#congrats").classList.add("hide")}
+function fireworks(t,sub){const c=$("#fw"),x=c.getContext("2d"),cg=$("#congrats");c.width=innerWidth;c.height=innerHeight;c.classList.remove("hide");cg.innerHTML=esc(t)+"<small>"+esc(sub)+"</small>";cg.classList.remove("hide");
+ const P=[],t0=performance.now(),D=7000,col=["#f6c343","#ef4444","#22c55e","#3b82f6","#a855f7","#f97316","#ec4899"];let last=0;
+ function burst(){const bx=c.width*(.15+Math.random()*.7),by=c.height*(.12+Math.random()*.4),cc=col[Math.random()*col.length|0];for(let i=0;i<70;i++){const a=Math.PI*2*i/70,v=2+Math.random()*4;P.push({x:bx,y:by,vx:Math.cos(a)*v,vy:Math.sin(a)*v,l:60+Math.random()*30,c:cc})}}
+ function fr(now){x.globalCompositeOperation="destination-out";x.fillStyle="rgba(0,0,0,.25)";x.fillRect(0,0,c.width,c.height);x.globalCompositeOperation="lighter";
+  if(now-t0<D-1200&&now-last>380){burst();last=now}
+  for(let i=P.length-1;i>=0;i--){const p=P[i];p.x+=p.vx;p.y+=p.vy;p.vy+=.05;p.vx*=.985;p.l--;if(p.l<=0){P.splice(i,1);continue}x.globalAlpha=Math.min(1,p.l/40);x.fillStyle=p.c;x.beginPath();x.arc(p.x,p.y,2.4,0,7);x.fill()}
+  x.globalAlpha=1;if(now-t0<D)fwRaf=requestAnimationFrame(fr);else stopFw()}
+ cancelAnimationFrame(fwRaf);fwRaf=requestAnimationFrame(fr)}
+$("#histBtn").onclick=()=>{const h=JSON.parse(localStorage.cq_hist||"[]");$("#histBox").innerHTML=h.length?`<table><tr><th>Thời gian</th><th>Tên</th><th>Cấp</th><th>Đúng</th><th>Thời lượng</th></tr>${h.map(x=>`<tr><td>${new Date(x.t).toLocaleString("vi-VN")}</td><td>${esc(x.name)}</td><td>${badge(x.lv)}</td><td>${x.ok}/${x.n}</td><td>${fmt(x.sec)}</td></tr>`).join("")}</table>`:"<p>Chưa có phiên nào.</p>";show("vHist")};
+$("#histBack").onclick=goHome;$("#histClear").onclick=()=>{if(confirm("Xóa toàn bộ lịch sử trên thiết bị này?")){localStorage.removeItem("cq_hist");$("#histBtn").click()}};
 </script></body></html>

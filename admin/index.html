@@ -19,10 +19,10 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
 .row{display:flex;gap:8px;flex-wrap:wrap;align-items:end}.row>*{flex:1;min-width:140px}
 .dirty{color:#b45309;font-weight:700}
 </style></head><body>
-<header><h1>🛡️ Quản trị · Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><div class="tabs hide" id="tabs">
-<button class="btn on" data-t="q">Câu hỏi</button><button class="btn" data-t="st">Thống kê</button><button class="btn" data-t="io">Nhập/Xuất</button><button class="btn" data-t="ad">Tài khoản</button><button class="btn g s" id="logout">Đăng xuất</button></div></header>
+<header><a href="../index.html" style="display:inline-block;background:#f6c343;color:#0b2a6f;font-weight:900;padding:8px 16px;border-radius:999px;text-decoration:none;margin-bottom:8px">🏠 Về trang chủ</a><h1>🛡️ Quản trị · Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><div class="tabs hide" id="tabs">
+<button class="btn on" data-t="q">📝 Câu hỏi</button><button class="btn" data-t="st">📊 Thống kê</button><button class="btn" data-t="io">📦 Nhập/Xuất</button><button class="btn" data-t="ad">👥 Tài khoản</button><button class="btn g s" id="logout">🚪 Đăng xuất</button></div></header>
 <div class="wrap">
-<section class="card" id="login"><h2 style="margin-top:0">Đăng nhập quản trị</h2>
+<section class="card" id="login"><h2 style="margin-top:0">🔐 Đăng nhập quản trị</h2>
  <div id="loginSb"><label>Tên đăng nhập</label><input id="lu" autocomplete="username"><label>Mật khẩu</label><input id="lp" type="password" autocomplete="current-password"></div>
  <div id="loginGh"><p style="font-size:14px;color:var(--mute)">Chế độ không có backend: đăng nhập bằng <b>GitHub token</b> (fine-grained, quyền <i>Contents: Read and write</i> trên repo <span id="repoName"></span>). Mọi thay đổi được commit vào <code>questions.json</code>.</p><label>GitHub token</label><input id="lt" type="password"></div>
  <button class="btn n" id="lbtn" style="margin-top:12px">Đăng nhập</button><div id="lmsg"></div><p style="font-size:13px;color:var(--mute)" id="modeNote"></p></section>

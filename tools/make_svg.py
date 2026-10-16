@@ -1,12 +1,17 @@
 R='/workspace/cyberquiz/img/'
-def cat(mood='ok'):
+def cat(mood='ok',kind=0):
     mouth={'ok':'<path d="M92 128 q8 8 16 0" stroke="#3a2a1a" stroke-width="3" fill="none"/>','worry':'<path d="M92 132 q8 -7 16 0" stroke="#3a2a1a" stroke-width="3" fill="none"/>','wow':'<ellipse cx="100" cy="131" rx="5" ry="6" fill="#3a2a1a"/>'}[mood]
-    return f'''<g><path d="M58 92 L64 40 L92 70 Z" fill="#f4a340"/><path d="M142 92 L136 40 L108 70 Z" fill="#f4a340"/><path d="M66 82 L68 54 L86 72Z" fill="#ffd0a0"/><path d="M134 82 L132 54 L114 72Z" fill="#ffd0a0"/>
-<ellipse cx="100" cy="182" rx="44" ry="34" fill="#f4a340"/><circle cx="100" cy="110" r="48" fill="#f7b155"/>
-<path d="M60 100 h14 M60 112 h12 M126 100 h14 M128 112 h12" stroke="#d98a2b" stroke-width="3"/>
+    body,head,stripe,scarf=[('#f4a340','#f7b155','#d98a2b','#1d4ed8'),('#a16207','#c08a4a','#7c4a12','#dc2626'),('#9ca3af','#d1d5db','#6b7280','#16a34a')][kind]
+    ears=[f'<path d="M58 92 L64 40 L92 70 Z" fill="{body}"/><path d="M142 92 L136 40 L108 70 Z" fill="{body}"/><path d="M66 82 L68 54 L86 72Z" fill="#ffd0a0"/><path d="M134 82 L132 54 L114 72Z" fill="#ffd0a0"/>',
+      f'<ellipse cx="56" cy="104" rx="16" ry="34" fill="{stripe}" transform="rotate(18 56 104)"/><ellipse cx="144" cy="104" rx="16" ry="34" fill="{stripe}" transform="rotate(-18 144 104)"/>',
+      f'<ellipse cx="80" cy="44" rx="12" ry="40" fill="{body}"/><ellipse cx="120" cy="44" rx="12" ry="40" fill="{body}"/><ellipse cx="80" cy="46" rx="6" ry="30" fill="#fbcfe8"/><ellipse cx="120" cy="46" rx="6" ry="30" fill="#fbcfe8"/>'][kind]
+    whisk=f'<path d="M60 100 h14 M60 112 h12 M126 100 h14 M128 112 h12" stroke="{stripe}" stroke-width="3"/>' if kind!=1 else ''
+    return f'''<g>{ears}
+<ellipse cx="100" cy="182" rx="44" ry="34" fill="{body}"/><circle cx="100" cy="110" r="48" fill="{head}"/>
+{whisk}
 <circle cx="83" cy="106" r="9" fill="#fff"/><circle cx="117" cy="106" r="9" fill="#fff"/><circle cx="85" cy="107" r="5" fill="#2b2b2b"/><circle cx="119" cy="107" r="5" fill="#2b2b2b"/>
 <ellipse cx="100" cy="120" rx="5" ry="3.5" fill="#e0607e"/>{mouth}<circle cx="72" cy="124" r="6" fill="#ff8fa3" opacity=".6"/><circle cx="128" cy="124" r="6" fill="#ff8fa3" opacity=".6"/>
-<rect x="70" y="150" width="60" height="14" rx="7" fill="#1d4ed8"/><circle cx="100" cy="157" r="5" fill="#fbbf24"/></g>'''
+<rect x="70" y="150" width="60" height="14" rx="7" fill="{scarf}"/><circle cx="100" cy="157" r="5" fill="#fbbf24"/></g>'''
 def bubble(t):
     return f'<g><rect x="196" y="16" width="196" height="48" rx="14" fill="#fff" stroke="#1f2937" stroke-width="2"/><path d="M226 62 l-10 14 l22 -14" fill="#fff" stroke="#1f2937" stroke-width="2"/><text x="294" y="46" font-family="Arial,sans-serif" font-size="{min(17,int(330/len(t)))}" font-weight="700" text-anchor="middle" fill="#1f2937">{t}</text></g>'
 phone=lambda inner:f'<g><rect x="232" y="82" width="104" height="150" rx="16" fill="#1f2937"/><rect x="240" y="96" width="88" height="122" rx="6" fill="#e0f2fe"/>{inner}</g>'
@@ -30,7 +35,13 @@ P={
 'luat':('#e0e7ff','ok','Luật mới 2025!','<g><rect x="240" y="96" width="104" height="128" rx="8" fill="#b91c1c"/><rect x="250" y="106" width="84" height="108" rx="4" fill="#fff7ed"/><text x="292" y="146" font-size="20" text-anchor="middle" font-family="Arial" font-weight="700" fill="#b91c1c">LUẬT</text><polygon points="292,160 298,176 314,176 301,186 306,202 292,192 278,202 283,186 270,176 286,176" fill="#facc15"/></g>'),
 'luadao':('#fee2e2','worry','Gấp + lợi + chuyển tiền = Dừng!',phone('<text x="284" y="138" font-size="15" text-anchor="middle" font-family="Arial" font-weight="700" fill="#b91c1c">CHUYỂN GẤP!</text><circle cx="284" cy="176" r="22" fill="#fbbf24"/><text x="284" y="184" font-size="22" text-anchor="middle" font-family="Arial" font-weight="700" fill="#92400e">₫</text>')),
 }
+EXTRA={'matkhau':['Mật khẩu dài, khó đoán!','Bật xác thực 2 lớp!'],'nguoila':['Không hẹn gặp riêng!','Không cho địa chỉ!'],'anhrieng':['Ảnh riêng – giữ riêng!','Gỡ ảnh khi bạn nhờ!'],'linkla':['Kiểm tra trước khi bấm!','Mã QR lạ – né!'],'tingia':['Kiểm chứng nguồn tin!','Không lan tin đồn!'],'batnat':['Đứng về phía bạn!','Lưu bằng chứng, báo người lớn!'],'taikhoan':['Không cho mượn tài khoản!','Đăng xuất khi xong!'],'dulieu':['Đồng ý phải rõ ràng!','Có quyền xin xóa!'],'webcam':['Ghi hình phải báo!','Người lạ đòi cam? Tắt!'],'banquyen':['Ghi rõ tác giả!','Không xài đồ lậu!'],'game':['Chơi đúng giờ!','Admin không xin mật khẩu!'],'baocao':['Báo cáo nội dung xấu!','Kể với người tin cậy!'],'muasam':['Không chuyển cọc vội!','Shop uy tín mới mua!'],'deepfake':['Giọng quen? Gọi lại!','AI ghép mặt là sai!'],'cookie':['Đọc kỹ rồi hãy đồng ý!','Từ chối theo dõi!'],'hack':['Không xâm nhập trái phép!','Cập nhật, quét mã độc!'],'luat':['Hiểu luật, sống an toàn!','Quyền đi cùng nghĩa vụ!'],'luadao':['Gấp gáp = nghi ngờ!','Gọi lại số quen!']}
+BG=['#fef3c7','#dcfce7','#e0f2fe','#fce7f3','#ede9fe','#ffedd5']
+import zlib
 for k,(bg,m,t,prop) in P.items():
-    s=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="{t}"><rect width="400" height="240" rx="18" fill="{bg}"/><circle cx="360" cy="230" r="70" fill="#fff" opacity=".35"/><circle cx="30" cy="20" r="50" fill="#fff" opacity=".35"/>{cat(m)}{bubble(t)}{prop}</svg>'
-    open(R+k+'.svg','w').write(s)
-print(len(P))
+    for v,(tt,kind,b) in enumerate([(t,0,bg)]+[(x,i+1,BG[(zlib.crc32(k.encode())+i)%6]) for i,x in enumerate(EXTRA[k])]):
+        mood=['ok','worry','wow'][(v+len(k))%3] if v else m
+        flip=' transform="translate(400 0) scale(-1 1)"' if v==2 else ''
+        s=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="{tt}"><rect width="400" height="240" rx="18" fill="{b}"/><circle cx="360" cy="230" r="70" fill="#fff" opacity=".35"/><circle cx="30" cy="20" r="50" fill="#fff" opacity=".35"/>{cat(mood,kind)}<g{flip}><g{flip}>{bubble(tt)}</g></g>{prop}</svg>'
+        open(R+(k if v==0 else f'{k}-{v}')+'.svg','w').write(s)
+print(len(P)*3)
