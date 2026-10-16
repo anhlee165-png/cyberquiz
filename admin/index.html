@@ -66,7 +66,7 @@ $("#logout").onclick=()=>{if(DIRTY&&!confirm("Còn thay đổi chưa lưu. Vẫn
 async function boot(){$("#login").classList.add("hide");$("#app").classList.remove("hide");$("#tabs").classList.remove("hide");
  Q=SB?await CQ.rpc("admin_questions",{p_token:AUTH.token}):await ghLoad();await loadStats();renderList()}
 if(sessionStorage.cq_auth){AUTH=JSON.parse(sessionStorage.cq_auth);boot().catch(e=>{sessionStorage.removeItem("cq_auth");location.reload()})}
-document.querySelectorAll("#tabs [data-t]").forEach(b=>b.onclick=()=>{document.querySelectorAll("#tabs [data-t]").forEach(x=>x.classList.toggle("on",x===b));["q","st","io","ad"].forEach(t=>$("#t"+t).classList.toggle("hide",t!==b.dataset.t));if(b.dataset.t==="st")renderStats();if(b.dataset.t==="ad")renderAdmins()});
+document.querySelectorAll("#tabs [data-t]").forEach(b=>b.onclick=()=>{document.querySelectorAll("#tabs [data-t]").forEach(x=>x.classList.toggle("on",x===b));["q","st","io","ad"].forEach(t=>$("#t"+t).classList.toggle("hide",t!==b.dataset.t));if(b.dataset.t==="st"){renderStats();loadStats().then(renderStats)}if(b.dataset.t==="ad")renderAdmins()});
 // ---- stats
 async function loadStats(){STATS={};if(SB){try{const s=await CQ.rpc("admin_stats",{p_token:AUTH.token});STATS._srv=s;(s.by_question||[]).forEach(x=>STATS[x.id]=[x.n,x.ok])}catch(e){console.warn(e)}}
  else{const l=JSON.parse(localStorage.cq_qstats||"{}");for(const k in l)STATS[k]=l[k]}}
