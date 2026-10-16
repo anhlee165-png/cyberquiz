@@ -47,7 +47,7 @@ create policy q_read on questions for select using (not hidden);
 
 -- Ghi kết quả phiên (ẩn danh)
 create or replace function submit_session(p_player text,p_age int,p_level int,p_duration int,p_answers jsonb)
-returns uuid language plpgsql security definer set search_path=public as $$
+returns uuid language plpgsql security definer set search_path=public,extensions as $$
 declare sid uuid; a jsonb; n int:=0; c int:=0;
 begin
   if jsonb_array_length(p_answers)>60 then raise exception 'too many'; end if;
@@ -61,7 +61,7 @@ begin
   return sid;
 end $$;
 
-create or replace function _admin(p_token uuid) returns admins language plpgsql security definer set search_path=public as $$
+create or replace function _admin(p_token uuid) returns admins language plpgsql security definer set search_path=public,extensions as $$
 declare r admins;
 begin
   select a.* into r from admin_sessions s join admins a using(username) where s.token=p_token and s.expires_at>now();
@@ -69,7 +69,7 @@ begin
   return r;
 end $$;
 
-create or replace function admin_login(p_user text,p_pass text) returns jsonb language plpgsql security definer set search_path=public as $$
+create or replace function admin_login(p_user text,p_pass text) returns jsonb language plpgsql security definer set search_path=public,extensions as $$
 declare r admins; t uuid;
 begin
   select * into r from admins where username=p_user;
@@ -79,43 +79,43 @@ begin
 end $$;
 
 -- Chỉ dùng MỘT LẦN để tạo super admin (bị khóa nếu đã có super admin)
-create or replace function setup_super_admin(p_user text,p_pass text) returns text language plpgsql security definer set search_path=public as $$
+create or replace function setup_super_admin(p_user text,p_pass text) returns text language plpgsql security definer set search_path=public,extensions as $$
 begin
   if exists(select 1 from admins where role='super') then raise exception 'super admin already exists'; end if;
   insert into admins(username,pass_hash,role) values(p_user,crypt(p_pass,gen_salt('bf')),'super');
   return 'ok';
 end $$;
 
-create or replace function admin_create(p_token uuid,p_user text,p_pass text) returns text language plpgsql security definer set search_path=public as $$
+create or replace function admin_create(p_token uuid,p_user text,p_pass text) returns text language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin
   if me.role<>'super' then raise exception 'only super admin'; end if;
   insert into admins(username,pass_hash,role) values(p_user,crypt(p_pass,gen_salt('bf')),'admin');
   return 'ok';
 end $$;
-create or replace function admin_delete(p_token uuid,p_user text) returns text language plpgsql security definer set search_path=public as $$
+create or replace function admin_delete(p_token uuid,p_user text) returns text language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin
   if me.role<>'super' then raise exception 'only super admin'; end if;
   delete from admins where username=p_user and role<>'super'; return 'ok';
 end $$;
-create or replace function admin_list(p_token uuid) returns setof jsonb language plpgsql security definer set search_path=public as $$
+create or replace function admin_list(p_token uuid) returns setof jsonb language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin
   return query select jsonb_build_object('username',username,'role',role,'created_at',created_at) from admins order by created_at;
 end $$;
-create or replace function admin_change_password(p_token uuid,p_old text,p_new text) returns text language plpgsql security definer set search_path=public as $$
+create or replace function admin_change_password(p_token uuid,p_old text,p_new text) returns text language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin
   if me.pass_hash<>crypt(p_old,me.pass_hash) then raise exception 'wrong password'; end if;
   update admins set pass_hash=crypt(p_new,gen_salt('bf')) where username=me.username; return 'ok';
 end $$;
 
-create or replace function admin_questions(p_token uuid) returns setof questions language plpgsql security definer set search_path=public as $$
+create or replace function admin_questions(p_token uuid) returns setof questions language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin return query select * from questions order by id; end $$;
 
-create or replace function admin_upsert_questions(p_token uuid,p_items jsonb) returns int language plpgsql security definer set search_path=public as $$
+create or replace function admin_upsert_questions(p_token uuid,p_items jsonb) returns int language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token); q jsonb; n int:=0; nid bigint;
 begin
   for q in select * from jsonb_array_elements(p_items) loop
@@ -130,11 +130,11 @@ begin
     n:=n+1;
   end loop; return n;
 end $$;
-create or replace function admin_delete_question(p_token uuid,p_id bigint) returns text language plpgsql security definer set search_path=public as $$
+create or replace function admin_delete_question(p_token uuid,p_id bigint) returns text language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin delete from questions where id=p_id; return 'ok'; end $$;
 
-create or replace function admin_stats(p_token uuid) returns jsonb language plpgsql security definer set search_path=public as $$
+create or replace function admin_stats(p_token uuid) returns jsonb language plpgsql security definer set search_path=public,extensions as $$
 declare me admins:=_admin(p_token);
 begin
   return jsonb_build_object(

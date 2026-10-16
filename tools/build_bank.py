@@ -45,7 +45,9 @@ for f in sorted(glob.glob(R+'/hh/b*.txt')):
         hh.append({'level':int(lv),'difficulty':int(x['lv']),'tags':[TAG[img]],'image':f'img/{img}.svg','situation':sit,'options':opts,'answer':opts.index(c),'spell':sp,'legal':law(lw),'source':f'HHANM-{n}'})
 assert len(hh)==397 and len({q['source'] for q in hh})==397
 qs=orig+hh
-for i,q in enumerate(qs,1): q['id']=i
+for i,q in enumerate(qs,1):
+    q['id']=i; v=(i*7+len(q['situation']))%3
+    if v: q['image']=q['image'].replace('.svg',f'-{v}.svg')
 qs=[{'id':q.pop('id'),**q} for q in qs]
 assert len(qs)==600
 json.dump({'version':2,'updated':'2026-10-15','questions':qs},open(R+'/questions.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
