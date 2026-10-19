@@ -399,7 +399,7 @@
    ],
    "answer": 1,
    "spell": "Một một một, gọi là có người lo!",
-   "legal": "Khoản 3 Điều 51 Luật Trẻ em số 102/2016/QH13; Điều 22, Điều 23 Nghị định 56/2017/NĐ-CP; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
+   "legal": "Khoản 3 Điều 51 Luật Trẻ em số 102/2016/QH13; Tổng đài 111 hiện do Cục Bà mẹ và Trẻ em – Bộ Y tế quản lý (tongdai111.vn); Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)",
    "source": "ORIGINAL"
   },
   {
@@ -4153,7 +4153,7 @@
    "situation": "Bác Năm đố cả nhà trong bữa cơm: \"Ai giúp Bộ trưởng Bộ Quốc phòng quản lý nhà nước về mật mã dân sự?\" Thằng cháu nhanh nhảu trả lời…",
    "options": [
     "Tổng cục Tình báo",
-    "Bộ Thông tin và Truyền thông",
+    "Bộ Khoa học và Công nghệ",
     "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao",
     "Ban Cơ yếu Chính phủ"
    ],
@@ -6275,7 +6275,7 @@
     "Bộ Quốc phòng",
     "Bộ Công an",
     "Bộ Khoa học và Công nghệ",
-    "Bộ Thông tin và Truyền thông"
+    "Bộ Nội vụ"
    ],
    "answer": 0,
    "spell": "Quân sự – Bộ Quốc phòng.",
@@ -6594,7 +6594,7 @@
    "options": [
     "Bộ Công an",
     "Bộ Quốc phòng",
-    "Bộ Thông tin và Truyền thông",
+    "Bộ Nội vụ",
     "Bộ Khoa học và Công nghệ"
    ],
    "answer": 0,
@@ -6932,9 +6932,9 @@
    "image": "img/luat-1.svg",
    "situation": "Ai chủ trì bồi dưỡng nghiệp vụ ANM cho cán bộ, công chức, viên chức?",
    "options": [
-    "Bộ Lao động - Thương binh và Xã hội",
+    "Bộ Khoa học và Công nghệ",
     "Bộ Công an",
-    "Bộ Văn hóa",
+    "Bộ Văn hóa, Thể thao và Du lịch",
     "Bộ Giáo dục và Đào tạo"
    ],
    "answer": 1,
@@ -7212,7 +7212,7 @@
    "image": "img/luat-2.svg",
    "situation": "Cơ quan nào chủ trì hợp tác quốc tế về an ninh mạng?",
    "options": [
-    "Bộ Thông tin và Truyền thông",
+    "Bộ Khoa học và Công nghệ",
     "Bộ Công an",
     "Bộ Giáo dục và Đào tạo",
     "Bộ Ngoại giao"
@@ -9352,7 +9352,7 @@
    "image": "img/dulieu.svg",
    "situation": "Cơ quan chuyên trách bảo vệ dữ liệu cá nhân thuộc bộ nào?",
    "options": [
-    "Bộ Thông tin và Truyền thông",
+    "Bộ Nội vụ",
     "Bộ Công an",
     "Bộ Khoa học và Công nghệ",
     "Bộ Tư pháp"
@@ -9410,16 +9410,16 @@
     "dữ liệu cá nhân"
    ],
    "image": "img/dulieu-1.svg",
-   "situation": "Chuyển dữ liệu nhạy cảm giữa các tổ chức cần biện pháp bảo mật nào?",
+   "situation": "Theo Nghị định 356/2025/NĐ-CP, khi chuyển giao dữ liệu cá nhân nhạy cảm cần áp dụng biện pháp bảo mật nào?",
    "options": [
-    "Bảo mật vật lý thiết bị lưu trữ",
-    "Mã hóa, ẩn danh dữ liệu",
-    "Có thỏa thuận bằng văn bản",
+    "Bảo mật vật lý đối với thiết bị lưu trữ và truyền tải",
+    "Mã hóa dữ liệu cá nhân",
+    "Ẩn danh dữ liệu cá nhân",
     "Tất cả các biện pháp trên"
    ],
    "answer": 3,
-   "spell": "Bảo mật thiết bị, mã hóa, thỏa thuận bằng văn bản – đủ cả.",
-   "legal": "Khoản 1, khoản 2 Điều 7 Nghị định 356/2025/NĐ-CP; Điều 17 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+   "spell": "Dữ liệu nhạy cảm đi đâu: khóa thiết bị, mã hóa, ẩn danh – đủ cả ba.",
+   "legal": "Khoản 2 Điều 7 Nghị định 356/2025/NĐ-CP; Điều 17 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
    "source": "HHANM-268"
   },
   {
@@ -10110,16 +10110,16 @@
     "dữ liệu cá nhân"
    ],
    "image": "img/dulieu-2.svg",
-   "situation": "Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân (nội bộ) nộp theo mẫu nào?",
+   "situation": "Trong hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, Báo cáo đánh giá tác động được lập theo mẫu nào?",
    "options": [
     "Mẫu số 10",
     "Mẫu số 08",
     "Mẫu số 09",
-    "Mẫu số 01a"
+    "Mẫu số 02a"
    ],
    "answer": 0,
-   "spell": "Mẫu số 10.",
-   "legal": "Điểm a khoản 2 Điều 19 và Mẫu số 10 Phụ lục Nghị định 356/2025/NĐ-CP",
+   "spell": "Báo cáo đánh giá tác động – Mẫu 10; khi nộp kèm thông báo Mẫu 02a/02b.",
+   "legal": "Điểm a khoản 2, khoản 4 Điều 19 và Mẫu số 10 Phụ lục Nghị định 356/2025/NĐ-CP",
    "source": "HHANM-303"
   },
   {
@@ -10350,12 +10350,12 @@
     "dữ liệu cá nhân"
    ],
    "image": "img/dulieu-1.svg",
-   "situation": "Giấy chứng nhận bị mất, hỏng – cấp lại trong bao lâu?",
+   "situation": "Bản giấy Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân bị mất, hỏng. Kể từ ngày nhận đơn, cơ quan chuyên trách xem xét cấp lại trong bao lâu?",
    "options": [
-    "03 ngày",
-    "05 ngày",
-    "10 ngày",
-    "07 ngày"
+    "03 ngày làm việc",
+    "05 ngày làm việc",
+    "10 ngày làm việc",
+    "07 ngày làm việc"
    ],
    "answer": 1,
    "spell": "5 ngày làm việc.",
@@ -10572,7 +10572,7 @@
    "image": "img/dulieu.svg",
    "situation": "Ai cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân?",
    "options": [
-    "Bộ Thông tin và Truyền thông",
+    "Bộ Khoa học và Công nghệ",
     "Chính phủ",
     "Bộ Tư pháp",
     "Bộ Công an"
@@ -11255,7 +11255,7 @@
     "Bộ Công an",
     "Quốc hội",
     "Chính phủ",
-    "Bộ Thông tin và Truyền thông"
+    "Bộ Khoa học và Công nghệ"
    ],
    "answer": 2,
    "spell": "Chính phủ ban hành danh mục.",
@@ -11534,7 +11534,7 @@
    "options": [
     "Bộ Công an",
     "Bộ Tư pháp",
-    "Bộ Thông tin và Truyền thông",
+    "Bộ Khoa học và Công nghệ",
     "Văn phòng Chính phủ"
    ],
    "answer": 0,

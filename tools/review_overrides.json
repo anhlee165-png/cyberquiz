@@ -12,7 +12,7 @@
   "legal": "Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)"
  },
  "20": {
-  "legal": "Khoản 3 Điều 51 Luật Trẻ em số 102/2016/QH13; Điều 22, Điều 23 Nghị định 56/2017/NĐ-CP; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)"
+  "legal": "Khoản 3 Điều 51 Luật Trẻ em số 102/2016/QH13; Tổng đài 111 hiện do Cục Bà mẹ và Trẻ em – Bộ Y tế quản lý (tongdai111.vn); Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)"
  },
  "37": {
   "legal": "Khoản 5 Điều 16 Luật An ninh mạng số 116/2025/QH15; Cẩm nang “Kết nối không tổn thương” 2026 (Chiến dịch Không Một Mình)"
@@ -162,7 +162,16 @@
   "legal": "Khoản 1 Điều 8 Nghị định 356/2025/NĐ-CP; Điều 27 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15"
  },
  "471": {
-  "legal": "Khoản 1, khoản 2 Điều 7 Nghị định 356/2025/NĐ-CP; Điều 17 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15"
+  "legal": "Khoản 2 Điều 7 Nghị định 356/2025/NĐ-CP; Điều 17 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+  "situation": "Theo Nghị định 356/2025/NĐ-CP, khi chuyển giao dữ liệu cá nhân nhạy cảm cần áp dụng biện pháp bảo mật nào?",
+  "options": [
+   "Bảo mật vật lý đối với thiết bị lưu trữ và truyền tải",
+   "Mã hóa dữ liệu cá nhân",
+   "Ẩn danh dữ liệu cá nhân",
+   "Tất cả các biện pháp trên"
+  ],
+  "answer": 3,
+  "spell": "Dữ liệu nhạy cảm đi đâu: khóa thiết bị, mã hóa, ẩn danh – đủ cả ba."
  },
  "473": {
   "legal": "Khoản 4 Điều 5 Nghị định 356/2025/NĐ-CP; Điều 14 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15"
@@ -195,7 +204,16 @@
   "legal": "Khoản 6 Điều 18, khoản 6 Điều 19 Nghị định 356/2025/NĐ-CP"
  },
  "506": {
-  "legal": "Điểm a khoản 2 Điều 19 và Mẫu số 10 Phụ lục Nghị định 356/2025/NĐ-CP"
+  "legal": "Điểm a khoản 2, khoản 4 Điều 19 và Mẫu số 10 Phụ lục Nghị định 356/2025/NĐ-CP",
+  "situation": "Trong hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, Báo cáo đánh giá tác động được lập theo mẫu nào?",
+  "options": [
+   "Mẫu số 10",
+   "Mẫu số 08",
+   "Mẫu số 09",
+   "Mẫu số 02a"
+  ],
+  "answer": 0,
+  "spell": "Báo cáo đánh giá tác động – Mẫu 10; khi nộp kèm thông báo Mẫu 02a/02b."
  },
  "507": {
   "legal": "Điểm a khoản 2 Điều 13 Nghị định 356/2025/NĐ-CP"
@@ -225,7 +243,15 @@
   "legal": "Khoản 2 Điều 40 Nghị định 356/2025/NĐ-CP"
  },
  "518": {
-  "legal": "Điểm b khoản 1 Điều 26 Nghị định 356/2025/NĐ-CP"
+  "legal": "Điểm b khoản 1 Điều 26 Nghị định 356/2025/NĐ-CP",
+  "situation": "Bản giấy Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân bị mất, hỏng. Kể từ ngày nhận đơn, cơ quan chuyên trách xem xét cấp lại trong bao lâu?",
+  "options": [
+   "03 ngày làm việc",
+   "05 ngày làm việc",
+   "10 ngày làm việc",
+   "07 ngày làm việc"
+  ],
+  "answer": 1
  },
  "519": {
   "legal": "Khoản 3 Điều 27 Nghị định 356/2025/NĐ-CP"
@@ -243,7 +269,13 @@
   "legal": "Điểm a khoản 1 Điều 25 và Mẫu số 04 Phụ lục Nghị định 356/2025/NĐ-CP"
  },
  "529": {
-  "legal": "Khoản 1 Điều 24 Nghị định 356/2025/NĐ-CP"
+  "legal": "Khoản 1 Điều 24 Nghị định 356/2025/NĐ-CP",
+  "options": [
+   "Bộ Khoa học và Công nghệ",
+   "Chính phủ",
+   "Bộ Tư pháp",
+   "Bộ Công an"
+  ]
  },
  "530": {
   "legal": "Khoản 3 Điều 23 Nghị định 356/2025/NĐ-CP"
@@ -292,7 +324,13 @@
   "legal": "Khoản 8 Điều 23 Nghị định 356/2025/NĐ-CP"
  },
  "577": {
-  "legal": "Khoản 5 Điều 34 Nghị định 356/2025/NĐ-CP"
+  "legal": "Khoản 5 Điều 34 Nghị định 356/2025/NĐ-CP",
+  "options": [
+   "Bộ Công an",
+   "Bộ Tư pháp",
+   "Bộ Khoa học và Công nghệ",
+   "Văn phòng Chính phủ"
+  ]
  },
  "578": {
   "legal": "Điểm b khoản 5 Điều 10 Nghị định 356/2025/NĐ-CP; Điều 30 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15"
@@ -326,5 +364,61 @@
  },
  "600": {
   "legal": "Khoản 4 Điều 18 và Mẫu số 01b Phụ lục Nghị định 356/2025/NĐ-CP"
+ },
+ "208": {
+  "options": [
+   "Tổng cục Tình báo",
+   "Bộ Khoa học và Công nghệ",
+   "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao",
+   "Ban Cơ yếu Chính phủ"
+  ]
+ },
+ "314": {
+  "options": [
+   "Bộ Quốc phòng",
+   "Bộ Công an",
+   "Bộ Khoa học và Công nghệ",
+   "Bộ Nội vụ"
+  ]
+ },
+ "330": {
+  "options": [
+   "Bộ Công an",
+   "Bộ Quốc phòng",
+   "Bộ Nội vụ",
+   "Bộ Khoa học và Công nghệ"
+  ]
+ },
+ "347": {
+  "options": [
+   "Bộ Khoa học và Công nghệ",
+   "Bộ Công an",
+   "Bộ Văn hóa, Thể thao và Du lịch",
+   "Bộ Giáo dục và Đào tạo"
+  ]
+ },
+ "361": {
+  "options": [
+   "Bộ Khoa học và Công nghệ",
+   "Bộ Công an",
+   "Bộ Giáo dục và Đào tạo",
+   "Bộ Ngoại giao"
+  ]
+ },
+ "468": {
+  "options": [
+   "Bộ Nội vụ",
+   "Bộ Công an",
+   "Bộ Khoa học và Công nghệ",
+   "Bộ Tư pháp"
+  ]
+ },
+ "563": {
+  "options": [
+   "Bộ Công an",
+   "Quốc hội",
+   "Chính phủ",
+   "Bộ Khoa học và Công nghệ"
+  ]
  }
 }

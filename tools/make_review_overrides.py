@@ -78,7 +78,8 @@ FIX={ # id: (legal, how, ambiguous?)
 }
 SIT={150:'Luật An ninh mạng số 116/2025/QH15 được Quốc hội thông qua ngày nào?',
      546:'Yêu cầu ngừng xử lý dữ liệu của chủ thể dữ liệu quá phức tạp. Bên kiểm soát được gia hạn tối đa bao lâu?'}
-old={x['id']:x for x in json.load(open(R+'/questions.json',encoding='utf-8'))['questions']}
+# Mốc so sánh cố định: bản xuất gửi pháp chế trước rà soát (không dùng questions.json vì đã chứa override)
+old={r[0]:{'situation':r[4],'legal':r[12]} for r in openpyxl.load_workbook(R+'/export/Bo-600-cau-hoi-An-ninh-mang.truoc-ra-soat.xlsx',read_only=True)['Tất cả'].iter_rows(min_row=2,values_only=True)}
 ws=openpyxl.load_workbook(R+'/export/review-returned.xlsx')['Tất cả']
 ov={};rep=[]
 for r in ws.iter_rows(min_row=2,values_only=True):
@@ -93,6 +94,32 @@ for r in ws.iter_rows(min_row=2,values_only=True):
     if not e: how='Pháp chế đánh dấu Sửa nhưng không thay đổi nội dung – giữ nguyên.'
     ov[i]=e
     rep.append(dict(id=i,level=lv,old_sit=o['situation'],new_sit=e.get('situation',o['situation']),old_legal=o['legal'],new_legal=e.get('legal',o['legal']),note=note,kl=kl,how=how,amb=amb))
+
+# Đợt 2 (đã được Anh duyệt): sửa các câu "Không đúng thực tiễn" – xem export/Cac-cho-sai-trong-file-phap-che.xlsx
+KST='Bộ Khoa học và Công nghệ'
+EXTRA={
+ 208:{'options':['Tổng cục Tình báo',KST,'Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao','Ban Cơ yếu Chính phủ']},
+ 314:{'options':['Bộ Quốc phòng','Bộ Công an',KST,'Bộ Nội vụ']},
+ 330:{'options':['Bộ Công an','Bộ Quốc phòng','Bộ Nội vụ',KST]},
+ 347:{'options':[KST,'Bộ Công an','Bộ Văn hóa, Thể thao và Du lịch','Bộ Giáo dục và Đào tạo']},
+ 361:{'options':[KST,'Bộ Công an','Bộ Giáo dục và Đào tạo','Bộ Ngoại giao']},
+ 468:{'options':['Bộ Nội vụ','Bộ Công an',KST,'Bộ Tư pháp']},
+ 529:{'options':[KST,'Chính phủ','Bộ Tư pháp','Bộ Công an']},
+ 563:{'options':['Bộ Công an','Quốc hội','Chính phủ',KST]},
+ 577:{'options':['Bộ Công an','Bộ Tư pháp',KST,'Văn phòng Chính phủ']},
+ 518:{'situation':'Bản giấy Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân bị mất, hỏng. Kể từ ngày nhận đơn, cơ quan chuyên trách xem xét cấp lại trong bao lâu?',
+      'options':['03 ngày làm việc','05 ngày làm việc','10 ngày làm việc','07 ngày làm việc'],'answer':1},
+ 506:{'situation':'Trong hồ sơ đánh giá tác động xử lý dữ liệu cá nhân, Báo cáo đánh giá tác động được lập theo mẫu nào?',
+      'options':['Mẫu số 10','Mẫu số 08','Mẫu số 09','Mẫu số 02a'],'answer':0,
+      'spell':'Báo cáo đánh giá tác động – Mẫu 10; khi nộp kèm thông báo Mẫu 02a/02b.',
+      'legal':'Điểm a khoản 2, khoản 4 Điều 19 và Mẫu số 10 Phụ lục Nghị định 356/2025/NĐ-CP'},
+ 20:{'legal':'Khoản 3 Điều 51 Luật Trẻ em số 102/2016/QH13; Tổng đài 111 hiện do Cục Bà mẹ và Trẻ em – Bộ Y tế quản lý (tongdai111.vn); '+CN},
+ 471:{'situation':'Theo Nghị định 356/2025/NĐ-CP, khi chuyển giao dữ liệu cá nhân nhạy cảm cần áp dụng biện pháp bảo mật nào?',
+      'options':['Bảo mật vật lý đối với thiết bị lưu trữ và truyền tải','Mã hóa dữ liệu cá nhân','Ẩn danh dữ liệu cá nhân','Tất cả các biện pháp trên'],'answer':3,
+      'spell':'Dữ liệu nhạy cảm đi đâu: khóa thiết bị, mã hóa, ẩn danh – đủ cả ba.',
+      'legal':'Khoản 2 Điều 7 Nghị định 356/2025/NĐ-CP; Điều 17 Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15'},
+}
+for i,e in EXTRA.items(): ov.setdefault(i,{}).update(e)
 json.dump(ov,open(R+'/tools/review_overrides.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
 json.dump(rep,open('/tmp/review_report.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
 print(len(rep),'flagged;',sum(1 for x in rep if x['new_legal']!=x['old_legal'] or x['new_sit']!=x['old_sit']),'changed;',sum(x['amb'] for x in rep),'ambiguous;',len([i for i in FIX if i not in ov]),'FIX unused',[i for i in FIX if i not in ov])
