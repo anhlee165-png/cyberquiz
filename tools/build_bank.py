@@ -50,6 +50,13 @@ for i,q in enumerate(qs,1):
     if v: q['image']=q['image'].replace('.svg',f'-{v}.svg')
 qs=[{'id':q.pop('id'),**q} for q in qs]
 assert len(qs)==600
+# Ý kiến tổ pháp chế (export/review-returned.xlsx) – xem tools/make_review_overrides.py
+import os
+OV=R+'/tools/review_overrides.json'
+if os.path.exists(OV):
+    ov=json.load(open(OV,encoding='utf-8'))
+    for q in qs:
+        q.update(ov.get(str(q['id']),{}))
 json.dump({'version':2,'updated':'2026-10-15','questions':qs},open(R+'/questions.json','w',encoding='utf-8'),ensure_ascii=False,indent=1)
 from collections import Counter
 print(len(qs),sorted(Counter(q['level'] for q in qs).items()),Counter(q['source'][:5] for q in qs),sorted(Counter((q['source'][:5],q['level']) for q in qs).items()))
