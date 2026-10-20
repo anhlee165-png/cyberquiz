@@ -57,7 +57,7 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
 .row{display:flex;gap:10px;flex-wrap:wrap}.row .btn{flex:1}
 </style></head><body>
 <nav class="homebar"><button class="homebtn" id="homeTop" aria-label="Về trang chủ">🏠 Về trang chủ</button><a href="admin/index.html">🔐 Quản trị</a></nav>
-<header><div class="eb">PHỔ BIẾN · TUYÊN TRUYỀN · PHÁP LUẬT</div><h1>Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><p>Luật An ninh mạng 2025 · Luật Bảo vệ dữ liệu cá nhân · Tình huống vui, dễ nhớ</p></header>
+<header><h1>Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1></header>
 <main class="wrap">
 <section id="vStart" class="card">
  <label for="name">🙋 Tên của bạn</label><input id="name" maxlength="60" placeholder="VD: Mèo Mít" autocomplete="nickname">
@@ -66,7 +66,6 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
  <p class="meta" id="lvNote" style="margin-top:10px"></p>
  <button class="btn full" id="go" style="margin-top:8px">Bắt đầu thử thách 🚀</button>
  <div class="row" style="margin-top:10px"><button class="btn ghost" id="histBtn">📜 Lịch sử của tôi</button></div>
- <p class="meta" style="margin-top:12px">Mỗi phiên 25 câu. Ba đáp án sai được viết cho “nghe cũng có lý”, nên đừng chọn câu dài nhất!</p>
 </section>
 <section id="vQuiz" class="hide">
  <div class="top"><span class="qno" id="qno">Câu 1/25</span><span id="who"></span><span>⏱️ <span id="timer">00:00</span></span></div>
@@ -87,7 +86,6 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
 </section>
 <section id="vHist" class="card hide"><h2 style="margin-top:0">📜 Lịch sử trên thiết bị này</h2><div id="histBox"></div>
  <div class="row" style="margin-top:12px"><button class="btn ghost" id="histBack">🏠 Về trang chủ</button><button class="btn ghost" id="histClear">🗑️ Xóa lịch sử</button></div></section>
-<div class="foot">Minh họa để tuyên truyền, không thay thế văn bản luật. Căn cứ: Luật An ninh mạng số 116/2025/QH15 (hiệu lực 01/7/2026), Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026), 7 nghị định ngày 19/8/2026 hướng dẫn Luật An ninh mạng, Cẩm nang “Kết nối không tổn thương” 2026.<br>Cần hỗ trợ trẻ em: gọi <b>111</b> · <a href="admin/index.html">Quản trị</a></div>
 </main><canvas id="fw" class="hide"></canvas><div id="congrats" class="congrats hide"></div>
 <script src="config.js"></script><script src="api.js"></script>
 <script>
@@ -97,7 +95,7 @@ const TI={"mật khẩu":"🔒","người lạ":"🕵️","quyền riêng tư":"
 const badge=l=>`<span class="lvb" style="background:${LV[l].c}">${LV[l].i} ${LV[l].n}</span>`;
 const lvOf=a=>a<=11?1:a<=15?2:a<=18?3:4;
 let ALL=[],S=null,tick=null;
-function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&","<":"<",">":">",'"':"""}[c]))}
 function show(v){["vStart","vQuiz","vEnd","vHist"].forEach(x=>$("#"+x).classList.toggle("hide",x!==v));scrollTo(0,0)}
 function renderLv(){const a=+$("#age").value,cur=a?lvOf(a):0;$("#levels").innerHTML=LV.slice(1).map((l,i)=>`<div class="lv ${cur===i+1?"on":""}"><span class="ic" style="background:${l.c}">${l.i}</span><div><b>${l.n}</b>${l.d}</div></div>`).join("");$("#lvNote").textContent=cur?`Bạn sẽ chơi bộ câu hỏi ${LV[cur].n}.`:""}
 $("#age").oninput=renderLv;
