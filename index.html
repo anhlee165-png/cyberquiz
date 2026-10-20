@@ -55,6 +55,12 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
 .congrats small{display:block;font-size:16px;color:var(--red);margin-top:4px}
 @keyframes pop{from{transform:translateX(-50%) scale(.3);opacity:0}to{transform:translateX(-50%) scale(1);opacity:1}}
 .row{display:flex;gap:10px;flex-wrap:wrap}.row .btn{flex:1}
+html,body{overflow-x:hidden}body{overflow-wrap:anywhere}img,canvas{max-width:100%}
+.homebtn{min-height:44px}.homebar a{display:inline-flex;align-items:center;min-height:44px;padding:0 6px}
+.opt{min-height:52px}#histBox{overflow-x:auto;-webkit-overflow-scrolling:touch}
+input{font-size:16px}
+@media(max-width:420px){.wrap{padding:10px 10px 32px}.card{padding:14px;border-radius:16px}.sit{font-size:17px}.opt{font-size:15px;padding:12px}.stats b{font-size:22px}.stats div{padding:10px 4px}.top{flex-wrap:wrap;font-size:14px}.lv{font-size:12px;padding:8px}.lv .ic{flex-basis:34px;height:34px;font-size:20px}.congrats{font-size:19px;padding:14px 16px}table{font-size:13px}td,th{padding:6px 4px}}
+@media(max-width:340px){.levels{grid-template-columns:1fr}}
 </style></head><body>
 <nav class="homebar"><button class="homebtn" id="homeTop" aria-label="Về trang chủ">🏠 Về trang chủ</button><a href="admin/index.html">🔐 Quản trị</a></nav>
 <header><h1>Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1></header>
@@ -95,7 +101,7 @@ const TI={"mật khẩu":"🔒","người lạ":"🕵️","quyền riêng tư":"
 const badge=l=>`<span class="lvb" style="background:${LV[l].c}">${LV[l].i} ${LV[l].n}</span>`;
 const lvOf=a=>a<=11?1:a<=15?2:a<=18?3:4;
 let ALL=[],S=null,tick=null;
-function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&","<":"<",">":">",'"':"""}[c]))}
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&"+"amp;","<":"&"+"lt;",">":"&"+"gt;",'"':"&"+"quot;"}[c]))}
 function show(v){["vStart","vQuiz","vEnd","vHist"].forEach(x=>$("#"+x).classList.toggle("hide",x!==v));scrollTo(0,0)}
 function renderLv(){const a=+$("#age").value,cur=a?lvOf(a):0;$("#levels").innerHTML=LV.slice(1).map((l,i)=>`<div class="lv ${cur===i+1?"on":""}"><span class="ic" style="background:${l.c}">${l.i}</span><div><b>${l.n}</b>${l.d}</div></div>`).join("");$("#lvNote").textContent=cur?`Bạn sẽ chơi bộ câu hỏi ${LV[cur].n}.`:""}
 $("#age").oninput=renderLv;

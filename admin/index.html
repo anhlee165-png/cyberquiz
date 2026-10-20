@@ -18,8 +18,9 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
 .thumb{width:72px;height:44px;object-fit:contain;background:#f3f6fc;border-radius:6px}
 .row{display:flex;gap:8px;flex-wrap:wrap;align-items:end}.row>*{flex:1;min-width:140px}
 .dirty{color:#b45309;font-weight:700}
+html,body{overflow-x:hidden}@media(max-width:600px){table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}input,select,textarea{font-size:16px;max-width:100%}button{min-height:44px}}
 </style></head><body>
-<header><a href="../index.html" style="display:inline-block;background:#f6c343;color:#0b2a6f;font-weight:900;padding:8px 16px;border-radius:999px;text-decoration:none;margin-bottom:8px">🏠 Về trang chủ</a><h1>🛡️ Quản trị · Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><div class="tabs hide" id="tabs">
+<header><a href="../index.html" style="display:inline-block;background:#f6c343;color:#0b2a6f;font-weight:900;padding:11px 16px;border-radius:999px;text-decoration:none;margin-bottom:8px;min-height:44px">🏠 Về trang chủ</a><h1>🛡️ Quản trị · Phổ biến, tuyên truyền pháp luật về An ninh mạng</h1><div class="tabs hide" id="tabs">
 <button class="btn on" data-t="q">📝 Câu hỏi</button><button class="btn" data-t="st">📊 Thống kê</button><button class="btn" data-t="io">📦 Nhập/Xuất</button><button class="btn" data-t="ad">👥 Tài khoản</button><button class="btn g s" id="logout">🚪 Đăng xuất</button></div></header>
 <div class="wrap">
 <section class="card" id="login"><h2 style="margin-top:0">🔐 Đăng nhập quản trị</h2>
@@ -44,7 +45,7 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{padding:7px 6px;b
 <script src="../config.js"></script><script src="../api.js"></script>
 <script>
 const $=s=>document.querySelector(s),C=CQ.C,SB=CQ.on;let Q=[],DIRTY=false,AUTH=null,STATS={},EDIT=null,SHA=null;
-const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&"+"amp;","<":"&"+"lt;",">":"&"+"gt;",'"':"&"+"quot;"}[c]));
 const msg=(el,t,ok)=>{$(el).innerHTML=t?`<div class="msg ${ok?"ok":"err"}">${esc(t)}</div>`:""};
 $("#repoName").textContent=C.GITHUB_OWNER+"/"+C.GITHUB_REPO;
 $("#loginSb").classList.toggle("hide",!SB);$("#loginGh").classList.toggle("hide",SB);
